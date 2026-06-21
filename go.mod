@@ -1,4 +1,4 @@
-module github.com/This-HW/hw_insight
+module github.com/thishw/hw_insight
 
 go 1.26.4
 
