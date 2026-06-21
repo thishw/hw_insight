@@ -1,0 +1,5 @@
+module github.com/This-HW/hw_insight
+
+go 1.26.4
+
+require github.com/thishw/synapse-hugo-shared v0.0.0-20260621154912-1095233ee786 // indirect
