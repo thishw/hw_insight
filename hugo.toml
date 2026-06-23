@@ -2,6 +2,20 @@ baseURL = "https://example.com/"
 title = "hw_insight"
 defaultContentLanguage = "ko"
 
+[taxonomies]
+  category = "categories"
+  tag      = "tags"
+
+[[menu.main]]
+  name   = "홈"
+  url    = "/"
+  weight = 1
+
+[[menu.main]]
+  name   = "글"
+  url    = "/posts/"
+  weight = 2
+
 [markup.goldmark.renderer]
   unsafe = true
 
