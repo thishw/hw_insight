@@ -2,6 +2,20 @@ baseURL = "https://thishw.github.io/hw_insight/"
 title = "hw_insight"
 defaultContentLanguage = "ko"
 
+[params]
+  site_key       = "hw_insight"
+  tier           = "A"
+  description    = "사고를 구조로, 구조를 발행으로 — 지식 인사이트"
+  og_site_name   = "HW Insight"
+  og_locale      = "ko_KR"
+  og_image       = ""
+  gtm_id         = ""
+  verify_google  = ""
+  verify_naver   = ""
+  verify_bing    = ""
+  adsense_pub_id = ""
+  daum_verification = ""
+
 [taxonomies]
   category = "categories"
   tag      = "tags"
