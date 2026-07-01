@@ -1,4 +1,4 @@
-baseURL = "https://thishw.github.io/hw_insight/"
+baseURL = "https://insight.thishw.com/"
 title = "hw_insight"
 defaultContentLanguage = "ko"
 enableRobotsTXT = true
