@@ -23,7 +23,6 @@ enableRobotsTXT = true
 
 [taxonomies]
   category = "categories"
-  tag      = "tags"
 
 [[menu.main]]
   name   = "홈"
@@ -31,34 +30,19 @@ enableRobotsTXT = true
   weight = 1
 
 [[menu.main]]
-  name   = "글"
-  url    = "/posts/"
+  name   = "테크"
+  url    = "/categories/테크/"
   weight = 2
-
-[[menu.main]]
-  name   = "AI"
-  url    = "/categories/ai/"
-  weight = 3
-
-[[menu.main]]
-  name   = "개발"
-  url    = "/categories/개발/"
-  weight = 4
 
 [[menu.main]]
   name   = "투자"
   url    = "/categories/투자/"
-  weight = 5
+  weight = 3
 
 [[menu.main]]
-  name   = "지식시스템"
-  url    = "/categories/지식시스템/"
-  weight = 6
-
-[[menu.main]]
-  name   = "전략"
-  url    = "/categories/전략/"
-  weight = 7
+  name   = "생각"
+  url    = "/categories/생각/"
+  weight = 4
 
 [markup.goldmark.renderer]
   unsafe = true

@@ -5,7 +5,7 @@ draft: false
 description: "AI 에이전트 성능을 결정하는 것은 모델 크기가 아닌 하네스 설계다. 'Agent = Model + Harness' 공식과 하네스 엔지니어링이 AI 개발의 새로운 무게중심이 된 이유를 분석한다."
 slug: "harness-engineering-era"
 keywords: ["하네스 엔지니어링", "에이전트 AI", "컨텍스트 엔지니어링", "AI 에이전트 설계", "루프 엔지니어링", "에이전틱 AI", "AI 개발 패러다임", "Agent Model Harness", "spec-driven 개발", "에이전트 검증"]
-categories: ["AI", "개발"]
+categories: ["테크"]
 ---
 
 요즘 AI 엔지니어링 자료를 정리하다 보면 한 가지 흐름이 계속 눈에 걸린다.
