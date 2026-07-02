@@ -1,5 +1,5 @@
 baseURL = "https://insight.thishw.com/"
-title = "hw_insight"
+title = "HW Insight"
 defaultContentLanguage = "ko"
 enableRobotsTXT = true
 

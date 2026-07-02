@@ -1,4 +1,4 @@
 ---
-title: "Posts"
-description: "Synapse가 생성한 글 목록"
+title: "글"
+description: "HW가 쓴 글 전체 목록"
 ---
