@@ -2,4 +2,4 @@ module github.com/thishw/hw_insight
 
 go 1.26.4
 
-require github.com/thishw/synapse-hugo-shared v0.0.0-20260702155633-6da7f9588a08 // indirect
+require github.com/thishw/synapse-hugo-shared v0.0.0-20260703052920-2ab6aa9133ac // indirect
