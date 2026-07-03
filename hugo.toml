@@ -1,7 +1,20 @@
 baseURL = "https://insight.thishw.com/"
 title = "HW Insight"
 defaultContentLanguage = "ko"
+# ko는 접미사 없이 루트에 그대로 유지(/posts/...), en만 /en/ 프리픽스가 붙는다 —
+# 기존 한국어 URL을 안 바꿔서 기존 SEO 점수/백링크를 그대로 보존한다.
+defaultContentLanguageInSubdir = false
 enableRobotsTXT = true
+
+# 콘텐츠는 파일명 접미사로 번역쌍을 묶는다(date-slug.md=ko, date-slug.en.md=en) —
+# src/output/static_site.py::hugo_page_path()가 이 규칙에 맞춰 발행한다.
+[languages]
+  [languages.ko]
+    label = "한국어"
+    weight = 1
+  [languages.en]
+    label = "English"
+    weight = 2
 
 # 홈에서 검색 색인(index.json) 생성 — 공통 Module의 클라이언트 검색이 사용
 [outputs]

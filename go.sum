@@ -14,3 +14,5 @@ github.com/thishw/synapse-hugo-shared v0.0.0-20260702155633-6da7f9588a08 h1:JFGk
 github.com/thishw/synapse-hugo-shared v0.0.0-20260702155633-6da7f9588a08/go.mod h1:3NRuKE6T3so8tEh/Vv5XEWuoQ3rNGF5QJY1x53wmVME=
 github.com/thishw/synapse-hugo-shared v0.0.0-20260703052920-2ab6aa9133ac h1:xrdZV5hOMv0/LtJvtUcskGM9t2MuloK38XuxlZknpCI=
 github.com/thishw/synapse-hugo-shared v0.0.0-20260703052920-2ab6aa9133ac/go.mod h1:3NRuKE6T3so8tEh/Vv5XEWuoQ3rNGF5QJY1x53wmVME=
+github.com/thishw/synapse-hugo-shared v0.0.0-20260703061040-ab66a040fba5 h1:on0WwiYKZ5DsWj/9P12xh3a2U5PdC3IwojHwhEu7Wi4=
+github.com/thishw/synapse-hugo-shared v0.0.0-20260703061040-ab66a040fba5/go.mod h1:3NRuKE6T3so8tEh/Vv5XEWuoQ3rNGF5QJY1x53wmVME=
