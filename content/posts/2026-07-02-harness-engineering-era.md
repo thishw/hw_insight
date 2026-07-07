@@ -188,13 +188,16 @@ Spec-driven 개발은 에이전트에게 바로 일을 시키는 대신, 먼저 
 
 ---
 
-## 참고 자료
-
-- [Harness engineering: leveraging Codex in an agent-first world](https://openai.com/index/harness-engineering/) — OpenAI, 2026-02
-- [Effective harnesses for long-running agents](https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents) — Anthropic Engineering
-- [Harness engineering for coding agent users](https://martinfowler.com/articles/harness-engineering.html) — Birgitta Böckeler, martinfowler.com
-- [Agentic Harness Engineering: Observability-Driven Automatic Evolution of Coding-Agent Harnesses](https://arxiv.org/abs/2604.25850) — arXiv:2604.25850
-- [Ralph Wiggum as a "software engineer"](https://ghuntley.com/ralph/) — Geoffrey Huntley
-- [My AI Adoption Journey](https://mitchellh.com/writing/my-ai-adoption-journey) — Mitchell Hashimoto
-- [github/spec-kit](https://github.com/github/spec-kit) — GitHub 공식 Spec-Driven Development 툴킷
-- [Andrej Karpathy — context engineering](https://x.com/karpathy/status/1937902205765607626) — X(Twitter), 2025-06
+<details class="sources">
+<summary>참고 자료 (8) — OpenAI · Anthropic Engineering · martinfowler.com · arXiv · Geoffrey Huntley · Mitchell Hashimoto · GitHub · X(Twitter)</summary>
+<ul>
+<li><a href="https://openai.com/index/harness-engineering/">Harness engineering: leveraging Codex in an agent-first world</a> — OpenAI, 2026-02</li>
+<li><a href="https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents">Effective harnesses for long-running agents</a> — Anthropic Engineering</li>
+<li><a href="https://martinfowler.com/articles/harness-engineering.html">Harness engineering for coding agent users</a> — Birgitta Böckeler, martinfowler.com</li>
+<li><a href="https://arxiv.org/abs/2604.25850">Agentic Harness Engineering: Observability-Driven Automatic Evolution of Coding-Agent Harnesses</a> — arXiv:2604.25850</li>
+<li><a href="https://ghuntley.com/ralph/">Ralph Wiggum as a "software engineer"</a> — Geoffrey Huntley</li>
+<li><a href="https://mitchellh.com/writing/my-ai-adoption-journey">My AI Adoption Journey</a> — Mitchell Hashimoto</li>
+<li><a href="https://github.com/github/spec-kit">github/spec-kit</a> — GitHub 공식 Spec-Driven Development 툴킷</li>
+<li><a href="https://x.com/karpathy/status/1937902205765607626">Andrej Karpathy — context engineering</a> — X(Twitter), 2025-06</li>
+</ul>
+</details>
