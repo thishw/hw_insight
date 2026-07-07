@@ -190,7 +190,7 @@ Fable이 보여준 건 두 가지다. 하나는 **AI가 이제 서비스·프로
 *이 글은 공개된 앤트로픽 공식 자료와 언론·개발자 커뮤니티 리서치를 바탕으로 정리한 개인적 관점이며, 특정 제품·종목에 대한 투자나 구매 권유가 아닙니다. 인용한 가격·정책은 조사 시점(2026년 6~7월) 기준이며 변동될 수 있으니 원문 출처를 함께 확인하시길 권합니다. 특히 Fable 5의 구독 포함 여부는 "용량이 허락하는 대로" 바뀔 수 있는 유동적 사안입니다.*
 
 <details class="sources">
-<summary>참고 자료 (12) — Anthropic · Claude Platform Docs · VentureBeat · Crypto Briefing · ClaudeAINews · briefs.co · rafay99 · Threads · Claude(X) · TechTimes · BleepingComputer · PCWorld · the-decoder · DeepSeek Docs</summary>
+<summary>참고 자료 (14) — Anthropic · Claude Platform Docs · VentureBeat · Crypto Briefing · ClaudeAINews · briefs.co · rafay99 · Threads · Claude(X) · TechTimes · BleepingComputer · PCWorld · the-decoder · DeepSeek Docs</summary>
 <ul>
 <li><a href="https://www.anthropic.com/news/claude-fable-5-mythos-5">Claude Fable 5 and Claude Mythos 5 발표</a> — Anthropic</li>
 <li><a href="https://platform.claude.com/docs/en/about-claude/pricing">Claude 모델 가격 ($10/$50 per 1M — Fable 5)</a> — Claude Platform Docs</li>
