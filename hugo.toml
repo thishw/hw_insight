@@ -67,6 +67,22 @@ enableRobotsTXT = true
 [markup.goldmark.renderer]
   unsafe = true
 
+# 관련 글 자동 추천 — keywords/categories 기반으로 매 빌드마다 재계산된다.
+# 새 글을 올리면 전체 재빌드 과정에서 관련 옛 글에도 자동 반영(옛 글 수정 불필요).
+[related]
+  threshold = 20
+  includeNewer = true
+  toLower = false
+  [[related.indices]]
+    name = "keywords"
+    weight = 100
+  [[related.indices]]
+    name = "categories"
+    weight = 50
+  [[related.indices]]
+    name = "date"
+    weight = 10
+
 [module]
   [[module.imports]]
     path = "github.com/thishw/synapse-hugo-shared"
