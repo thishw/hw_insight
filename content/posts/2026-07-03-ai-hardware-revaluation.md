@@ -180,30 +180,33 @@ flowchart LR
 
 *이 글은 공개된 산업 리서치와 1차 자료를 바탕으로 정리한 개인적 분석이며, 특정 종목의 투자 권유가 아닙니다. 인용한 시장 전망치는 조사기관·정의에 따라 편차가 크므로, 원문 출처를 함께 확인하시길 권합니다.*
 
-## 참고 문헌
-
-- SK hynix Newsroom, *2026 Market Outlook: HBM-led Memory Supercycle* — https://news.skhynix.com/2026-market-outlook-focus-on-the-hbm-led-memory-supercycle/
-- IDC, *반도체 시장 1조 달러 돌파 전망(AI 슈퍼사이클)* — https://www.idc.com/resource-center/blog/semiconductor-market-to-surge-past-the-trillion-dollar-threshold-ai-infrastructure-drives-market-growth/
-- TrendForce, *Memory Wall: AI Compute Sparks Memory Supercycle* — https://www.trendforce.com/insights/memory-wall
-- SemiAnalysis, *AI Server Cost Analysis — Memory Is The Biggest Loser* — https://newsletter.semianalysis.com/p/ai-server-cost-analysis-memory-is
-- NVIDIA, *GB200 NVL72* — https://www.nvidia.com/en-us/data-center/gb200-nvl72/
-- Deloitte, *TMT Predictions 2025 (Gen AI on devices)* — https://www.deloitte.com/us/en/insights/industry/technology/technology-media-and-telecom-predictions/2025/gen-ai-on-smartphones.html
-- IDC, *Global DataSphere Forecast 2025–2029* — https://my.idc.com/getdoc.jsp?containerId=US53363625
-- NVIDIA, *CMX Context Memory Storage* — https://www.nvidia.com/en-us/data-center/ai-storage/cmx/
-- Grand View Research, *Vector Database Market* — https://www.grandviewresearch.com/industry-analysis/vector-database-market-report
-- Qualcomm, *The Future of AI is Hybrid (백서)* — https://www.qualcomm.com/content/dam/qcomm-martech/dm-assets/documents/Whitepaper-The-future-of-AI-is-hybrid-Part-1-Unlocking-the-generative-AI-future-with-on-device-and-hybrid-AI.pdf
-- Microsoft, *Copilot+ PC 요구 사양* — https://www.microsoft.com/en-us/windows/learning-center/copilot-plus-pcs-windows-pcs-differences
-- Macworld, *Apple Intelligence와 16GB 기본 램* — https://www.macworld.com/article/2441215/apple-intelligence-forces-apple-to-finally-give-us-what-we-want-more-ram.html
-- Counterpoint Research, *생성형 AI 스마트폰 10억 대(2024–2027)* — https://counterpointresearch.com/en/insights/over-1-billion-generative-ai-smartphones-to-be-shipped-cumulatively-during-cy-2024-2027
-- Micron, *Cars Need More Memory Than a Rocket* — https://www.micron.com/about/blog/applications/automotive/new-research-shows-cars-need-more-memory-than-a-rocket
-- TrendForce, *Micron: 자율주행차 300GB DRAM 전망* — https://www.trendforce.com/news/2026/03/23/news-micron-reportedly-expects-future-autonomous-cars-to-require-300gb-dram-cautious-on-hbf-outlook
-- MarketsandMarkets, *Automotive Semiconductor Market* — https://www.marketsandmarkets.com/Market-Reports/automotive-semiconductor-195.html
-- IoT Analytics, *Number of Connected IoT Devices* — https://iot-analytics.com/number-connected-iot-devices
-- Counterpoint Research, *AI-embedded 모듈 25%(2030)* — https://counterpointresearch.com/en/insights/ai-embedded-cellular-modules-to-cross-25-of-all-iot-module-shipments-by-2030
-- Goldman Sachs, *Humanoid Robots $38B by 2035* — https://www.goldmansachs.com/insights/articles/the-global-market-for-robots-could-reach-38-billion-by-2035
-- Citi GPS, *The Rise of AI Robots* — https://www.citifirst.com.hk/home/upload/citi_research/rsch_pdf_30297368.pdf
-- NVIDIA, *COMPUTEX 2025 Keynote (Jensen Huang)* — https://blogs.nvidia.com/blog/computex-2025-jensen-huang
-- Stanford HAI, *AI Index 2025 — State of AI in 10 Charts* — https://hai.stanford.edu/news/ai-index-2025-state-of-ai-in-10-charts
-- Microsoft, *Phi-3 Technical Report (arXiv 2404.14219)* — https://arxiv.org/pdf/2404.14219
-- Meta, *Introducing Llama 3* — https://ai.meta.com/blog/meta-llama-3/
-- Epoch AI, *Algorithmic Progress in Language Models* — https://epoch.ai/blog/algorithmic-progress-in-language-models
+<details class="sources">
+<summary>참고 자료 (25) — SK hynix Newsroom · IDC · TrendForce · SemiAnalysis · NVIDIA · Deloitte · Grand View Research · Qualcomm · Microsoft · Macworld · Counterpoint Research · Micron · MarketsandMarkets · IoT Analytics · Goldman Sachs · Citi GPS · Stanford HAI · Meta · Epoch AI</summary>
+<ul>
+<li><a href="https://news.skhynix.com/2026-market-outlook-focus-on-the-hbm-led-memory-supercycle/">2026 Market Outlook: HBM-led Memory Supercycle</a> — SK hynix Newsroom</li>
+<li><a href="https://www.idc.com/resource-center/blog/semiconductor-market-to-surge-past-the-trillion-dollar-threshold-ai-infrastructure-drives-market-growth/">반도체 시장 1조 달러 돌파 전망(AI 슈퍼사이클)</a> — IDC</li>
+<li><a href="https://www.trendforce.com/insights/memory-wall">Memory Wall: AI Compute Sparks Memory Supercycle</a> — TrendForce</li>
+<li><a href="https://newsletter.semianalysis.com/p/ai-server-cost-analysis-memory-is">AI Server Cost Analysis — Memory Is The Biggest Loser</a> — SemiAnalysis</li>
+<li><a href="https://www.nvidia.com/en-us/data-center/gb200-nvl72/">GB200 NVL72</a> — NVIDIA</li>
+<li><a href="https://www.deloitte.com/us/en/insights/industry/technology/technology-media-and-telecom-predictions/2025/gen-ai-on-smartphones.html">TMT Predictions 2025 (Gen AI on devices)</a> — Deloitte</li>
+<li><a href="https://my.idc.com/getdoc.jsp?containerId=US53363625">Global DataSphere Forecast 2025–2029</a> — IDC</li>
+<li><a href="https://www.nvidia.com/en-us/data-center/ai-storage/cmx/">CMX Context Memory Storage</a> — NVIDIA</li>
+<li><a href="https://www.grandviewresearch.com/industry-analysis/vector-database-market-report">Vector Database Market</a> — Grand View Research</li>
+<li><a href="https://www.qualcomm.com/content/dam/qcomm-martech/dm-assets/documents/Whitepaper-The-future-of-AI-is-hybrid-Part-1-Unlocking-the-generative-AI-future-with-on-device-and-hybrid-AI.pdf">The Future of AI is Hybrid (백서)</a> — Qualcomm</li>
+<li><a href="https://www.microsoft.com/en-us/windows/learning-center/copilot-plus-pcs-windows-pcs-differences">Copilot+ PC 요구 사양</a> — Microsoft</li>
+<li><a href="https://www.macworld.com/article/2441215/apple-intelligence-forces-apple-to-finally-give-us-what-we-want-more-ram.html">Apple Intelligence와 16GB 기본 램</a> — Macworld</li>
+<li><a href="https://counterpointresearch.com/en/insights/over-1-billion-generative-ai-smartphones-to-be-shipped-cumulatively-during-cy-2024-2027">생성형 AI 스마트폰 10억 대(2024–2027)</a> — Counterpoint Research</li>
+<li><a href="https://www.micron.com/about/blog/applications/automotive/new-research-shows-cars-need-more-memory-than-a-rocket">Cars Need More Memory Than a Rocket</a> — Micron</li>
+<li><a href="https://www.trendforce.com/news/2026/03/23/news-micron-reportedly-expects-future-autonomous-cars-to-require-300gb-dram-cautious-on-hbf-outlook">Micron: 자율주행차 300GB DRAM 전망</a> — TrendForce</li>
+<li><a href="https://www.marketsandmarkets.com/Market-Reports/automotive-semiconductor-195.html">Automotive Semiconductor Market</a> — MarketsandMarkets</li>
+<li><a href="https://iot-analytics.com/number-connected-iot-devices">Number of Connected IoT Devices</a> — IoT Analytics</li>
+<li><a href="https://counterpointresearch.com/en/insights/ai-embedded-cellular-modules-to-cross-25-of-all-iot-module-shipments-by-2030">AI-embedded 모듈 25%(2030)</a> — Counterpoint Research</li>
+<li><a href="https://www.goldmansachs.com/insights/articles/the-global-market-for-robots-could-reach-38-billion-by-2035">Humanoid Robots $38B by 2035</a> — Goldman Sachs</li>
+<li><a href="https://www.citifirst.com.hk/home/upload/citi_research/rsch_pdf_30297368.pdf">The Rise of AI Robots</a> — Citi GPS</li>
+<li><a href="https://blogs.nvidia.com/blog/computex-2025-jensen-huang">COMPUTEX 2025 Keynote (Jensen Huang)</a> — NVIDIA</li>
+<li><a href="https://hai.stanford.edu/news/ai-index-2025-state-of-ai-in-10-charts">AI Index 2025 — State of AI in 10 Charts</a> — Stanford HAI</li>
+<li><a href="https://arxiv.org/pdf/2404.14219">Phi-3 Technical Report (arXiv 2404.14219)</a> — Microsoft</li>
+<li><a href="https://ai.meta.com/blog/meta-llama-3/">Introducing Llama 3</a> — Meta</li>
+<li><a href="https://epoch.ai/blog/algorithmic-progress-in-language-models">Algorithmic Progress in Language Models</a> — Epoch AI</li>
+</ul>
+</details>

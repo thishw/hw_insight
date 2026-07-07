@@ -193,25 +193,28 @@ flowchart TD
 
 *이 글은 공개된 정부 자료와 언론·시장 리서치를 바탕으로 정리한 개인적 분석이며, 특정 정책·기업·종목에 대한 투자 권유가 아닙니다. 인용한 수치는 조사 시점(대부분 2025~2026년)과 기관·정의에 따라 편차가 있으니 원문 출처를 함께 확인하시길 권합니다. 특히 5조 원 추경 등 일부 정책은 확정이 아닌 추진 단계입니다.*
 
-## 참고 자료
-
-- 한국경제, *달러유출 통로 된 플랫폼 구독료…생성AI 포함땐 디지털 적자 눈덩이* — https://www.hankyung.com/article/2025120786891
-- 한국경제, *생성 AI 구독료와 디지털 서비스수지 적자(한국은행 국제수지)* — https://www.hankyung.com/article/2025120786971
-- 더프리뷰, *챗GPT 한국 다운로드 21위인데 매출 세계 2위(센서타워)* — https://www.thepreview.co.kr/news/articleView.html?idxno=99663
-- ZDNet Korea, *챗GPT 국내 월 이용자 2,125만 명 돌파* — https://zdnet.co.kr/view/?no=20251112172528
-- SBS, *지식서비스 무역적자 102.5억 달러, 12년 만 최대(한국은행)* — https://news.sbs.co.kr/news/endPage.do?news_id=N1008484080
-- 테크데일리, *2025년 경상수지 1,230.5억 달러 역대 최대·서비스수지 구조적 적자* — https://www.techdaily.co.kr/news/articleView.html?idxno=27721
-- 뉴데일리, *2024년 평균 원·달러 환율 1,420원 역대 최고* — https://biz.newdaily.co.kr/site/data/html/2025/12/28/2025122800014.html
-- Trading Economics, *USD/KRW 시세* — https://ko.tradingeconomics.com/south-korea/currency
-- 대한민국 정책브리핑, *딥시크 관련 추진상황 및 향후 대응방향* — https://www.korea.kr/briefing/policyBriefingView.do?newsId=156673380
-- 뉴시스, *개인정보 무단 국외이전한 딥시크…정부 '즉각 파기' 권고* — https://www.newsis.com/view/NISX20250424_0003153087
-- AI타임스, *신규 다운로드 금지된 딥시크, 여전히 사용량 5위권* — https://www.aitimes.com/news/articleView.html?idxno=168729
-- 삼일PwC경영연구원, *K-반도체, AI에서 찾는 도약 기회(AI 반도체 리포트)* — https://www.pwc.com/kr/ko/insights/industry-focus/samilpwc_ai-semiconductor.pdf
-- Astute Group, *SK hynix Holds 62% of HBM Market* — https://www.astutegroup.com/news/general/sk-hynix-holds-62-of-hbm-micron-overtakes-samsung-2026-battle-pivots-to-hbm4/
-- 블로터, *국산 NPU 리벨리온·퓨리오사·사피온, 엔비디아 GPU 어떻게 잡을까* — https://www.bloter.net/news/articleView.html?idxno=603055
-- 아시아경제, *국산 NPU, 구호에서 실물로…AI반도체 판이 바뀐다* — https://view.asiae.co.kr/article/2026062915173519601
-- 뉴시스, *리벨리온·퓨리오사AI 등 K-반도체 글로벌 잭팟* — https://www.newsis.com/view/NISX20260617_0003672407
-- korea.kr, *독자 AI 파운데이션 모델 사업 단계평가 결과* — https://www.korea.kr/briefing/policyBriefingView.do?newsId=156745273
-- 한국경제, *초과세수 5조 투입…소버린 AI 개발한다* — https://www.hankyung.com/article/2026070228011
-- ZDNet Korea, *2026년 국가 GPU 확충 예산 2조 805억 원* — https://zdnet.co.kr/view/?no=20260312182846
-- 이코노미조선, *NIPA AI 예산 3조 1,000억 원으로 약 4배 증액* — https://economychosun.com/site/data/html_dir/2026/05/09/2026050900015.html
+<details class="sources">
+<summary>참고 자료 (20) — 한국경제 · 더프리뷰 · ZDNet Korea · SBS · 테크데일리 · 뉴데일리 · Trading Economics · 대한민국 정책브리핑 · 뉴시스 · AI타임스 · 삼일PwC경영연구원 · Astute Group · 블로터 · 아시아경제 · korea.kr · 이코노미조선</summary>
+<ul>
+<li><a href="https://www.hankyung.com/article/2025120786891">달러유출 통로 된 플랫폼 구독료…생성AI 포함땐 디지털 적자 눈덩이</a> — 한국경제</li>
+<li><a href="https://www.hankyung.com/article/2025120786971">생성 AI 구독료와 디지털 서비스수지 적자(한국은행 국제수지)</a> — 한국경제</li>
+<li><a href="https://www.thepreview.co.kr/news/articleView.html?idxno=99663">챗GPT 한국 다운로드 21위인데 매출 세계 2위(센서타워)</a> — 더프리뷰</li>
+<li><a href="https://zdnet.co.kr/view/?no=20251112172528">챗GPT 국내 월 이용자 2,125만 명 돌파</a> — ZDNet Korea</li>
+<li><a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1008484080">지식서비스 무역적자 102.5억 달러, 12년 만 최대(한국은행)</a> — SBS</li>
+<li><a href="https://www.techdaily.co.kr/news/articleView.html?idxno=27721">2025년 경상수지 1,230.5억 달러 역대 최대·서비스수지 구조적 적자</a> — 테크데일리</li>
+<li><a href="https://biz.newdaily.co.kr/site/data/html/2025/12/28/2025122800014.html">2024년 평균 원·달러 환율 1,420원 역대 최고</a> — 뉴데일리</li>
+<li><a href="https://ko.tradingeconomics.com/south-korea/currency">USD/KRW 시세</a> — Trading Economics</li>
+<li><a href="https://www.korea.kr/briefing/policyBriefingView.do?newsId=156673380">딥시크 관련 추진상황 및 향후 대응방향</a> — 대한민국 정책브리핑</li>
+<li><a href="https://www.newsis.com/view/NISX20250424_0003153087">개인정보 무단 국외이전한 딥시크…정부 '즉각 파기' 권고</a> — 뉴시스</li>
+<li><a href="https://www.aitimes.com/news/articleView.html?idxno=168729">신규 다운로드 금지된 딥시크, 여전히 사용량 5위권</a> — AI타임스</li>
+<li><a href="https://www.pwc.com/kr/ko/insights/industry-focus/samilpwc_ai-semiconductor.pdf">K-반도체, AI에서 찾는 도약 기회(AI 반도체 리포트)</a> — 삼일PwC경영연구원</li>
+<li><a href="https://www.astutegroup.com/news/general/sk-hynix-holds-62-of-hbm-micron-overtakes-samsung-2026-battle-pivots-to-hbm4/">SK hynix Holds 62% of HBM Market</a> — Astute Group</li>
+<li><a href="https://www.bloter.net/news/articleView.html?idxno=603055">국산 NPU 리벨리온·퓨리오사·사피온, 엔비디아 GPU 어떻게 잡을까</a> — 블로터</li>
+<li><a href="https://view.asiae.co.kr/article/2026062915173519601">국산 NPU, 구호에서 실물로…AI반도체 판이 바뀐다</a> — 아시아경제</li>
+<li><a href="https://www.newsis.com/view/NISX20260617_0003672407">리벨리온·퓨리오사AI 등 K-반도체 글로벌 잭팟</a> — 뉴시스</li>
+<li><a href="https://www.korea.kr/briefing/policyBriefingView.do?newsId=156745273">독자 AI 파운데이션 모델 사업 단계평가 결과</a> — korea.kr</li>
+<li><a href="https://www.hankyung.com/article/2026070228011">초과세수 5조 투입…소버린 AI 개발한다</a> — 한국경제</li>
+<li><a href="https://zdnet.co.kr/view/?no=20260312182846">2026년 국가 GPU 확충 예산 2조 805억 원</a> — ZDNet Korea</li>
+<li><a href="https://economychosun.com/site/data/html_dir/2026/05/09/2026050900015.html">NIPA AI 예산 3조 1,000억 원으로 약 4배 증액</a> — 이코노미조선</li>
+</ul>
+</details>
