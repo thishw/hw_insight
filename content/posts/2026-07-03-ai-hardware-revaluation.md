@@ -108,13 +108,50 @@ NVIDIA의 젠슨 황이 이 국면을 한 문장으로 요약했다.
 
 비용 곡선은 더 극적이다. GPT-3.5 수준의 성능을 내는 데 드는 값이 2022년 11월 100만 토큰당 20달러에서 2024년 10월 0.07달러로 떨어졌다 — **약 18개월 만에 280배**다(위 Stanford HAI 자료).
 
-```mermaid
-xychart-beta
-    title "GPT-3.5급 성능 비용 (100만 토큰당, 달러)"
-    x-axis ["2022.11", "2024.10"]
-    y-axis "USD" 0 --> 20
-    bar [20, 0.07]
-```
+<svg viewBox="0 0 720 452" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="GPT-3.5급 성능을 내는 최저가 추이. 2022년 11월 100만 토큰당 20달러에서 2024년 10월 0.07달러로 약 280배 하락. 로그 눈금." style="width:100%;height:auto;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Apple SD Gothic Neo','Noto Sans KR',sans-serif;max-width:720px;display:block;margin:0 auto">
+<desc>실측 데이터: Epoch AI, MMLU 64.8% 프런티어를 넘는 최저가 모델. 엔드포인트는 Stanford HAI AI Index 2025.</desc>
+<text x="56.0" y="26" font-size="14.5" font-weight="700" fill="#1a1a1a">GPT-3.5급 성능을 내는 최저가 <tspan fill="#666" font-weight="400">(100만 토큰당)</tspan></text>
+<rect x="66" y="56" width="538" height="318" fill="#f6f9fd" rx="4"/>
+<line x1="66.0" y1="72.3" x2="604.0" y2="72.3" stroke="#e8e8e8" stroke-width="1" stroke-dasharray="2 3"/>
+<text x="56.0" y="76.3" text-anchor="end" font-size="12" fill="#666">$20</text>
+<line x1="66.0" y1="107.3" x2="604.0" y2="107.3" stroke="#e8e8e8" stroke-width="1"/>
+<text x="56.0" y="111.3" text-anchor="end" font-size="12" fill="#666">$10</text>
+<line x1="66.0" y1="223.5" x2="604.0" y2="223.5" stroke="#e8e8e8" stroke-width="1"/>
+<text x="56.0" y="227.5" text-anchor="end" font-size="12" fill="#666">$1</text>
+<line x1="66.0" y1="339.7" x2="604.0" y2="339.7" stroke="#e8e8e8" stroke-width="1"/>
+<text x="56.0" y="343.7" text-anchor="end" font-size="12" fill="#666">$0.10</text>
+<line x1="66.0" y1="357.7" x2="604.0" y2="357.7" stroke="#e8e8e8" stroke-width="1" stroke-dasharray="2 3"/>
+<text x="56.0" y="361.7" text-anchor="end" font-size="12" fill="#666">$0.07</text>
+<text x="56.0" y="42.0" text-anchor="end" font-size="11" fill="#999">USD · 로그</text>
+<path d="M 66.0 72.3 L 142.7 188.5 L 338.6 238.0 L 433.7 258.5 L 487.3 326.5 L 546.4 339.7 L 604.0 357.7" fill="none" stroke="#0066cc" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="66.0" y="394.0" text-anchor="middle" font-size="10.5" fill="#999">'22.11</text>
+<text x="142.7" y="394.0" text-anchor="middle" font-size="10.5" fill="#999">'23.03</text>
+<text x="338.6" y="394.0" text-anchor="middle" font-size="10.5" fill="#999">'23.11</text>
+<text x="433.7" y="394.0" text-anchor="middle" font-size="10.5" fill="#999">'24.03</text>
+<text x="487.3" y="394.0" text-anchor="middle" font-size="10.5" fill="#999">'24.05</text>
+<text x="546.4" y="394.0" text-anchor="middle" font-size="10.5" fill="#999">'24.07</text>
+<text x="604.0" y="394.0" text-anchor="middle" font-size="10.5" fill="#999">'24.10</text>
+<text x="78.0" y="68.3" text-anchor="start" font-size="12.5" font-weight="700" fill="#003d99">$20</text>
+<circle cx="66.0" cy="72.3" r="5" fill="#0066cc" stroke="#fff" stroke-width="2"><title>GPT-3.5 · 2022-11-30 · $20/1M</title></circle>
+<text x="142.7" y="176.5" text-anchor="middle" font-size="11" font-weight="600" fill="#666">$2</text>
+<circle cx="142.7" cy="188.5" r="4" fill="#0066cc" stroke="#fff" stroke-width="2"><title>GPT-3.5 Turbo · 2023-03-06 · $2/1M</title></circle>
+<text x="338.6" y="226.0" text-anchor="middle" font-size="11" font-weight="600" fill="#666">$0.75</text>
+<circle cx="338.6" cy="238.0" r="4" fill="#0066cc" stroke="#fff" stroke-width="2"><title>GPT-3.5 Turbo (11월) · 2023-11-06 · $0.75/1M</title></circle>
+<text x="433.7" y="246.5" text-anchor="middle" font-size="11" font-weight="600" fill="#666">$0.50</text>
+<circle cx="433.7" cy="258.5" r="4" fill="#0066cc" stroke="#fff" stroke-width="2"><title>Claude 3 Haiku · 2024-03-04 · $0.5/1M</title></circle>
+<text x="487.3" y="314.5" text-anchor="middle" font-size="11" font-weight="600" fill="#666">$0.13</text>
+<circle cx="487.3" cy="326.5" r="4" fill="#0066cc" stroke="#fff" stroke-width="2"><title>Gemini 1.5 Flash · 2024-05-10 · $0.13/1M</title></circle>
+<text x="540.4" y="357.7" text-anchor="end" font-size="11" font-weight="600" fill="#666">$0.10</text>
+<circle cx="546.4" cy="339.7" r="4" fill="#0066cc" stroke="#fff" stroke-width="2"><title>Llama 3.1 8B · 2024-07-23 · $0.1/1M</title></circle>
+<text x="604.0" y="345.7" text-anchor="middle" font-size="12.5" font-weight="700" fill="#003d99">$0.07</text>
+<circle cx="604.0" cy="357.7" r="5" fill="#0066cc" stroke="#fff" stroke-width="2"><title>Gemini 1.5 Flash-8B · 2024-10-03 · $0.07/1M</title></circle>
+<line x1="612.0" y1="72.3" x2="612.0" y2="357.7" stroke="#0066cc" stroke-width="1.5"/>
+<line x1="608.0" y1="72.3" x2="612.0" y2="72.3" stroke="#0066cc" stroke-width="1.5"/>
+<line x1="608.0" y1="357.7" x2="612.0" y2="357.7" stroke="#0066cc" stroke-width="1.5"/>
+<text x="618.0" y="212.0" font-size="15" font-weight="800" fill="#003d99">280×</text>
+<text x="618.0" y="228.0" font-size="10.5" fill="#666">↓ 약 18개월</text>
+<text x="56.0" y="440" font-size="10" fill="#999">출처: Epoch AI (MMLU 64.8% 프런티어 최저가 모델) · Stanford HAI AI Index 2025</text>
+</svg>
 
 Epoch AI는 특정 성능을 내는 데 필요한 연산이 대략 8개월마다 반감한다고 본다([Epoch AI](https://epoch.ai/blog/algorithmic-progress-in-language-models)).
 
