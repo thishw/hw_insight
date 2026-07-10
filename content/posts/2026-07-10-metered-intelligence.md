@@ -90,8 +90,9 @@ graph LR
 
 
 <details class="sources">
-<summary>참고 자료 (6) — Forbes · Claude Platform Docs · IT Brief · The Next Web · CNBC · Zed Industries</summary>
+<summary>참고 자료 (7) — Anthropic · Forbes · Claude Platform Docs · IT Brief · The Next Web · CNBC · Zed Industries</summary>
 <ul>
+<li><a href="https://www.anthropic.com/news/redeploying-fable-5">Redeploying Claude Fable 5</a> — Anthropic, 2026-06-30</li>
 <li><a href="https://www.forbes.com/sites/sandycarter/2026/07/07/claude-fable-5-extends-by-five-more-days-10-moves-to-make-now/">Claude Fable 5 Extends By Five More Days</a> — Forbes, 2026-07-07</li>
 <li><a href="https://platform.claude.com/docs/en/about-claude/pricing">Pricing</a> — Claude Platform Docs</li>
 <li><a href="https://itbrief.news/story/anthropic-shifts-enterprise-billing-to-token-based-pricing">Anthropic shifts enterprise billing to token-based pricing</a> — IT Brief</li>
