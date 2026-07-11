@@ -139,7 +139,7 @@ flowchart TD
 
 **하나는 모델이다.** 과기정통부의 '독자 AI 파운데이션 모델' 사업은 처음 5개 정예팀을 뽑은 뒤 단계평가를 거쳐, 현재 LG AI연구원·SK텔레콤·업스테이지·모티프테크놀로지스 4팀 경쟁 체제로 좁혀졌다([korea.kr](https://www.korea.kr/briefing/policyBriefingView.do?newsId=156745273)). 목표는 프론티어 모델 성능의 95% 이상 달성, 선정팀엔 GPU·데이터와 'K-AI 기업(국가대표)' 명칭을 지원한다.
 
-**다른 하나는 컴퓨트다.** 2026년 국가 GPU 확충 예산은 약 2조 805억 원으로 전년(1.4조)보다 크게 늘었고, NIPA의 AI 관련 예산은 7,000~8,000억 원대에서 3조 1,000억 원으로 약 4배가 됐다([ZDNet](https://zdnet.co.kr/view/?no=20260312182846), [이코노미조선](https://economychosun.com/site/data/html_dir/2026/05/09/2026050900015.html)). 여기에 반도체 초과세수 약 5조 원을 소버린 AI에 투입하는 방안도 추진 중이다([한국경제](https://www.hankyung.com/article/2026070228011)).
+**다른 하나는 컴퓨트다.** 2026년 국가 GPU 확충 예산은 약 2조 805억 원으로 전년(1.4조)보다 크게 늘었고, NIPA의 AI 관련 예산은 7,000~8,000억 원대에서 3조 1,000억 원으로 약 4배가 됐다([ZDNet](https://zdnet.co.kr/view/?no=20260312182846), [이코노미조선](https://economychosun.com/site/data/html_dir/2026/05/09/2026050900015.html)). 여기에 반도체 초과세수 약 5조 원을 소버린 AI에 투입하는 방안도 추진 중이다([한국경제](https://www.hankyung.com/article/2026070228011)). 다만 목표 기금 규모, 초과세수 산정 방식, 거버넌스 구조 같은 핵심 세부 사항은 아직 확정되지 않았다는 지적도 있다([The Korea Pulse](https://the-korea-pulse.github.io/posts/korea-to-create-future-response-fund-from-semiconductor-tax-windfall/)).
 
 숫자만 보면 든든한데, 규모를 국제 기준에 대면 이야기가 달라진다.
 
