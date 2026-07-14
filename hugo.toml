@@ -34,6 +34,8 @@ enableRobotsTXT = true
   og_site_name   = "HW Insight"
   og_locale      = "ko_KR"
   og_image       = "images/og-default.png"
+  logo           = "/brand/wordmark.svg"
+  logo_dark      = "/brand/wordmark-dark.svg"
   gtm_id         = "GTM-5B6XBNBH"
   verify_google  = ""
   verify_naver   = "67558bc01f225a55bd4fcf6dc0afd7188dbf5d70"
@@ -85,4 +87,4 @@ enableRobotsTXT = true
 
 [module]
   [[module.imports]]
-    path = "github.com/thishw/synapse-hugo-shared"
+    path = "github.com/thishw/media-hugo-shared"
