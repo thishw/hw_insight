@@ -21,7 +21,7 @@ categories: ["테크", "투자"]
 
 이제 그 시대가 끝나가고 있다. AI 인프라 확장의 새로운 제약 조건은 전력 설비로 완전히 넘어간 것으로 보인다.
 
-문제의 핵심은 인프라 구축 속도의 극심한 불일치다. 데이터센터는 보통 18~24개월이면 번듯하게 완성된다. 하지만 그곳에 전기를 밀어 넣어줄 계통 접속 대기 기간은 구미 주요 허브 기준 7~10년, 길게는 13년에 달하고, 대형 변압기 리드타임만 해도 평균 128주를 넘어선 상태다.
+문제의 핵심은 인프라 구축 속도의 극심한 불일치다. 데이터센터는 보통 18–24개월이면 번듯하게 완성된다. 하지만 그곳에 전기를 밀어 넣어줄 계통 접속 대기 기간은 미국과 유럽의 주요 허브 기준 7–10년, 길게는 13년에 달하고, 대형 변압기 리드타임만 해도 평균 128주를 넘어선 상태다.
 
 건물은 번듯하게 서 있는데 전기가 들어오지 않는 역설, 이것이 현재 AI 인프라의 민낯이다.
 
@@ -53,7 +53,7 @@ flowchart LR
     C --> E[전력 내재화: 원자력·가스발전]
 ```
 
-원전뿐 아니라 현장(onsite) 가스발전과 대규모 배터리 저장장치(ESS) 투자가 급증하는 것도 같은 맥락이다. 초당 50%가 넘는 데이터센터의 극심한 부하 스윙을 막기 위해 2030년까지 배터리 저장 장치만 20~25GW가 깔릴 전망이다.
+원전뿐 아니라 현장(onsite) 가스발전과 대규모 배터리 저장장치(ESS) 투자가 급증하는 것도 같은 맥락이다. 초당 50%가 넘는 데이터센터의 극심한 부하 스윙을 막기 위해 2030년까지 배터리 저장 장치만 20–25GW가 깔릴 전망이다.
 
 이 방식을 가장 극단까지 밀어붙인 사례가 xAI다. 멤피스의 콜로서스 1은 2025년 초 완공된 150MW 전용 변전소에 테슬라 메가팩 약 156기(150MW 백업)를 물려 돌린다. 전용 변전소가 들어오면서 가스터빈 사용은 절반으로 줄었다. 뒤이은 콜로서스 2는 아예 기가와트급을 겨냥한다. Solaris Energy와 합작해 사우스헤이븐 35MW급 7기 등 자가 가스터빈을 확충하고 메가팩 168기를 추가로 들여, 2027년 2분기까지 총 1.1GW 이상으로 램프한다는 계획이다.
 
@@ -88,9 +88,9 @@ flowchart LR
 
 하지만 치명적인 리스크는 역시 전력망이다. 용인 반도체 클러스터에 필요한 전력은 삼성전자 15GW와 SK하이닉스 6.3GW를 합쳐 원전 10기가 넘는 규모이고, 이걸 수도권 밖에서 끌어와야 한다.
 
-여기서 진짜 병목은 발전이 아니라 전달이다. 발전소를 어디에 짓든 그 전기를 클러스터까지 실어 나르려면 초고압 송전망과 변전소가 있어야 하는데, 이 건설에 통상 10년 이상이 걸린다. 앞서 본 구미의 계통 접속 지연과 정확히 같은 구조가 한국에서 반복되는 것이다. 공장을 짓는 속도와 전기를 끌어오는 속도가 애초에 다른 시간표 위에 있다.
+여기서 진짜 병목은 발전이 아니라 전달이다. 발전소를 어디에 짓든 그 전기를 클러스터까지 실어 나르려면 초고압 송전망과 변전소가 있어야 하는데, 이 건설에 통상 10년 이상이 걸린다. 앞서 본 미국과 유럽의 계통 접속 지연과 정확히 같은 구조가 한국에서 반복되는 것이다. 공장을 짓는 속도와 전기를 끌어오는 속도가 애초에 다른 시간표 위에 있다.
 
-칸의 집계에 따르면 수도권 데이터센터의 전력 공급 승인률은 1.9%에 불과한데, 정작 민간 데이터센터의 73.4%가 여전히 수도권에 밀집해 있다. 수요는 수도권에 몰려 있는데 그 수요를 받아줄 전력은 거의 승인되지 않는다는 뜻이다.
+냉난방공조·신재생·녹색건축 전문지 칸(KHARN)의 집계에 따르면, 수도권 데이터센터 전력공급 신청 중 최종 승인을 받은 것은 신청 건수 기준 1.9%에 그쳤다. 수요는 수도권으로 몰리는데 그 수요를 받아줄 전력은 사실상 승인되지 않는다는 뜻이다.
 
 물론 손을 놓고 있는 것은 아니다. 한국은 국가기간 전력망 확충 특별법을 2025년 3월 제정해 그해 9월 시행했다. 이어 국무총리가 주재한 제1차 국가기간 전력망 확충 위원회는 송전선로와 변전소 99개 사업을 국가기간 전력망으로 지정했고, 그중 10개가 첨단전략산업 전력공급용이다. 2030년대 서해안 에너지고속도로, 2040년대 U자형 에너지고속도로가 목표다.
 
@@ -102,10 +102,10 @@ flowchart LR
 
 ## 한줄 코멘트.
 
-결국 AI 패권은 가장 먼저 칩을 산 자가 아니라, 냉장고 크기의 랙에 가장 먼저 전기를 꽂는 자의 몫이 될 것이다.
+결국 승부는 칩을 먼저 산 쪽이 아니라, 그 칩을 돌릴 전기를 먼저 확보한 쪽으로 기운다. 지능의 상한선을 정하는 것은 이제 반도체 공정이 아니라 전력망이다.
 
 <details class="sources">
-<summary>참고 자료 (14) — IEA · Enline Energy · Dev Sustainability · mGrid · Power Engineering · SMR Intel · Data Center Dynamics · Introl · SemiAnalysis · 파이낸셜뉴스 · 칸 · 국가법령정보센터 · 기후에너지환경부</summary>
+<summary>참고 자료 (14) — IEA · Enline Energy · Dev Sustainability · mGrid · Power Engineering · SMR Intel · Data Center Dynamics · Introl · SemiAnalysis · 파이낸셜뉴스 · 칸(KHARN) · 국가법령정보센터 · 기후에너지환경부</summary>
 <ul>
 <li><a href="https://www.iea.org/reports/key-questions-on-energy-and-ai/executive-summary">Key questions on energy and AI</a> — IEA</li>
 <li><a href="https://enline.energy/articles/ai-data-center-grid-capacity-2026">AI Data Center Grid Capacity 2026</a> — Enline Energy</li>
@@ -115,7 +115,7 @@ flowchart LR
 <li><a href="https://smrintel.com/nuclear-data-center-deals/">Nuclear Data Center Deals</a> — SMR Intel, 2026. 05.</li>
 <li><a href="https://www.datacenterdynamics.com/en/news/three-mile-island-nuclear-power-plant-to-return-as-microsoft-signs-20-year-835mw-ai-data-center-ppa/">Three Mile Island nuclear power plant to return as Microsoft signs 20-year 835MW AI data center PPA</a> — Data Center Dynamics</li>
 <li><a href="https://www.fnnews.com/news/202607191820585123">용인 반도체 클러스터 전력공급 '산 넘어 산'</a> — 파이낸셜뉴스, 2026. 07. 19.</li>
-<li><a href="https://www.kharn.kr/news/article.html?no=31267">수도권 데이터센터 전력공급 승인률 1.9% 불과</a> — 칸</li>
+<li><a href="https://www.kharn.kr/news/article.html?no=31267">수도권 데이터센터 전력승인률 '1.9%' 불과</a> — 칸(KHARN)</li>
 <li><a href="https://introl.com/blog/xai-memphis-colossus-100000-gpu-supercomputer-infrastructure">xAI Memphis Colossus: 100,000 GPU supercomputer infrastructure</a> — Introl</li>
 <li><a href="https://newsletter.semianalysis.com/p/xais-colossus-2-first-gigawatt-datacenter">xAI's Colossus 2: First Gigawatt Datacenter</a> — SemiAnalysis</li>
 <li><a href="https://www.datacenterdynamics.com/en/news/xai-to-deploy-telsa-megapacks-at-colossus-ii-supercomputing-site-in-memphis-tennessee/">xAI to deploy Tesla Megapacks at Colossus II supercomputing site in Memphis, Tennessee</a> — Data Center Dynamics</li>
