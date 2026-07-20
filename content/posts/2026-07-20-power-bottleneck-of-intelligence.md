@@ -90,11 +90,19 @@ flowchart LR
 
 여기서 진짜 병목은 발전이 아니라 전달이다. 발전소를 어디에 짓든 그 전기를 클러스터까지 실어 나르려면 초고압 송전망과 변전소가 있어야 하는데, 이 건설에 통상 10년 이상이 걸린다. 앞서 본 미국과 유럽의 계통 접속 지연과 정확히 같은 구조가 한국에서 반복되는 것이다. 공장을 짓는 속도와 전기를 끌어오는 속도가 애초에 다른 시간표 위에 있다.
 
-냉난방공조·신재생·녹색건축 전문지 칸(KHARN)의 집계에 따르면, 수도권 데이터센터 전력공급 신청 중 최종 승인을 받은 것은 신청 건수 기준 1.9%에 그쳤다. 수요는 수도권으로 몰리는데 그 수요를 받아줄 전력은 사실상 승인되지 않는다는 뜻이다.
+냉난방공조·신재생·녹색건축 전문지 칸(KHARN)의 집계를 보면 구도가 선명해진다. 2024년 국내 데이터센터 165개 가운데 99개가 수도권에 몰려 있다. 약 60%다. 그런데 수도권 데이터센터 전력공급 신청 중 최종 승인을 받은 것은 신청 건수 기준 1.9%에 그쳤다. 수요는 수도권으로 몰리는데 그 수요를 받아줄 전력은 사실상 승인되지 않는다는 뜻이다.
 
 물론 손을 놓고 있는 것은 아니다. 한국은 국가기간 전력망 확충 특별법을 2025년 3월 제정해 그해 9월 시행했다. 이어 국무총리가 주재한 제1차 국가기간 전력망 확충 위원회는 송전선로와 변전소 99개 사업을 국가기간 전력망으로 지정했고, 그중 10개가 첨단전략산업 전력공급용이다. 2030년대 서해안 에너지고속도로, 2040년대 U자형 에너지고속도로가 목표다.
 
 주목할 지점은 이것이 발전 계획이 아니라 전달 계획이라는 사실이다. 앞서 짚었듯 한국의 병목은 발전이 아니라 송전이었으니 겨냥한 과녁 자체는 정확하다. 10년 이상 걸리던 시간표를 법과 행정 특례로 압축하겠다는 시도다.
+
+전력을 수요가 있는 곳으로 보내는 것이 한 축이라면, 다른 축은 반대 방향이다. 수요를 전력이 있는 곳으로 옮기는 것. 최근의 지역 클러스터가 정확히 그 방향으로 움직이고 있다.
+
+전남 해남 솔라시도에는 국가 AI컴퓨팅센터가 들어선다. 삼성SDS 컨소시엄(네이버클라우드·삼성물산·카카오·삼성전자·KT·전남도 등)이 사업자로 선정됐고, 2026년 7월 착공해 2028년 하반기부터 가동한다. GPU는 2028년 1만5,000장으로 시작해 2030년 5만 장까지 늘린다. 여기에 호남권을 겨냥한 삼성그룹의 425조원 투자 계획이 겹친다. 광주는 반도체 생산 거점으로, 해남은 210MW급 초대형 AI 데이터센터로 묶이는 그림이다.
+
+울산도 같은 논리다. SK텔레콤과 AWS가 미포 국가산업단지에 103MW 규모 AI 데이터센터를 짓는다. 투자 규모는 7조원대, GPU 6만 장을 수용하는 수도권 밖 최대 규모이고, 양사는 이 용량을 GW급까지 확대할 구상을 갖고 있다.
+
+두 사례의 공통점은 입지 논리다. 인재도 수요도 수도권에 몰려 있는데 정작 데이터센터는 해남과 울산으로 간다. 그곳에 전기가 있기 때문이다. 앞서 하이퍼스케일러가 원전 옆으로, 가스전 옆으로 움직인 것과 똑같은 힘이 국내에서도 작동하기 시작했다. 전력이 입지를 결정한다.
 
 그럼에도 이 거대한 전력망 리스크가 적기에 해소될지는 여전히 우려스럽다. 반도체로 돈을 버는 나라가 정작 그 반도체를 쌩쌩 돌릴 전기는 제대로 대지 못하는 기형적 형국이기 때문이다.
 
@@ -105,7 +113,7 @@ flowchart LR
 결국 승부는 칩을 먼저 산 쪽이 아니라, 그 칩을 돌릴 전기를 먼저 확보한 쪽으로 기운다. 지능의 상한선을 정하는 것은 이제 반도체 공정이 아니라 전력망이다.
 
 <details class="sources">
-<summary>참고 자료 (14) — IEA · Enline Energy · Dev Sustainability · mGrid · Power Engineering · SMR Intel · Data Center Dynamics · Introl · SemiAnalysis · 파이낸셜뉴스 · 칸(KHARN) · 국가법령정보센터 · 기후에너지환경부</summary>
+<summary>참고 자료 (18) — IEA · Enline Energy · Dev Sustainability · mGrid · Power Engineering · SMR Intel · Data Center Dynamics · Introl · SemiAnalysis · 파이낸셜뉴스 · 칸(KHARN) · 국가법령정보센터 · 기후에너지환경부 · 다음뉴스 · AI타임스 · 파이낸셜투데이</summary>
 <ul>
 <li><a href="https://www.iea.org/reports/key-questions-on-energy-and-ai/executive-summary">Key questions on energy and AI</a> — IEA</li>
 <li><a href="https://enline.energy/articles/ai-data-center-grid-capacity-2026">AI Data Center Grid Capacity 2026</a> — Enline Energy</li>
@@ -121,5 +129,9 @@ flowchart LR
 <li><a href="https://www.datacenterdynamics.com/en/news/xai-to-deploy-telsa-megapacks-at-colossus-ii-supercomputing-site-in-memphis-tennessee/">xAI to deploy Tesla Megapacks at Colossus II supercomputing site in Memphis, Tennessee</a> — Data Center Dynamics</li>
 <li><a href="https://www.law.go.kr/법령/국가기간전력망확충특별법">국가기간 전력망 확충 특별법</a> — 국가법령정보센터</li>
 <li><a href="https://www.mcee.go.kr">제1차 국가기간 전력망 확충 위원회 보도자료</a> — 기후에너지환경부</li>
+<li><a href="https://www.kharn.kr/news/article.html?no=30999">2024년 국내 데이터센터 165개, 수도권 99개소 집계</a> — 칸(KHARN)</li>
+<li><a href="https://v.daum.net/v/20260513142355990">국가 AI컴퓨팅센터 입지 전남 해남 솔라시도 확정, 삼성SDS 컨소시엄 선정</a> — 다음뉴스, 2026. 05. 13.</li>
+<li><a href="https://www.aitimes.kr/news/articleView.html?idxno=40757">삼성그룹 호남권 425조원 투자 — 광주 반도체 거점·해남 210MW AI 데이터센터</a> — AI타임스</li>
+<li><a href="https://www.ftoday.co.kr/news/articleView.html?idxno=343534">SK텔레콤·AWS 울산 미포 103MW AI 데이터센터</a> — 파이낸셜투데이</li>
 </ul>
 </details>
