@@ -55,6 +55,10 @@ flowchart LR
 
 원전뿐 아니라 현장(onsite) 가스발전과 대규모 배터리 저장장치(ESS) 투자가 급증하는 것도 같은 맥락이다. 초당 50%가 넘는 데이터센터의 극심한 부하 스윙을 막기 위해 2030년까지 배터리 저장 장치만 20~25GW가 깔릴 전망이다.
 
+이 방식을 가장 극단까지 밀어붙인 사례가 xAI다. 멤피스의 콜로서스 1은 2025년 초 완공된 150MW 전용 변전소에 테슬라 메가팩 약 156기(150MW 백업)를 물려 돌린다. 전용 변전소가 들어오면서 가스터빈 사용은 절반으로 줄었다. 뒤이은 콜로서스 2는 아예 기가와트급을 겨냥한다. Solaris Energy와 합작해 사우스헤이븐 35MW급 7기 등 자가 가스터빈을 확충하고 메가팩 168기를 추가로 들여, 2027년 2분기까지 총 1.1GW 이상으로 램프한다는 계획이다.
+
+원전 PPA가 장기 계약으로 남의 발전소를 묶어두는 방법이라면, 이쪽은 발전 설비와 변전소를 직접 지어 그리드 대기열 자체를 건너뛰는 방법이다. 수단은 달라도 향하는 곳은 같다. 전력을 남의 시간표에 맡기지 않겠다는 것이다.
+
 ## 자본의 이동: 병목을 향하는 투자와 시장의 선별적 재평가
 
 하이퍼스케일러의 자본 지출(CAPEX) 규모는 이미 임계점을 돌파했다. 2025년 4천억 달러를 넘어섰고 2026년에는 여기서 75%나 더 증가할 전망이다. 상위 5개 테크 기업의 투자가 전 세계 석유·가스 생산 투자를 웃도는 수준이다.
@@ -88,16 +92,20 @@ flowchart LR
 
 칸의 집계에 따르면 수도권 데이터센터의 전력 공급 승인률은 1.9%에 불과한데, 정작 민간 데이터센터의 73.4%가 여전히 수도권에 밀집해 있다. 수요는 수도권에 몰려 있는데 그 수요를 받아줄 전력은 거의 승인되지 않는다는 뜻이다.
 
-개인적으로 이 거대한 전력망 리스크가 적기에 해소될지 몹시 우려스럽다. 반도체로 돈을 버는 나라가 정작 그 반도체를 쌩쌩 돌릴 전기는 제대로 대지 못하는 기형적 형국이다.
+물론 손을 놓고 있는 것은 아니다. 한국은 국가기간 전력망 확충 특별법을 2025년 3월 제정해 그해 9월 시행했다. 이어 국무총리가 주재한 제1차 국가기간 전력망 확충 위원회는 송전선로와 변전소 99개 사업을 국가기간 전력망으로 지정했고, 그중 10개가 첨단전략산업 전력공급용이다. 2030년대 서해안 에너지고속도로, 2040년대 U자형 에너지고속도로가 목표다.
 
-물론 틀릴 수 있다. 정부와 기업이 과거 고도성장기 수준의 이례적인 속도전을 보여준다면 말이다.
+주목할 지점은 이것이 발전 계획이 아니라 전달 계획이라는 사실이다. 앞서 짚었듯 한국의 병목은 발전이 아니라 송전이었으니 겨냥한 과녁 자체는 정확하다. 10년 이상 걸리던 시간표를 법과 행정 특례로 압축하겠다는 시도다.
+
+그럼에도 이 거대한 전력망 리스크가 적기에 해소될지는 여전히 우려스럽다. 반도체로 돈을 버는 나라가 정작 그 반도체를 쌩쌩 돌릴 전기는 제대로 대지 못하는 기형적 형국이기 때문이다.
+
+관건은 계획이 아니라 집행 속도다. 지정과 착공은 다르고, 착공과 준공은 또 다르다. 99개 사업이 실제로 시간표를 앞당긴다면 이 우려는 틀린 것이 되고, 그렇다면 그것대로 반가운 일이다.
 
 ## 한줄 코멘트.
 
 결국 AI 패권은 가장 먼저 칩을 산 자가 아니라, 냉장고 크기의 랙에 가장 먼저 전기를 꽂는 자의 몫이 될 것이다.
 
 <details class="sources">
-<summary>참고 자료 (9) — IEA · Enline Energy · Dev Sustainability · mGrid · Power Engineering · SMR Intel · Data Center Dynamics · 파이낸셜뉴스 · 칸</summary>
+<summary>참고 자료 (14) — IEA · Enline Energy · Dev Sustainability · mGrid · Power Engineering · SMR Intel · Data Center Dynamics · Introl · SemiAnalysis · 파이낸셜뉴스 · 칸 · 국가법령정보센터 · 기후에너지환경부</summary>
 <ul>
 <li><a href="https://www.iea.org/reports/key-questions-on-energy-and-ai/executive-summary">Key questions on energy and AI</a> — IEA</li>
 <li><a href="https://enline.energy/articles/ai-data-center-grid-capacity-2026">AI Data Center Grid Capacity 2026</a> — Enline Energy</li>
@@ -108,5 +116,10 @@ flowchart LR
 <li><a href="https://www.datacenterdynamics.com/en/news/three-mile-island-nuclear-power-plant-to-return-as-microsoft-signs-20-year-835mw-ai-data-center-ppa/">Three Mile Island nuclear power plant to return as Microsoft signs 20-year 835MW AI data center PPA</a> — Data Center Dynamics</li>
 <li><a href="https://www.fnnews.com/news/202607191820585123">용인 반도체 클러스터 전력공급 '산 넘어 산'</a> — 파이낸셜뉴스, 2026. 07. 19.</li>
 <li><a href="https://www.kharn.kr/news/article.html?no=31267">수도권 데이터센터 전력공급 승인률 1.9% 불과</a> — 칸</li>
+<li><a href="https://introl.com/blog/xai-memphis-colossus-100000-gpu-supercomputer-infrastructure">xAI Memphis Colossus: 100,000 GPU supercomputer infrastructure</a> — Introl</li>
+<li><a href="https://newsletter.semianalysis.com/p/xais-colossus-2-first-gigawatt-datacenter">xAI's Colossus 2: First Gigawatt Datacenter</a> — SemiAnalysis</li>
+<li><a href="https://www.datacenterdynamics.com/en/news/xai-to-deploy-telsa-megapacks-at-colossus-ii-supercomputing-site-in-memphis-tennessee/">xAI to deploy Tesla Megapacks at Colossus II supercomputing site in Memphis, Tennessee</a> — Data Center Dynamics</li>
+<li><a href="https://www.law.go.kr/법령/국가기간전력망확충특별법">국가기간 전력망 확충 특별법</a> — 국가법령정보센터</li>
+<li><a href="https://www.mcee.go.kr">제1차 국가기간 전력망 확충 위원회 보도자료</a> — 기후에너지환경부</li>
 </ul>
 </details>
