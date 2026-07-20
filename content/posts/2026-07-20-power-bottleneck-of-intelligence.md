@@ -90,7 +90,9 @@ flowchart LR
 
 여기서 진짜 병목은 발전이 아니라 전달이다. 발전소를 어디에 짓든 그 전기를 클러스터까지 실어 나르려면 초고압 송전망과 변전소가 있어야 하는데, 이 건설에 통상 10년 이상이 걸린다. 앞서 본 미국과 유럽의 계통 접속 지연과 정확히 같은 구조가 한국에서 반복되는 것이다. 공장을 짓는 속도와 전기를 끌어오는 속도가 애초에 다른 시간표 위에 있다.
 
-냉난방공조·신재생·녹색건축 전문지 칸(KHARN)의 집계를 보면 구도가 선명해진다. 2024년 국내 데이터센터 165개 가운데 99개가 수도권에 몰려 있다. 약 60%다. 그런데 수도권 데이터센터 전력공급 신청 중 최종 승인을 받은 것은 신청 건수 기준 1.9%에 그쳤다. 수요는 수도권으로 몰리는데 그 수요를 받아줄 전력은 사실상 승인되지 않는다는 뜻이다.
+수치를 놓고 보면 구도가 선명해진다. 한국데이터센터연합회 집계로 민간 데이터센터 85개 가운데 수도권 비중은 72.9%다(2024년 기준, 2022년 76.3%에서 3.4%p 감소). 다만 시설 숫자보다 중요한 것은 전력이다. 산업통상자원부의 '데이터센터 수도권 집중 완화 방안'을 보면 데이터센터 전력 수요의 70%가 수도권에 몰려 있고, 2029년에는 그 비중이 80%대까지 커진다.
+
+그런데 정작 그 수요를 받아줄 전력은 승인되지 않는다. 냉난방공조·신재생·녹색건축 전문지 칸(KHARN)의 집계에 따르면 수도권 데이터센터 전력공급 신청 중 최종 승인을 받은 것은 신청 건수 기준 1.9%에 그쳤다. 수요는 수도권으로 몰리는데 전력은 그곳에서 막혀 있다는 뜻이다.
 
 물론 손을 놓고 있는 것은 아니다. 한국은 국가기간 전력망 확충 특별법을 2025년 3월 제정해 그해 9월 시행했다. 이어 국무총리가 주재한 제1차 국가기간 전력망 확충 위원회는 송전선로와 변전소 99개 사업을 국가기간 전력망으로 지정했고, 그중 10개가 첨단전략산업 전력공급용이다. 2030년대 서해안 에너지고속도로, 2040년대 U자형 에너지고속도로가 목표다.
 
@@ -113,7 +115,7 @@ flowchart LR
 결국 승부는 칩을 먼저 산 쪽이 아니라, 그 칩을 돌릴 전기를 먼저 확보한 쪽으로 기운다. 지능의 상한선을 정하는 것은 이제 반도체 공정이 아니라 전력망이다.
 
 <details class="sources">
-<summary>참고 자료 (18) — IEA · Enline Energy · Dev Sustainability · mGrid · Power Engineering · SMR Intel · Data Center Dynamics · Introl · SemiAnalysis · 파이낸셜뉴스 · 칸(KHARN) · 국가법령정보센터 · 기후에너지환경부 · 다음뉴스 · AI타임스 · 파이낸셜투데이</summary>
+<summary>참고 자료 (18) — IEA · Enline Energy · Dev Sustainability · mGrid · Power Engineering · SMR Intel · Data Center Dynamics · Introl · SemiAnalysis · 파이낸셜뉴스 · 칸(KHARN) · 국가법령정보센터 · 기후에너지환경부 · 다음뉴스 · AI타임스 · 파이낸셜투데이 · 매일신문</summary>
 <ul>
 <li><a href="https://www.iea.org/reports/key-questions-on-energy-and-ai/executive-summary">Key questions on energy and AI</a> — IEA</li>
 <li><a href="https://enline.energy/articles/ai-data-center-grid-capacity-2026">AI Data Center Grid Capacity 2026</a> — Enline Energy</li>
@@ -129,7 +131,7 @@ flowchart LR
 <li><a href="https://www.datacenterdynamics.com/en/news/xai-to-deploy-telsa-megapacks-at-colossus-ii-supercomputing-site-in-memphis-tennessee/">xAI to deploy Tesla Megapacks at Colossus II supercomputing site in Memphis, Tennessee</a> — Data Center Dynamics</li>
 <li><a href="https://www.law.go.kr/법령/국가기간전력망확충특별법">국가기간 전력망 확충 특별법</a> — 국가법령정보센터</li>
 <li><a href="https://www.mcee.go.kr">제1차 국가기간 전력망 확충 위원회 보도자료</a> — 기후에너지환경부</li>
-<li><a href="https://www.kharn.kr/news/article.html?no=30999">2024년 국내 데이터센터 165개, 수도권 99개소 집계</a> — 칸(KHARN)</li>
+<li><a href="https://www.imaeil.com/page/view/2024112016372361011">데이터센터 수도권 집중화 심화</a> — 매일신문, 2024. 11. 20.</li>
 <li><a href="https://v.daum.net/v/20260513142355990">국가 AI컴퓨팅센터 입지 전남 해남 솔라시도 확정, 삼성SDS 컨소시엄 선정</a> — 다음뉴스, 2026. 05. 13.</li>
 <li><a href="https://www.aitimes.kr/news/articleView.html?idxno=40757">삼성그룹 호남권 425조원 투자 — 광주 반도체 거점·해남 210MW AI 데이터센터</a> — AI타임스</li>
 <li><a href="https://www.ftoday.co.kr/news/articleView.html?idxno=343534">SK텔레콤·AWS 울산 미포 103MW AI 데이터센터</a> — 파이낸셜투데이</li>
