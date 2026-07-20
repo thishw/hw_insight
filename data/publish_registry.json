@@ -1,0 +1,26 @@
+{
+  "entries": [
+    {
+      "content_id": "synapse:0cf23aca-f3f7-444b-ba60-64310c98246f",
+      "gate_version": "1.2.0",
+      "keywords": [
+        "AI 인프라",
+        "데이터센터",
+        "전력망",
+        "하이퍼스케일러",
+        "GPU",
+        "제번스 역설",
+        "원자력",
+        "빅테크"
+      ],
+      "language": "ko",
+      "path": "content/posts/2026-07-20-power-bottleneck-of-intelligence.md",
+      "platform": "github_site",
+      "published_at": "2026-07-20T22:05:22.963488Z",
+      "slug_hint": "power-bottleneck-of-intelligence",
+      "title": "AI 인프라의 새로운 지형도: 칩의 시대에서 전력의 시대로",
+      "url": "https://insight.thishw.com/posts/power-bottleneck-of-intelligence/"
+    }
+  ],
+  "version": 1
+}
