@@ -5,6 +5,7 @@ draft: false
 description: "AI 에이전트 도입으로 코드 생산은 폭발했지만 인간의 리뷰 한계로 심각한 검증 병목이 발생하고 있다. 검증 없이 방치된 AI 코드가 낳는 치명적 보안 부채의 위험성과 적대적 검증 하네스 구축의 필요성을 다룬다."
 slug: "agent-verification-bottleneck"
 keywords: ["AI 코드 생성", "코드 리뷰 병목", "에이전트 하네스", "풀 리퀘스트 대기열", "보안 부채", "취약점 밀도", "LLM 코드 검증", "생산성 병목"]
+categories: ["테크", "생각"]
 media_type: "article"
 ---
 
