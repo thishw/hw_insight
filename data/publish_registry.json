@@ -41,6 +41,27 @@
       "slug_hint": "agent-verification-bottleneck",
       "title": "에이전트 시대의 새로운 병목: 검증 인프라가 경쟁 우위를 결정한다",
       "url": "https://insight.thishw.com/posts/agent-verification-bottleneck/"
+    },
+    {
+      "content_id": "synapse:e2324283-64a6-4b43-9050-bf20e320a139",
+      "gate_version": "1.2.0",
+      "keywords": [
+        "토큰 경제학",
+        "에이전트",
+        "컨텍스트 엔지니어링",
+        "추론 비용",
+        "제번스의 역설",
+        "토큰 투자 수익률",
+        "컨텍스트 로트",
+        "프롬프트 엔지니어링"
+      ],
+      "language": "ko",
+      "path": "content/posts/2026-08-03-token-efficiency-discipline.md",
+      "platform": "github_site",
+      "published_at": "2026-08-03T22:09:26.970795Z",
+      "slug_hint": "token-efficiency-discipline",
+      "title": "가격은 폭락하는데 청구서는 왜 커지는가: 토큰 경제학과 에이전트 시대의 생존법",
+      "url": "https://insight.thishw.com/posts/token-efficiency-discipline/"
     }
   ],
   "version": 1
