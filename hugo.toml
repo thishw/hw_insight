@@ -8,13 +8,100 @@ enableRobotsTXT = true
 
 # 콘텐츠는 파일명 접미사로 번역쌍을 묶는다(date-slug.md=ko, date-slug.en.md=en) —
 # src/output/static_site.py::hugo_page_path()가 이 규칙에 맞춰 발행한다.
+# F1(A-1, 양방향): 메뉴를 언어별로 분리 — url 대신 pageRef를 써야 언어별로
+# 올바르게 해석된다(공유 [[menu.main]]은 /en/에서도 한국어 메뉴+URL이 노출되던
+# 버그의 원인이었다 — pulse/wave와 정확히 대칭인 결함, CLI_HANDOFF_37 §A-1).
+# en 카테고리(테크/투자/생각)는 영어 글이 아직 0건(F7, 범위 밖)이라 번역 term이
+# 없다 — en 메뉴는 Home/Categories(일반)만 둔다.
 [languages]
   [languages.ko]
     label = "한국어"
     weight = 1
+    [[languages.ko.menu.main]]
+      name   = "홈"
+      pageRef = "/"
+      weight = 1
+    [[languages.ko.menu.main]]
+      name   = "테크"
+      pageRef = "/categories/테크/"
+      weight = 2
+    [[languages.ko.menu.main]]
+      name   = "투자"
+      pageRef = "/categories/투자/"
+      weight = 3
+    [[languages.ko.menu.main]]
+      name   = "생각"
+      pageRef = "/categories/생각/"
+      weight = 4
+    [languages.ko.params]
+      # 명시 정의는 선택이지만 권장(테마 기본값이 바뀌면 조용히 흔들린다) — 값은
+      # 테마가 현재 쓰는 하드코딩 기본값과 동일해 시각적 변화가 없다. 단
+      # label_ai_image/label_view_all은 테마 기본값이 우연히 영문이라(각각
+      # show_hero/magazine 미사용으로 현재 도달 불가) 한국어 값으로 명시한다.
+      label_home                = "홈"
+      label_search              = "검색"
+      label_search_placeholder  = "글 검색…"
+      label_recent              = "최근 글"
+      label_categories          = "카테고리"
+      label_all_categories      = "← 모든 카테고리"
+      label_related             = "관련 글"
+      label_no_posts            = "이 카테고리에 글이 없습니다."
+      label_count_suffix        = "편"
+      label_llms_posts_heading  = "글 목록"
+      label_taxonomy_desc       = "카테고리별로 글을 모아볼 수 있습니다."
+      label_categories_desc     = "카테고리별로 글을 모아볼 수 있습니다."
+      label_keywords_desc       = "키워드별로 글을 모아볼 수 있습니다."
+      label_taxonomy_empty      = "아직 카테고리가 없습니다."
+      label_keywords_empty      = "아직 키워드가 없습니다."
+      label_search_empty        = "결과 없음"
+      label_search_noscript     = "검색에는 자바스크립트가 필요합니다."
+      label_read_more           = "더 읽기 →"
+      label_prev                = "← 이전"
+      label_next                = "다음 →"
+      label_pagination          = "페이지 내비게이션"
+      label_view_all            = "전체 보기 →"
+      label_ai_image            = "AI 생성 이미지"
   [languages.en]
     label = "English"
     weight = 2
+    [[languages.en.menu.main]]
+      name   = "Home"
+      pageRef = "/"
+      weight = 1
+    [[languages.en.menu.main]]
+      name   = "Categories"
+      pageRef = "/categories/"
+      weight = 2
+    [languages.en.params]
+      # F9(B-2): insight는 label_* 를 하나도 정의하지 않아 테마의 하드코딩
+      # 한국어 기본값이 /en/에도 그대로 노출됐다 — 이 사이트 전용 결함(pulse/
+      # wave는 top-level에 영문 기본값을 이미 정의해 뒀음). 테마가 참조하는
+      # label_* 23개 전부를 여기서 정의한다.
+      description               = "Turning thinking into structure, and structure into publication — knowledge insights by HW."
+      og_locale                 = "en_US"
+      label_home                = "Home"
+      label_search              = "Search"
+      label_search_placeholder  = "Search articles…"
+      label_recent              = "Recent Posts"
+      label_categories          = "Categories"
+      label_all_categories      = "← All Categories"
+      label_related             = "Related Posts"
+      label_no_posts            = "No posts in this category."
+      label_count_suffix        = " posts"
+      label_llms_posts_heading  = "Posts"
+      label_taxonomy_desc       = "Browse posts by category."
+      label_categories_desc     = "Browse posts by category."
+      label_keywords_desc       = "Browse posts by keyword."
+      label_taxonomy_empty      = "No categories yet."
+      label_keywords_empty      = "No keywords yet."
+      label_search_empty        = "No results"
+      label_search_noscript     = "Search requires JavaScript."
+      label_read_more           = "Read more →"
+      label_prev                = "← Previous"
+      label_next                = "Next →"
+      label_pagination          = "Pagination"
+      label_view_all            = "View all →"
+      label_ai_image            = "AI-generated illustration"
 
 # 홈에서 검색 색인(index.json) 생성 — 공통 Module의 클라이언트 검색이 사용
 [outputs]
@@ -45,26 +132,6 @@ enableRobotsTXT = true
 
 [taxonomies]
   category = "categories"
-
-[[menu.main]]
-  name   = "홈"
-  url    = "/"
-  weight = 1
-
-[[menu.main]]
-  name   = "테크"
-  url    = "/categories/테크/"
-  weight = 2
-
-[[menu.main]]
-  name   = "투자"
-  url    = "/categories/투자/"
-  weight = 3
-
-[[menu.main]]
-  name   = "생각"
-  url    = "/categories/생각/"
-  weight = 4
 
 [markup.goldmark.renderer]
   unsafe = true
