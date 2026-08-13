@@ -62,6 +62,27 @@
       "slug_hint": "token-efficiency-discipline",
       "title": "가격은 폭락하는데 청구서는 왜 커지는가: 토큰 경제학과 에이전트 시대의 생존법",
       "url": "https://insight.thishw.com/posts/token-efficiency-discipline/"
+    },
+    {
+      "content_id": "synapse:7bd2b611-8f7a-4c65-97e5-02b492f1bfb1",
+      "gate_version": "1.2.0",
+      "keywords": [
+        "버티컬 AI",
+        "Openevidence",
+        "의료 AI",
+        "접근권 전략",
+        "애플리케이션 레이어",
+        "EHR",
+        "헬스케어 AI",
+        "독점적 데이터"
+      ],
+      "language": "ko",
+      "path": "content/posts/2026-08-13-vertical-ai-moat-openevidence.md",
+      "platform": "github_site",
+      "published_at": "2026-08-13T22:10:21.615573Z",
+      "slug_hint": "vertical-ai-moat-openevidence",
+      "title": "버티컬 AI의 진정한 해자: Openevidence가 증명한 4단계 접근권 전략",
+      "url": "https://insight.thishw.com/posts/vertical-ai-moat-openevidence/"
     }
   ],
   "version": 1
