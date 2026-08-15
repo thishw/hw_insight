@@ -5,6 +5,10 @@ defaultContentLanguage = "ko"
 # 기존 한국어 URL을 안 바꿔서 기존 SEO 점수/백링크를 그대로 보존한다.
 defaultContentLanguageInSubdir = false
 enableRobotsTXT = true
+# CLI_HANDOFF_38 A-3: pulse/wave는 이미 설정돼 있었으나 insight만 누락 —
+# 미설정 시 RSS pubDate가 +0000로 나가고, A-2(BlogPosting datePublished 시각+
+# 타임존 추가)를 적용하면 UTC가 그대로 박힌다. A-2보다 먼저 적용.
+timeZone = "Asia/Seoul"
 
 # 콘텐츠는 파일명 접미사로 번역쌍을 묶는다(date-slug.md=ko, date-slug.en.md=en) —
 # src/output/static_site.py::hugo_page_path()가 이 규칙에 맞춰 발행한다.
@@ -117,6 +121,9 @@ enableRobotsTXT = true
   author         = "HW"
   site_key       = "hw_insight"
   tier           = "A"
+  # CLI_HANDOFF_38 A-1: 홈/카테고리 목록은 이미 이 형식(테마 기본값)이었고 글 본문·
+  # 사이드바·관련글은 ISO 하드코딩 폴백을 쓰고 있었다 — 명시 정의로 전체 통일.
+  date_format    = "2006년 1월 2일"
   description    = "사고를 구조로, 구조를 발행으로 — 지식 인사이트"
   og_site_name   = "HW Insight"
   og_locale      = "ko_KR"
