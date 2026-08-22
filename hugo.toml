@@ -15,8 +15,10 @@ timeZone = "Asia/Seoul"
 # F1(A-1, 양방향): 메뉴를 언어별로 분리 — url 대신 pageRef를 써야 언어별로
 # 올바르게 해석된다(공유 [[menu.main]]은 /en/에서도 한국어 메뉴+URL이 노출되던
 # 버그의 원인이었다 — pulse/wave와 정확히 대칭인 결함, CLI_HANDOFF_37 §A-1).
-# en 카테고리(테크/투자/생각)는 영어 글이 아직 0건(F7, 범위 밖)이라 번역 term이
-# 없다 — en 메뉴는 Home/Categories(일반)만 둔다.
+# en 카테고리는 term을 메뉴에 박지 않고 Home/Categories(일반)만 둔다 — term
+# 문자열은 Synapse의 export가 실어 보내므로(WP-9: 테크→Tech·투자→Investing·
+# 생각→Thoughts) 여기에 복사해 두면 팔레트가 바뀔 때 조용히 어긋난다.
+# Categories 목록 페이지가 실재하는 term을 자동 열거한다.
 [languages]
   [languages.ko]
     label = "한국어"
@@ -77,6 +79,13 @@ timeZone = "Asia/Seoul"
       pageRef = "/categories/"
       weight = 2
     [languages.en.params]
+      # WP-10: date_format이 top-level [params]에만 있어 en 페이지 날짜가
+      # "2026년 8월 22일"로 렌더됐다 — #160·#162가 막은 것과 **별개 경로**의
+      # 한국어 누출이 라이브에 남아 있었다. 테마는 site.Params.date_format을
+      # 목록·본문·사이드바·관련글·term 페이지 전부에서 읽으므로 en 사이트의
+      # 모든 날짜가 이 한 줄에 걸린다.
+      # 형식은 ko("2006년 1월 2일")와 같은 정밀도의 영문 관용 표기를 쓴다.
+      date_format               = "January 2, 2006"
       # F9(B-2): insight는 label_* 를 하나도 정의하지 않아 테마의 하드코딩
       # 한국어 기본값이 /en/에도 그대로 노출됐다 — 이 사이트 전용 결함(pulse/
       # wave는 top-level에 영문 기본값을 이미 정의해 뒀음). 테마가 참조하는
