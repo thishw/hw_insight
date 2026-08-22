@@ -86,6 +86,12 @@ timeZone = "Asia/Seoul"
       # 모든 날짜가 이 한 줄에 걸린다.
       # 형식은 ko("2006년 1월 2일")와 같은 정밀도의 영문 관용 표기를 쓴다.
       date_format               = "January 2, 2006"
+      # WP-10 후속: 기본 OG 카드(images/og-default.png)에 한국어 카피와 테크/투자/
+      # 생각 칩이 박혀 있어, 글별 일러스트가 없는 en 페이지를 공유하면 한국어
+      # 카드가 떴다(social-meta.html: `.Params.og_image | default site.Params.og_image`).
+      # 영문 카드로 오버라이드한다 — 레이아웃·색·타이포는 원본과 동일하고
+      # 카피와 칩만 영문이다(칩은 WP-9 카테고리 매핑과 같은 어휘).
+      og_image                  = "images/og-default-en.png"
       # F9(B-2): insight는 label_* 를 하나도 정의하지 않아 테마의 하드코딩
       # 한국어 기본값이 /en/에도 그대로 노출됐다 — 이 사이트 전용 결함(pulse/
       # wave는 top-level에 영문 기본값을 이미 정의해 뒀음). 테마가 참조하는
