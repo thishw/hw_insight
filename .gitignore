@@ -1,3 +1,6 @@
 public/
 resources/_gen/
 .hugo_build.lock
+
+# macOS Finder 메타데이터 — 추적 대상이 아니다(리포마다 3~4개씩 쌓인다)
+.DS_Store
