@@ -189,6 +189,29 @@
       "slug_hint": "vertical-ai-moat-openevidence",
       "title": "The True Moat of Vertical AI: The 4-Step Access Strategy Proven by OpenEvidence",
       "url": "https://insight.thishw.com/en/posts/vertical-ai-moat-openevidence/"
+    },
+    {
+      "content_id": "synapse:8806ff97-3145-469f-97af-6071d22b24fc-en",
+      "gate_version": "1.4.0",
+      "keywords": [
+        "AI",
+        "web crawling",
+        "traffic compensation",
+        "Cloudflare",
+        "bot blocking",
+        "content monetization",
+        "metered billing",
+        "content licensing",
+        "RSL 1.0",
+        "long-tail publisher"
+      ],
+      "language": "en",
+      "path": "content/posts/2026-07-18-ai-crawler-toll-era.en.md",
+      "platform": "github_site",
+      "published_at": "2026-08-23T06:40:01.952721Z",
+      "slug_hint": "ai-crawler-toll-era",
+      "title": "Two-Way Tollbooths in the Age of AI: The Collapse of the Web's Free Exchange and Survival Strategies",
+      "url": "https://insight.thishw.com/en/posts/ai-crawler-toll-era/"
     }
   ],
   "version": 1
