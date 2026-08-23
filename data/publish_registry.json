@@ -212,6 +212,27 @@
       "slug_hint": "ai-crawler-toll-era",
       "title": "Two-Way Tollbooths in the Age of AI: The Collapse of the Web's Free Exchange and Survival Strategies",
       "url": "https://insight.thishw.com/en/posts/ai-crawler-toll-era/"
+    },
+    {
+      "content_id": "synapse:e2324283-64a6-4b43-9050-bf20e320a139-en",
+      "gate_version": "1.4.0",
+      "keywords": [
+        "token economics",
+        "agents",
+        "context engineering",
+        "inference cost",
+        "Jevons paradox",
+        "token return on investment",
+        "context rot",
+        "prompt engineering"
+      ],
+      "language": "en",
+      "path": "content/posts/2026-08-03-token-efficiency-discipline.en.md",
+      "platform": "github_site",
+      "published_at": "2026-08-23T06:40:01.952721Z",
+      "slug_hint": "token-efficiency-discipline",
+      "title": "Why Are Bills Rising While Prices Plummet: Tokenomics and Survival in the Age of Agents",
+      "url": "https://insight.thishw.com/en/posts/token-efficiency-discipline/"
     }
   ],
   "version": 1
