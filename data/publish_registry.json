@@ -168,6 +168,27 @@
       "slug_hint": "metered-intelligence",
       "title": "The Era of Metered Intelligence: The End of Unlimited Plans and New Cost Capabilities",
       "url": "https://insight.thishw.com/en/posts/metered-intelligence/"
+    },
+    {
+      "content_id": "synapse:7bd2b611-8f7a-4c65-97e5-02b492f1bfb1-en",
+      "gate_version": "1.4.0",
+      "keywords": [
+        "vertical AI",
+        "OpenEvidence",
+        "medical AI",
+        "access strategy",
+        "application layer",
+        "EHR",
+        "healthcare AI",
+        "proprietary data"
+      ],
+      "language": "en",
+      "path": "content/posts/2026-08-13-vertical-ai-moat-openevidence.en.md",
+      "platform": "github_site",
+      "published_at": "2026-08-23T06:40:01.952721Z",
+      "slug_hint": "vertical-ai-moat-openevidence",
+      "title": "The True Moat of Vertical AI: The 4-Step Access Strategy Proven by OpenEvidence",
+      "url": "https://insight.thishw.com/en/posts/vertical-ai-moat-openevidence/"
     }
   ],
   "version": 1
