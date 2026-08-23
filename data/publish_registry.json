@@ -147,6 +147,27 @@
       "slug_hint": "agent-verification-bottleneck",
       "title": "The New Bottleneck in the Agent Era: Verification Infrastructure Determines Competitive Advantage",
       "url": "https://insight.thishw.com/en/posts/agent-verification-bottleneck/"
+    },
+    {
+      "content_id": "synapse:4e971555-2cbb-4ff0-bb21-9b2f2f9c2d60-en",
+      "gate_version": "1.4.0",
+      "keywords": [
+        "generative AI",
+        "token billing",
+        "pay-as-you-go pricing",
+        "Anthropic",
+        "intelligent routing",
+        "unlimited plan",
+        "AI cost",
+        "AI model"
+      ],
+      "language": "en",
+      "path": "content/posts/2026-07-10-metered-intelligence.en.md",
+      "platform": "github_site",
+      "published_at": "2026-08-23T06:40:01.952721Z",
+      "slug_hint": "metered-intelligence",
+      "title": "The Era of Metered Intelligence: The End of Unlimited Plans and New Cost Capabilities",
+      "url": "https://insight.thishw.com/en/posts/metered-intelligence/"
     }
   ],
   "version": 1
