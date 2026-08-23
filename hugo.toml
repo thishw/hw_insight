@@ -146,10 +146,10 @@ timeZone = "Asia/Seoul"
   logo           = "/brand/wordmark.svg"
   logo_dark      = "/brand/wordmark-dark.svg"
   gtm_id         = "GTM-5B6XBNBH"
-  verify_google  = ""
+  verify_google  = "EvHXpDorbbKE9CntN4aVXNtiENA4ilq7byW4ncIlBSw"
   verify_naver   = "67558bc01f225a55bd4fcf6dc0afd7188dbf5d70"
   verify_bing    = ""
-  adsense_pub_id = ""
+  adsense_pub_id = "ca-pub-7608448237186938"
   daum_verification = ""
 
 [taxonomies]
