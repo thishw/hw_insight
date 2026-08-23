@@ -126,6 +126,27 @@
       "slug_hint": "power-bottleneck-of-intelligence",
       "title": "The New Landscape of AI Infrastructure: From the Era of Chips to the Era of Power",
       "url": "https://insight.thishw.com/en/posts/power-bottleneck-of-intelligence/"
+    },
+    {
+      "content_id": "synapse:12a22e8c-6b90-487e-8433-ce4cde48c65b-en",
+      "gate_version": "1.4.0",
+      "keywords": [
+        "AI code generation",
+        "code review bottleneck",
+        "agent harness",
+        "pull request queue",
+        "security debt",
+        "vulnerability density",
+        "LLM code validation",
+        "productivity bottleneck"
+      ],
+      "language": "en",
+      "path": "content/posts/2026-07-24-agent-verification-bottleneck.en.md",
+      "platform": "github_site",
+      "published_at": "2026-08-23T06:40:01.952721Z",
+      "slug_hint": "agent-verification-bottleneck",
+      "title": "The New Bottleneck in the Agent Era: Verification Infrastructure Determines Competitive Advantage",
+      "url": "https://insight.thishw.com/en/posts/agent-verification-bottleneck/"
     }
   ],
   "version": 1
