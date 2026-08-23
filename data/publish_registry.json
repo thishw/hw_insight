@@ -105,6 +105,27 @@
       "slug_hint": "regulation-as-the-real-moat",
       "title": "The Real Weapon That Makes or Breaks a Business: 'The Ability to Navigate Regulations'",
       "url": "https://insight.thishw.com/en/posts/regulation-as-the-real-moat/"
+    },
+    {
+      "content_id": "synapse:0cf23aca-f3f7-444b-ba60-64310c98246f-en",
+      "gate_version": "1.4.0",
+      "keywords": [
+        "AI infrastructure",
+        "data center",
+        "power grid",
+        "hyperscaler",
+        "GPU",
+        "Jevons paradox",
+        "nuclear power",
+        "big tech"
+      ],
+      "language": "en",
+      "path": "content/posts/2026-07-20-power-bottleneck-of-intelligence.en.md",
+      "platform": "github_site",
+      "published_at": "2026-08-23T06:40:01.952721Z",
+      "slug_hint": "power-bottleneck-of-intelligence",
+      "title": "The New Landscape of AI Infrastructure: From the Era of Chips to the Era of Power",
+      "url": "https://insight.thishw.com/en/posts/power-bottleneck-of-intelligence/"
     }
   ],
   "version": 1
