@@ -233,6 +233,29 @@
       "slug_hint": "token-efficiency-discipline",
       "title": "Why Are Bills Rising While Prices Plummet: Tokenomics and Survival in the Age of Agents",
       "url": "https://insight.thishw.com/en/posts/token-efficiency-discipline/"
+    },
+    {
+      "content_id": "synapse:d0ac7c3c-4a1d-4ab3-8d74-d802c90ad8bf",
+      "gate_version": "1.4.0",
+      "keywords": [
+        "테라팹",
+        "일론 머스크",
+        "자유전자레이저 FEL",
+        "ASML EUV",
+        "반도체 공장",
+        "입자가속기",
+        "AI 반도체",
+        "인텔 파운드리",
+        "스페이스X 반도체",
+        "EUV 노광"
+      ],
+      "language": "ko",
+      "path": "content/posts/2026-08-25-accelerator-euv-challenge.md",
+      "platform": "github_site",
+      "published_at": "2026-08-25T20:00:01.316705Z",
+      "slug_hint": "accelerator-euv-challenge",
+      "title": "일론 머스크의 테라팹: 입자가속기로 반도체 노광 독점을 깨겠다는 도전",
+      "url": "https://insight.thishw.com/posts/accelerator-euv-challenge/"
     }
   ],
   "version": 1
