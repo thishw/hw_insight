@@ -256,6 +256,29 @@
       "slug_hint": "accelerator-euv-challenge",
       "title": "일론 머스크의 테라팹: 입자가속기로 반도체 노광 독점을 깨겠다는 도전",
       "url": "https://insight.thishw.com/posts/accelerator-euv-challenge/"
+    },
+    {
+      "content_id": "synapse:d0ac7c3c-4a1d-4ab3-8d74-d802c90ad8bf-en",
+      "gate_version": "1.4.0",
+      "keywords": [
+        "terafab",
+        "Elon Musk",
+        "free electron laser FEL",
+        "ASML EUV",
+        "semiconductor fab",
+        "particle accelerator",
+        "AI chip",
+        "Intel Foundry",
+        "SpaceX semiconductor",
+        "EUV lithography"
+      ],
+      "language": "en",
+      "path": "content/posts/2026-08-25-accelerator-euv-challenge.en.md",
+      "platform": "github_site",
+      "published_at": "2026-08-26T16:20:02.110146Z",
+      "slug_hint": "accelerator-euv-challenge",
+      "title": "Elon Musk's TeraFab: A Bid to Break the Chip Lithography Monopoly with a Particle Accelerator",
+      "url": "https://insight.thishw.com/en/posts/accelerator-euv-challenge/"
     }
   ],
   "version": 1
