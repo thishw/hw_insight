@@ -152,6 +152,14 @@ timeZone = "Asia/Seoul"
   adsense_pub_id = "ca-pub-7608448237186938"
   daum_verification = ""
 
+# WP-W: 자매 매체 내비게이션(공유 테마 footer partial) — 자기 자신 제외, 형제 2개
+[[params.network_links]]
+  name = "The Korea Pulse"
+  url  = "https://pulse.koreasignals.com/"
+[[params.network_links]]
+  name = "The Korea Wave"
+  url  = "https://wave.koreasignals.com/"
+
 [taxonomies]
   category = "categories"
 
