@@ -6,9 +6,10 @@ description: "AI 크롤링으로 웹의 무상 트래픽 보상 구조가 붕괴
 slug: "ai-crawler-toll-era"
 keywords: ["AI", "웹 크롤링", "트래픽 보상", "클라우드플레어", "봇 차단", "콘텐츠 과금", "종량 과금", "콘텐츠 라이선스", "RSL 1.0", "롱테일 퍼블리셔"]
 categories: ["테크", "생각"]
+media_type: "article"
 ---
 
-2026년 5~6월 실측 데이터 기준, 앤트로픽의 크롤-유입 비율(crawl-to-refer ratio)은 약 4,580:1에 달하지만 구글은 약 5:1을 기록했다. 지난 30년간 웹을 지탱해온 '콘텐츠 무상 제공과 트래픽 보상'이라는 암묵적 교환비가 마침내 완전히 붕괴했음을 보여준다.
+2026년 1월 56,969:1에 달했던 앤트로픽의 크롤-유입 비율(crawl-to-refer ratio)은 7월 2,363:1까지 낮아졌지만 여전히 구글의 약 5:1과는 비교가 안 될 정도로 높은 수준이다. 지난 30년간 웹을 지탱해온 '콘텐츠 무상 제공과 트래픽 보상'이라는 암묵적 교환비가 마침내 완전히 붕괴했음을 보여준다.
 
 > AI 모델이 데이터를 빨아들이는 입구와 지능을 내뿜는 출구 모두에 철저한 계량 과금이 적용되는 새로운 경제 질서가 열리고 있다. 범용 지식의 가치가 하락하는 가운데, 인간의 고유한 1차 경험과 직접적인 유입 경로만이 롱테일 퍼블리셔의 유일한 생존 해자가 될 것으로 보인다.
 
@@ -41,7 +42,7 @@ categories: ["테크", "생각"]
 
 웹의 입력측에서도 공짜 원료였던 콘텐츠에 명확한 가격표가 붙기 시작했다. 뉴스 코프(News Corp)가 오픈AI와 5년 2억 5천만 달러 규모의 딜을 맺은 것처럼 대형 매체는 개별 협상력을 발휘한다.
 
-한편 롱테일 퍼블리셔들을 위해서는 새로운 기술 표준이 등장했다. RSL(Really Simple Licensing) 1.0이란 robots.txt를 확장하여 구독, pay-per-crawl, pay-per-inference 등 기계가독 형태의 콘텐츠 라이선스 가격 모델을 명시하는 표준이다. AP통신 등 1,500개 이상 기관이 이 표준을 지지하며 데이터 권리를 주장하고 나섰다.
+한편 롱테일 퍼블리셔들을 위해서는 새로운 기술 표준이 등장했다. RSL(Really Simple Licensing) 1.0이란 robots.txt를 확장하여 구독, pay-per-crawl, pay-per-inference 등 기계가독 형태의 콘텐츠 라이선스 가격 모델을 명시하는 표준이다. Reddit, Quora, Yahoo, Medium 등 주요 브랜드가 이 표준을 지지하며 데이터 권리를 주장하고 나섰다.
 
 ## 발견 인프라의 지각변동과 퍼블리셔의 딜레마
 
@@ -81,11 +82,11 @@ graph TD
 <details class="sources">
 <summary>참고 자료 (6) — SEOmator · Cloudflare Blog · Technology Checker · TechCrunch · Press Gazette · Search Engine Land</summary>
 <ul>
-<li><a href="https://seomator.com/blog/crawl-to-refer-ratio-ai-crawlers-llm-bots">2026년 5~6월 실측 크롤-유입 비율</a> — SEOmator</li>
+<li><a href="https://seomator.com/blog/crawl-to-refer-ratio-ai-crawlers-llm-bots">앤트로픽 크롤-유입 비율 월별 추이(2026년 1~7월)</a> — SEOmator</li>
 <li><a href="https://blog.cloudflare.com/content-independence-day-ai-options/">Cloudflare 봇 분류 및 기본 차단 정책 발표</a> — Cloudflare Blog, 2026-07-01</li>
 <li><a href="https://technologychecker.io/blog/search-engine-market-share">AI 챗봇 합산 referral 트래픽 지표</a> — Technology Checker, 2026-05</li>
 <li><a href="https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/">Pay Per Use 과금 및 초기 파트너</a> — TechCrunch, 2026-07-01</li>
 <li><a href="https://pressgazette.co.uk/platforms/news-publisher-ai-deals-lawsuits-openai-google/">News Corp 및 OpenAI 라이선싱 딜</a> — Press Gazette</li>
-<li><a href="https://searchengineland.com/really-simple-licensing-461834">RSL 표준의 1,500개 기관 지지</a> — Search Engine Land</li>
+<li><a href="https://searchengineland.com/really-simple-licensing-461834">RSL 표준을 지지하는 주요 브랜드</a> — Search Engine Land</li>
 </ul>
 </details>
