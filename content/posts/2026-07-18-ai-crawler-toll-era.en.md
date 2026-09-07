@@ -1,6 +1,6 @@
 ---
 title: "Two-Way Tollbooths in the Age of AI: The Collapse of the Web's Free Exchange and Survival Strategies"
-date: "2026-08-22"
+date: "2026-07-18"
 draft: false
 description: "As AI crawling collapses the web's free traffic reward structure, we analyze publishers' survival strategies and the new monetization infrastructure being built"
 slug: "ai-crawler-toll-era"

@@ -1,6 +1,6 @@
 ---
 title: "The Era of Metered Intelligence: The End of Unlimited Plans and New Cost Capabilities"
-date: "2026-08-22"
+date: "2026-07-10"
 draft: false
 description: "With unlimited AI plans failing to handle machine-speed agents, the metered intelligence era of token-based billing has arrived, making intelligent model routin"
 slug: "metered-intelligence"

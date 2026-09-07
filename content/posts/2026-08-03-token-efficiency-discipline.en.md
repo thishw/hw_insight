@@ -1,6 +1,6 @@
 ---
 title: "Why Are Bills Rising While Prices Plummet: Tokenomics and Survival in the Age of Agents"
-date: "2026-08-22"
+date: "2026-08-03"
 draft: false
 description: "Despite plummeting AI inference costs, massive resource consumption by agents is causing infrastructure bills to soar, making context engineering—curating minim"
 slug: "token-efficiency-discipline"
