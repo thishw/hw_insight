@@ -1,15 +1,15 @@
 ---
-title: "Two-Way Tollbooths in the Age of AI: The Collapse of the Web's Free Exchange and Survival Strategies"
+title: "Two-Way Tollbooths in the AI Era: The Collapse of the Web's Free Bargain and Survival Strategies"
 date: "2026-07-18"
 draft: false
-description: "As AI crawling collapses the web's free traffic reward structure, we analyze publishers' survival strategies and the new monetization infrastructure being built"
+description: "As AI crawling collapses the web's free traffic reward system, we analyze publisher survival strategies and the new monetization infrastructure, including Cloud"
 slug: "ai-crawler-toll-era"
 keywords: ["AI", "web crawling", "traffic compensation", "Cloudflare", "bot blocking", "content monetization", "metered billing", "content licensing", "RSL 1.0", "long-tail publisher"]
 categories: ["Tech", "Thoughts"]
 media_type: "article"
 ---
 
-Based on actual measured data from May to June 2026, Anthropic's crawl-to-refer ratio reached approximately 4,580:1, while Google recorded about 5:1. This shows that the implicit exchange ratio of "free content provision for traffic compensation" that has sustained the web for the past 30 years has finally completely collapsed.
+Anthropic's crawl-to-refer ratio, which reached 56,969:1 in January 2026, fell to 2,363:1 by July—yet still dwarfs Google's roughly 5:1. This shows that the implicit exchange ratio of "free content provision for traffic compensation" that has sustained the web for the past 30 years has finally completely collapsed.
 
 > A new economic order is opening up where strict metered billing is applied to both the inlet where AI models suck in data and the outlet where they emit intelligence. As the value of general-purpose knowledge declines, it seems that human's unique primary experiences and direct referral paths will be the only survival moats for long-tail publishers.
 
@@ -42,7 +42,7 @@ The transition of the billing model for intelligence is like a restaurant changi
 
 On the input side of the web, clear price tags have begun to be attached to content, which used to be a free raw material. Large media outlets are exercising individual negotiating power, much like News Corp signing a 5-year, $250 million deal with OpenAI.
 
-Meanwhile, a new technical standard has emerged for long-tail publishers. RSL (Really Simple Licensing) 1.0 is a standard that extends robots.txt to specify machine-readable content licensing pricing models such as subscriptions, pay-per-crawl, and pay-per-inference. More than 1,500 organizations, including the Associated Press, have stepped forward to assert their data rights by supporting this standard.
+Meanwhile, a new technical standard has emerged for long-tail publishers. RSL (Really Simple Licensing) 1.0 is a standard that extends robots.txt to specify machine-readable content licensing pricing models such as subscriptions, pay-per-crawl, and pay-per-inference. Major brands including Reddit, Quora, Yahoo, and Medium have stepped forward to assert their data rights by supporting this standard.
 
 ## Seismic Shifts in Discovery Infrastructure and the Publisher's Dilemma
 
@@ -82,12 +82,12 @@ The way for a website to survive in the age of intelligence is to hold the roste
 <details class="sources">
 <summary>References (6) — SEOmator · Cloudflare Blog · Technology Checker · TechCrunch · Press Gazette · Search Engine Land</summary>
 <ul>
-<li><a href="https://seomator.com/blog/crawl-to-refer-ratio-ai-crawlers-llm-bots">Measured crawl-to-refer ratio, May-June 2026</a> — SEOmator</li>
+<li><a href="https://seomator.com/blog/crawl-to-refer-ratio-ai-crawlers-llm-bots">Anthropic's crawl-to-refer ratio, monthly trend (Jan-Jul 2026)</a> — SEOmator</li>
 <li><a href="https://blog.cloudflare.com/content-independence-day-ai-options/">Cloudflare announces bot classification and default blocking policies</a> — Cloudflare Blog, 2026-07-01</li>
 <li><a href="https://technologychecker.io/blog/search-engine-market-share">Combined referral traffic metrics of AI chatbots</a> — Technology Checker, 2026-05</li>
 <li><a href="https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/">Pay Per Use billing and initial partners</a> — TechCrunch, 2026-07-01</li>
 <li><a href="https://pressgazette.co.uk/platforms/news-publisher-ai-deals-lawsuits-openai-google/">News Corp and OpenAI licensing deal</a> — Press Gazette</li>
-<li><a href="https://searchengineland.com/really-simple-licensing-461834">1,500+ organizations support RSL standard</a> — Search Engine Land</li>
+<li><a href="https://searchengineland.com/really-simple-licensing-461834">Major brands supporting the RSL standard</a> — Search Engine Land</li>
 </ul>
 </details>
 
