@@ -1,6 +1,6 @@
 ---
 title: "The New Bottleneck in the Agent Era: Verification Infrastructure Determines Competitive Advantage"
-date: "2026-08-22"
+date: "2026-07-24"
 draft: false
 description: "While AI agents explode code production, human review limits create severe verification bottlenecks, highlighting the fatal security debt of unverified AI code"
 slug: "agent-verification-bottleneck"

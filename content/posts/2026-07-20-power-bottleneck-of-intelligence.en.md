@@ -1,6 +1,6 @@
 ---
 title: "The New Landscape of AI Infrastructure: From the Era of Chips to the Era of Power"
-date: "2026-08-22"
+date: "2026-07-20"
 draft: false
 description: "The core bottleneck for AI infrastructure has shifted from chips to power; we analyze the new paradigm and fierce competition of Big Tech companies moving beyon"
 slug: "power-bottleneck-of-intelligence"
