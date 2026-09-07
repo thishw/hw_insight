@@ -279,6 +279,29 @@
       "slug_hint": "accelerator-euv-challenge",
       "title": "Elon Musk's TeraFab: A Bid to Break the Chip Lithography Monopoly with a Particle Accelerator",
       "url": "https://insight.thishw.com/en/posts/accelerator-euv-challenge/"
+    },
+    {
+      "content_id": "synapse:8806ff97-3145-469f-97af-6071d22b24fc",
+      "gate_version": "1.4.0",
+      "keywords": [
+        "AI",
+        "웹 크롤링",
+        "트래픽 보상",
+        "클라우드플레어",
+        "봇 차단",
+        "콘텐츠 과금",
+        "종량 과금",
+        "콘텐츠 라이선스",
+        "RSL 1.0",
+        "롱테일 퍼블리셔"
+      ],
+      "language": "ko",
+      "path": "content/posts/2026-07-18-ai-crawler-toll-era.md",
+      "platform": "github_site",
+      "published_at": "2026-09-07T06:20:01.471265Z",
+      "slug_hint": "ai-crawler-toll-era",
+      "title": "AI 시대의 양방향 요금소: 무너지는 웹의 무료 거래와 생존 전략",
+      "url": "https://insight.thishw.com/posts/ai-crawler-toll-era/"
     }
   ],
   "version": 1
