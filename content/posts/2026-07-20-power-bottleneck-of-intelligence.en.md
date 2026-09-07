@@ -2,7 +2,7 @@
 title: "The New Landscape of AI Infrastructure: From the Era of Chips to the Era of Power"
 date: "2026-07-20"
 draft: false
-description: "The core bottleneck for AI infrastructure has shifted from chips to power; we analyze the new paradigm and fierce competition of Big Tech companies moving beyon"
+description: "As the AI infrastructure bottleneck shifts from semiconductor chips to power, we analyze the new paradigm shift and fierce survival competition among big tech c"
 slug: "power-bottleneck-of-intelligence"
 keywords: ["AI infrastructure", "data center", "power grid", "hyperscaler", "GPU", "Jevons paradox", "nuclear power", "big tech"]
 categories: ["Tech", "Investing"]
@@ -66,7 +66,7 @@ The capital expenditure (CAPEX) of hyperscalers has already breached a critical 
 
 Massive capital always tends to flow toward the narrowest chokepoints in the supply chain. If this trend continues, we will likely see an extended period of unprecedented earnings surprises from infrastructure equipment companies.
 
-As of Q1 2026, GE Vernova's gas turbine backlog reached a staggering 100 GW. With data centers sweeping up $2.4 billion worth per quarter, gas turbine orders surged by 70% in 2025 alone. The price of new gas turbines is expected to soar to $600 per kW by the end of 2027. 
+As of Q1 2026, GE Vernova's gas turbine backlog reached a staggering 100 GW. With data centers sweeping up $2.4 billion worth in that same quarter, gas turbine shipments rose 32% year-over-year. The price of new gas turbines is expected to soar to $600 per kW by the end of 2027. 
 
 However, the financial market is not lifting the entire energy sector indiscriminately. It is strictly filtering and revaluing only those entities that prove their performance with hard numbers, such as gas turbines, power equipment, and nuclear startups intertwined with this demand.
 
@@ -87,7 +87,7 @@ When power becomes the bottleneck, the standard of competition shifts. It is no 
 
 The HBM shortage, which solidified over the past six months, is projected to last until at least the end of 2027. Clients are clamoring to double their orders for legacy DRAM as well as HBM, locking in multi-year Long-Term Agreements (LTAs) with fixed pricing or no upper/lower limits.
 
-However, the fatal risk remains the power grid. The electricity required for the Yongin Semiconductor Cluster—combining Samsung Electronics' 15 GW and SK Hynix's 6.3 GW—is equivalent to more than 10 nuclear power plants, and this power must be drawn from outside the greater Seoul metropolitan area.
+However, the fatal risk remains the power grid. Samsung Electronics' Yongin Semiconductor Cluster alone requires 15 GW—equivalent to more than 10 nuclear power plants—while SK Hynix's separate cluster in the southwestern Seonam region needs another 6.3 GW; both must draw that power from outside the greater Seoul metropolitan area.
 
 The true bottleneck here is not generation, but transmission. No matter where power plants are built, transporting that electricity to the cluster requires ultra-high voltage transmission grids and substations, which typically take over 10 years to construct. The exact same structural issue of grid connection delays seen earlier in the US and Europe is repeating in South Korea. The pace of building factories and the pace of delivering electricity operate on completely different timetables from the start.
 
