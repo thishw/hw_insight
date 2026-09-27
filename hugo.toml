@@ -156,9 +156,13 @@ timeZone = "Asia/Seoul"
 [[params.network_links]]
   name = "The Korea Pulse"
   url  = "https://pulse.koreasignals.com/"
+  feed = "https://pulse.koreasignals.com/index.xml"
+  latest = 5
 [[params.network_links]]
   name = "The Korea Wave"
   url  = "https://wave.koreasignals.com/"
+  feed = "https://wave.koreasignals.com/index.xml"
+  latest = 5
 
 [taxonomies]
   category = "categories"
