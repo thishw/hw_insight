@@ -44,7 +44,7 @@
     },
     {
       "content_id": "synapse:e2324283-64a6-4b43-9050-bf20e320a139",
-      "gate_version": "1.2.0",
+      "gate_version": "1.4.0",
       "keywords": [
         "토큰 경제학",
         "에이전트",
@@ -58,7 +58,7 @@
       "language": "ko",
       "path": "content/posts/2026-08-03-token-efficiency-discipline.md",
       "platform": "github_site",
-      "published_at": "2026-08-03T22:09:26.970795Z",
+      "published_at": "2026-09-28T07:08:43.596829Z",
       "slug_hint": "token-efficiency-discipline",
       "title": "가격은 폭락하는데 청구서는 왜 커지는가: 토큰 경제학과 에이전트 시대의 생존법",
       "url": "https://insight.thishw.com/posts/token-efficiency-discipline/"
