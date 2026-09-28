@@ -324,6 +324,29 @@
       "slug_hint": "regulation-as-the-real-moat",
       "title": "비즈니스의 승패를 가르는 진짜 무기: '규제를 다루는 능력'",
       "url": "https://insight.thishw.com/posts/regulation-as-the-real-moat/"
+    },
+    {
+      "content_id": "synapse:3b5e3b18-c16d-4d9e-8964-bb62c4a0ea01",
+      "gate_version": "1.4.0",
+      "keywords": [
+        "AI 시대",
+        "이중 회전 전략",
+        "AI 실험",
+        "포트폴리오 회전율",
+        "제번스 역설",
+        "AI 비용 절감",
+        "AI 연산 수요",
+        "AI 인프라 투자",
+        "데이터센터·반도체·전력",
+        "우량 기업 장기 투자"
+      ],
+      "language": "ko",
+      "path": "content/posts/2026-09-28-dual-rotation-strategy.md",
+      "platform": "github_site",
+      "published_at": "2026-09-28T11:40:01.427253Z",
+      "slug_hint": "dual-rotation-strategy",
+      "title": "AI 시대의 이중 회전 전략: 실험은 빠르게, 포트폴리오는 느리게",
+      "url": "https://insight.thishw.com/posts/dual-rotation-strategy/"
     }
   ],
   "version": 1
