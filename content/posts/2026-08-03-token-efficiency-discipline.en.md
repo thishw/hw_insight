@@ -32,7 +32,7 @@ The problem is that agents, unlike humans, operate at machine speed and burn thr
 
 Ultimately, the strategy of merely waiting and relying on unit price drops is likely to fail miserably. This is because usage does not stay static even when unit prices fall.
 
-The upper end of the supply chain operates on the same premise. In July 2026, Samsung Electronics Chairman Lee Jae-yong met with Sam Altman at OpenAI headquarters in San Francisco to discuss AI and semiconductor cooperation, with observations focusing on HBM and foundries ([The Korea Pulse](https://pulse.koreasignals.com/posts/lee-jae-yong-meets-sam-altman-as-samsung-eyes-the-ai-chip-race/)). While it is still in the realm of expectation rather than a confirmed contract, it is a signal that as inference unit prices fall, they are trying to lock in the memory and manufacturing capabilities that will support that inference in advance.
+The upper end of the supply chain operates on the same premise. In July 2026, Samsung Electronics Chairman Lee Jae-yong met with Sam Altman at OpenAI headquarters in San Francisco to discuss AI and semiconductor cooperation, with observations focusing on HBM and foundries ([Maeil Business Newspaper](https://www.mk.co.kr/news/business/12107558), [The Korea Economic Daily](https://www.hankyung.com/article/2026072556727)). While it is still in the realm of expectation rather than a confirmed contract, it is a signal that as inference unit prices fall, they are trying to lock in the memory and manufacturing capabilities that will support that inference in advance.
 
 ## The Collapse of an Illusion: Tokens Are Not Value
 
@@ -111,7 +111,7 @@ Ultimately, the center of capability has completely shifted from picking a singl
 
 However, even with such fierce subtraction and optimization, overall infrastructure demand is expected to continue skyrocketing. This is because tokens have essentially been incorporated as a new intermediate good in knowledge work.
 
-The market is already pricing in that premise. On July 31, 2026, SK Hynix hit its daily limit during intraday trading, soaring 29.95% to 1,718,000 won, and Samsung Electronics also jumped over 20%, but even at those levels, both stocks remained around half of analysts' target prices ([The Korea Pulse](https://pulse.koreasignals.com/posts/sk-hynix-touches-koreas-daily-limit-at-1718000-won-and-analysts-still-see-room/)).
+The market is already pricing in that premise. On July 31, 2026, SK Hynix hit its daily limit during intraday trading, soaring 29.95% to 1,718,000 won, and Samsung Electronics also jumped over 20%, but even at those levels, both stocks remained around half of analysts' target prices ([Yonhap News Agency](https://www.yna.co.kr/view/AKR20260731102700008), [Yonhap News Agency](https://www.yna.co.kr/view/AKR20260801014400008)).
 
 A powerful new input factor called the agent has entered the production function, which in the past was summarized by human time and skill. It is a structural shift where the marginal cost of execution in knowledge work dramatically converges to zero.
 
