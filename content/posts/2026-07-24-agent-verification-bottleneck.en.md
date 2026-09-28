@@ -7,6 +7,7 @@ slug: "agent-verification-bottleneck"
 keywords: ["AI code generation", "code review bottleneck", "agent harness", "pull request queue", "security debt", "vulnerability density", "LLM code validation", "productivity bottleneck"]
 categories: ["Tech", "Thoughts"]
 media_type: "article"
+og_image: "images/posts/agent-verification-bottleneck.jpg"
 ---
 
 There is a clear indicator of just how severe the queue drain has become. According to Faros AI's 2026 Engineering Benchmark, AI-generated pull requests wait 4.6 times longer before a reviewer picks them up. While code pours out at machine speed, the reviewers approving it remain at human speed. In an era where generation has become free, the true bottleneck has completely shifted from 'production' to 'verification'.

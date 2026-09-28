@@ -6,6 +6,7 @@ description: "AI 무제한 요금제가 저물고 토큰 사용량만큼 과금�
 slug: "metered-intelligence"
 keywords: ["생성형 AI", "토큰 과금", "종량제 과금", "앤트로픽", "지능 라우팅", "무제한 요금제", "AI 비용", "AI 모델"]
 categories: ["테크", "생각"]
+og_image: "images/posts/metered-intelligence.jpg"
 ---
 
 복수 매체 보도에 따르면 클로드(Claude)의 최상위 모델 Fable 5는 구독 포함 기간이 7월 12일까지 연장됐고, 13일부터 사용량 크레딧으로 넘어간다. 생성형 AI 시장은 이제 정액제 뷔페 모델을 사실상 종료하고, 모든 사용량에 비용을 매기는 '지능의 계량기 시대'로 진입했다.

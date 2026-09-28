@@ -7,6 +7,7 @@ slug: "token-efficiency-discipline"
 keywords: ["토큰 경제학", "에이전트", "컨텍스트 엔지니어링", "추론 비용", "제번스의 역설", "토큰 투자 수익률", "컨텍스트 로트", "프롬프트 엔지니어링"]
 categories: ["테크", "생각"]
 media_type: "article"
+og_image: "images/posts/token-efficiency-discipline.jpg"
 ---
 
 MMLU 42점을 내는 AI의 추론 가격은 불과 3년 만에 1000배나 폭락했지만, 기업의 인프라 청구서는 눈덩이처럼 불어나고 있다. 정답은 공급자의 가격표가 아니라 사용자의 설계 규율에 있다.

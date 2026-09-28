@@ -5,6 +5,7 @@ slug: "ai-hardware-revaluation"
 description: "AI가 키우는 메모리·저장장치 수요는 서버를 넘어 자동차·로봇까지 번지고, 모델이 좋아질수록 같은 하드웨어의 가치가 오른다. 수요처의 폭과 단위 가치가 동시에 오르는 구조를 데이터로 짚는다."
 categories: ["투자"]
 keywords: ["AI 메모리", "HBM 슈퍼사이클", "온디바이스 AI", "엣지 AI", "하드웨어 투자", "메모리 반도체", "로컬 모델", "피지컬 AI"]
+og_image: "images/posts/ai-hardware-revaluation.jpg"
 ---
 
 > **핵심 요약**

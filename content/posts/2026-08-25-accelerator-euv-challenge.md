@@ -7,6 +7,7 @@ slug: "accelerator-euv-challenge"
 keywords: ["테라팹", "일론 머스크", "자유전자레이저 FEL", "ASML EUV", "반도체 공장", "입자가속기", "AI 반도체", "인텔 파운드리", "스페이스X 반도체", "EUV 노광"]
 categories: ["테크", "투자"]
 media_type: "article"
+og_image: "images/posts/accelerator-euv-challenge.jpg"
 ---
 
 2026년 3월, 일론 머스크가 던진 문장 하나가 반도체 업계를 흔들었다. "역사상 가장 서사적인 칩 제조 프로젝트." 이름은 테라팹이다.

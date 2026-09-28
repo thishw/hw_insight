@@ -6,6 +6,7 @@ description: "한국은 메모리를 팔아 역대 최대 경상흑자를 냈지
 slug: "sovereign-ai-and-korea"
 categories: ["테크"]
 keywords: ["소버린 AI", "AI 주권", "디지털 서비스수지", "AI 구독 유출", "HBM", "국산 NPU", "AI 반도체 자립", "독자 파운데이션 모델", "딥시크 데이터 주권", "원화 약세"]
+og_image: "images/posts/sovereign-ai-and-korea.jpg"
 ---
 
 이번 달 카드 명세서에 찍힌 달러 결제를 세어 봤다. ChatGPT, Claude, 그리고 코딩 도구 몇 개. 다 합치니 매달 수백 달러가 조용히 태평양을 건너가고 있었다.

@@ -7,6 +7,7 @@ slug: "power-bottleneck-of-intelligence"
 keywords: ["AI 인프라", "데이터센터", "전력망", "하이퍼스케일러", "GPU", "제번스 역설", "원자력", "빅테크"]
 categories: ["테크", "투자"]
 media_type: "article"
+og_image: "images/posts/power-bottleneck-of-intelligence.jpg"
 ---
 
 냉장고 한 대 크기의 AI 서버 랙 하나가 가구 65곳의 피크 전력을 몽땅 집어삼키는 시대다. 향후 AI 산업의 패권은 GPU 확보량이 아니라 막대한 전력을 얼마나 빠르고 안정적으로 조달할 수 있는지에 달린 것 같다.

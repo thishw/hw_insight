@@ -7,6 +7,7 @@ slug: "dual-rotation-strategy"
 keywords: ["AI era", "dual rotation strategy", "AI experimentation", "portfolio turnover", "Jevons paradox", "AI cost reduction", "AI compute demand", "AI infrastructure investment", "data centers·semiconductors·power", "long-term investment in high-quality companies"]
 categories: ["Investing", "Tech", "Thoughts"]
 media_type: "article"
+og_image: "images/posts/dual-rotation-strategy.jpg"
 ---
 
 AI has reduced not only the cost of intelligence but also the “cost of being wrong.” Yet as experimentation becomes easier, usage and total demand can surge, making it essential to design for both rapid exploration and patient investing.

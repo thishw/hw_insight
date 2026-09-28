@@ -7,6 +7,7 @@ slug: "metered-intelligence"
 keywords: ["generative AI", "token billing", "pay-as-you-go pricing", "Anthropic", "intelligent routing", "unlimited plan", "AI cost", "AI model"]
 categories: ["Tech", "Thoughts"]
 media_type: "article"
+og_image: "images/posts/metered-intelligence.jpg"
 ---
 
 According to multiple media reports, the subscription inclusion period for Claude's top-tier model, Fable 5, has been extended to July 12, and it will transition to usage credits starting on the 13th. The generative AI market has now effectively ended the flat-rate buffet model and entered the "metered era of intelligence," where all usage is strictly billed.

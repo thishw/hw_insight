@@ -6,6 +6,7 @@ description: "Fable을 써 보고 생각이 바뀌었다. AI는 이제 사람의
 slug: "fable-intelligence-retail-era"
 categories: ["테크"]
 keywords: ["Claude Fable 5", "AI 프로덕트 생성", "원샷 프롬프트", "지능 계층 요금제", "AI 도매 소매", "하네스 엔지니어링", "저가 AI 모델", "딥시크 가격", "AI 서비스 대체", "지능 권력론"]
+og_image: "images/posts/fable-intelligence-retail-era.jpg"
 ---
 
 며칠 전부터 개발자들의 타임라인엔 비슷한 장면이 반복됐다. **프롬프트 한 줄을 넣고 자리를 비웠다가 돌아오니, 게임 하나가 통째로 만들어져 있더라**는 이야기들이다.

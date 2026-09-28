@@ -7,6 +7,7 @@ slug: "power-bottleneck-of-intelligence"
 keywords: ["AI infrastructure", "data center", "power grid", "hyperscaler", "GPU", "Jevons paradox", "nuclear power", "big tech"]
 categories: ["Tech", "Investing"]
 media_type: "article"
+og_image: "images/posts/power-bottleneck-of-intelligence.jpg"
 ---
 
 We are now in an era where a single refrigerator-sized AI server rack consumes the peak power of 65 households combined. The future supremacy of the AI industry seems to depend not on the volume of GPUs secured, but on how quickly and reliably massive amounts of power can be sourced.

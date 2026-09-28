@@ -7,6 +7,7 @@ slug: "agent-verification-bottleneck"
 keywords: ["AI 코드 생성", "코드 리뷰 병목", "에이전트 하네스", "풀 리퀘스트 대기열", "보안 부채", "취약점 밀도", "LLM 코드 검증", "생산성 병목"]
 categories: ["테크", "생각"]
 media_type: "article"
+og_image: "images/posts/agent-verification-bottleneck.jpg"
 ---
 
 대기열에서의 소모가 얼마나 심각한지 보여주는 명확한 지표가 있다. Faros AI의 2026년 엔지니어링 벤치마크에 따르면 AI가 생성한 풀 리퀘스트는 리뷰어가 집어들기까지 4.6배 더 오래 대기한다. 코드는 기계의 속도로 쏟아지는데 이를 승인하는 리뷰어는 여전히 인간의 속도에 머물러 있으며, 생성이 공짜가 된 시대의 진정한 병목은 '생산'에서 '검증'으로 완전히 이동했다.

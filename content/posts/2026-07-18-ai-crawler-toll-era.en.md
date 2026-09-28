@@ -7,6 +7,7 @@ slug: "ai-crawler-toll-era"
 keywords: ["AI", "web crawling", "traffic compensation", "Cloudflare", "bot blocking", "content monetization", "metered billing", "content licensing", "RSL 1.0", "long-tail publisher"]
 categories: ["Tech", "Thoughts"]
 media_type: "article"
+og_image: "images/posts/ai-crawler-toll-era.jpg"
 ---
 
 Anthropic's crawl-to-refer ratio, which reached 56,969:1 in January 2026, fell to 2,363:1 by July—yet still dwarfs Google's roughly 5:1. This shows that the implicit exchange ratio of "free content provision for traffic compensation" that has sustained the web for the past 30 years has finally completely collapsed.

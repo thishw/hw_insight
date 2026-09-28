@@ -7,6 +7,7 @@ slug: "accelerator-euv-challenge"
 keywords: ["terafab", "Elon Musk", "free electron laser FEL", "ASML EUV", "semiconductor fab", "particle accelerator", "AI chip", "Intel Foundry", "SpaceX semiconductor", "EUV lithography"]
 categories: ["Tech", "Investing"]
 media_type: "article"
+og_image: "images/posts/accelerator-euv-challenge.jpg"
 ---
 
 In March 2026, a single sentence from Elon Musk shook the semiconductor industry. "The most epic chip manufacturing project in history." Its name is TeraFab.

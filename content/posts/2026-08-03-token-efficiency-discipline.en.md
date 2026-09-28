@@ -7,6 +7,7 @@ slug: "token-efficiency-discipline"
 keywords: ["token economics", "agents", "context engineering", "inference cost", "Jevons paradox", "token return on investment", "context rot", "prompt engineering"]
 categories: ["Tech", "Thoughts"]
 media_type: "article"
+og_image: "images/posts/token-efficiency-discipline.jpg"
 ---
 
 The inference cost of an AI scoring 42 on the MMLU has plummeted 1,000-fold in just three years, yet corporate infrastructure bills are snowballing. The answer lies not in the provider's price tag, but in the user's design discipline.

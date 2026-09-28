@@ -7,6 +7,7 @@ slug: "dual-rotation-strategy"
 keywords: ["AI 시대", "이중 회전 전략", "AI 실험", "포트폴리오 회전율", "제번스 역설", "AI 비용 절감", "AI 연산 수요", "AI 인프라 투자", "데이터센터·반도체·전력", "우량 기업 장기 투자"]
 categories: ["투자", "테크", "생각"]
 media_type: "article"
+og_image: "images/posts/dual-rotation-strategy.jpg"
 ---
 
 AI가 낮춘 것은 지능의 가격만이 아니라 ‘틀렸을 때 치르는 비용’이다. 그러나 시도가 쉬워질수록 사용량과 총수요는 폭증할 수 있으므로, 빠른 탐색과 느린 투자를 동시에 설계해야 한다.

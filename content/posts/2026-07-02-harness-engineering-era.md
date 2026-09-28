@@ -6,6 +6,7 @@ description: "AI 에이전트 성능을 결정하는 것은 모델 크기가 아
 slug: "harness-engineering-era"
 keywords: ["하네스 엔지니어링", "에이전트 AI", "컨텍스트 엔지니어링", "AI 에이전트 설계", "루프 엔지니어링", "에이전틱 AI", "AI 개발 패러다임", "Agent Model Harness", "spec-driven 개발", "에이전트 검증"]
 categories: ["테크"]
+og_image: "images/posts/harness-engineering-era.jpg"
 ---
 
 요즘 AI 엔지니어링 자료를 정리하다 보면 한 가지 흐름이 계속 눈에 걸린다.
