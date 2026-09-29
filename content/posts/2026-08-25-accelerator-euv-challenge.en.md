@@ -128,18 +128,3 @@ A one-line comment. As always, Musk jumped into the river before the bridge was 
 <li><a href="https://x.com/elonmusk/status/2085508463740760308">"FEL FTW"</a> — Elon Musk (X), 2026-08-06</li>
 </ul>
 </details>
-
-## TL;DR
-In March 2026, a single sentence from Elon Musk shook the semiconductor industry. "The most epic chip manufacturing project in history." Its name is TeraFab. But the real battle...
-
-- Intent: informational
-- Geo focus: us
-- Core topics: terafab, Elon Musk, free electron laser FEL
-
-## Quick Answers
-### How does ASML EUV, which makes today's most advanced chips, work?
-Tin droplets are fired more than 50,000 times per second. A high-power CO2 laser strikes these droplets precisely, vaporizing them into a light-emitting plasma. Curved mirrors gather that light and send it to the wafer.
-
-## Next Step
-Keep going with related deep dives on this topic.
-- Quality gates: unique-angle, clear-structure, source-attribution-if-needed, readability-pass
