@@ -7,6 +7,7 @@ slug: "ai-crawler-toll-era"
 keywords: ["AI", "web crawling", "traffic compensation", "Cloudflare", "bot blocking", "content monetization", "metered billing", "content licensing", "RSL 1.0", "long-tail publisher"]
 categories: ["Tech", "Thoughts"]
 media_type: "article"
+og_image: "images/posts/ai-crawler-toll-era.jpg"
 ---
 
 Anthropic's crawl-to-refer ratio, which reached 56,969:1 in January 2026, fell to 2,363:1 by July—yet still dwarfs Google's roughly 5:1. This shows that the implicit exchange ratio of "free content provision for traffic compensation" that has sustained the web for the past 30 years has finally completely collapsed.
@@ -90,17 +91,3 @@ The way for a website to survive in the age of intelligence is to hold the roste
 <li><a href="https://searchengineland.com/really-simple-licensing-461834">Major brands supporting the RSL standard</a> — Search Engine Land</li>
 </ul>
 </details>
-
-## TL;DR
-# Two-Way Tollbooths in the AI Era: The Collapse of the Web's Free Trade and Survival Strategies Based on actual measured data from May to June 2026, Anthropic's crawl-to-refer...
-
-- Intent: how_to
-- Core topics: AI, web crawling, traffic compensation
-
-## Quick Answers
-### Who can actually put a fair value on content?
-Ultimately, it seems to be a trend where CDN providers, who control bots at the network edge, are laying down collective negotiation rails and billing infrastructure.
-
-## Next Step
-Keep going with related deep dives on this topic.
-- Quality gates: unique-angle, clear-structure, source-attribution-if-needed, readability-pass
