@@ -91,17 +91,3 @@ The way for a website to survive in the age of intelligence is to hold the roste
 <li><a href="https://searchengineland.com/really-simple-licensing-461834">Major brands supporting the RSL standard</a> — Search Engine Land</li>
 </ul>
 </details>
-
-## TL;DR
-# Two-Way Tollbooths in the AI Era: The Collapse of the Web's Free Trade and Survival Strategies Based on actual measured data from May to June 2026, Anthropic's crawl-to-refer...
-
-- Intent: how_to
-- Core topics: AI, web crawling, traffic compensation
-
-## Quick Answers
-### Who can actually put a fair value on content?
-Ultimately, it seems to be a trend where CDN providers, who control bots at the network edge, are laying down collective negotiation rails and billing infrastructure.
-
-## Next Step
-Keep going with related deep dives on this topic.
-- Quality gates: unique-angle, clear-structure, source-attribution-if-needed, readability-pass
