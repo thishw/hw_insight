@@ -7,6 +7,7 @@ slug: "dual-rotation-strategy"
 keywords: ["AI era", "dual rotation strategy", "AI experimentation", "portfolio turnover", "Jevons paradox", "AI cost reduction", "AI compute demand", "AI infrastructure investment", "data centers·semiconductors·power", "long-term investment in high-quality companies"]
 categories: ["Investing", "Tech", "Thoughts"]
 media_type: "article"
+og_image: "images/posts/dual-rotation-strategy.jpg"
 ---
 
 AI has reduced not only the cost of intelligence but also the “cost of being wrong.” Yet as experimentation becomes easier, usage and total demand can surge, making it essential to design for both rapid exploration and patient investing.
@@ -108,13 +109,3 @@ In the same vein, AI can increase experiment turnover in the process of discover
 The fact that AI has made being wrong cheaper does not mean every decision should be made lightly. Easily reversible experiments should move quickly, while capital allocation that depends on compounding should move slowly.
 
 **One-line comment.** In the AI era, it may be wise to test-drive widely—but once you have chosen a good car, avoid switching vehicles repeatedly before reaching your destination.
-
-## TL;DR
-# The Dual-Turnover Strategy for the AI Era: Experiment Fast, Rotate Portfolios Slowly AI has reduced not only the cost of intelligence but also the “cost of being wrong.” Yet a...
-
-- Intent: informational
-- Core topics: AI era, dual rotation strategy, AI experimentation
-
-## Next Step
-Keep going with related deep dives on this topic.
-- Quality gates: unique-angle, clear-structure, source-attribution-if-needed, readability-pass
