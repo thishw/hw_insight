@@ -103,13 +103,3 @@ The era of unlimited buffet-style intelligence is over, and now, those who meter
 <li><a href="https://zed.dev/blog/anthropic-subscription-changes">Anthropic Subscription Changes</a> — Zed Industries</li>
 </ul>
 </details>
-
-## TL;DR
-# The Metered Era of Intelligence: The End of Unlimited Plans and New Cost Competencies According to multiple media reports, the subscription inclusion period for Claude's top-t...
-
-- Intent: comparison
-- Core topics: generative AI, token billing, pay-as-you-go pricing
-
-## Next Step
-Keep going with related deep dives on this topic.
-- Quality gates: unique-angle, clear-structure, source-attribution-if-needed, readability-pass
