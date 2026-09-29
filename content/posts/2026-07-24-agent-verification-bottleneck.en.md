@@ -116,13 +116,3 @@ Let me compress the entire argument into a single-line comment. Trust is a vague
 <li><a href="https://danielkeller.com/tech/verification-not-generation/">Verification Not Generation</a> — Daniel Keller</li>
 </ul>
 </details>
-
-## TL;DR
-There is a clear indicator of just how severe the queue drain has become. According to Faros AI's 2026 Engineering Benchmark, AI-generated pull requests wait 4.6 times longer be...
-
-- Intent: how_to
-- Core topics: AI code generation, code review bottleneck, agent harness
-
-## Next Step
-Link the compared options and recommended tools to the next action.
-- Quality gates: unique-angle, clear-structure, source-attribution-if-needed, readability-pass
