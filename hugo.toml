@@ -136,6 +136,7 @@ timeZone = "Asia/Seoul"
   author         = "HW"
   site_key       = "hw_insight"
   tier           = "A"
+  show_hero      = true  # 글 본문 상단 일러스트(og_image) — 목록엔 보이는데 본문엔 없던 문제(2026-09-29)
   # CLI_HANDOFF_38 A-1: 홈/카테고리 목록은 이미 이 형식(테마 기본값)이었고 글 본문·
   # 사이드바·관련글은 ISO 하드코딩 폴백을 쓰고 있었다 — 명시 정의로 전체 통일.
   date_format    = "2006년 1월 2일"

@@ -6,6 +6,7 @@ description: "AI 관련주가 한 덩어리로 오르던 시대가 끝났다. �
 slug: "ai-market-divergence-strategy"
 keywords: ["인공지능 투자", "AI 시장 동조화", "포트폴리오 리밸런싱", "선별 투자 전략", "미국 AI 패권", "AI 하위 섹터", "AI 빌드아웃", "HBM", "바벨 전략", "AI 밸류체인"]
 categories: ["투자"]
+og_image: "images/posts/ai-market-divergence-strategy.jpg"
 ---
 
 엔비디아가 오르는 날에도 AI 소프트웨어주가 빠지는 날이 늘었다.

@@ -7,6 +7,7 @@ slug: "vertical-ai-moat-openevidence"
 keywords: ["버티컬 AI", "Openevidence", "의료 AI", "접근권 전략", "애플리케이션 레이어", "EHR", "헬스케어 AI", "독점적 데이터"]
 categories: ["테크", "투자"]
 media_type: "article"
+og_image: "images/posts/vertical-ai-moat-openevidence.jpg"
 ---
 의학 문헌이 5년마다 두 배씩 늘어나는 정보 폭발 속에서, 버티컬 AI의 승패를 가르는 진짜 해자는 모델의 매개변수 크기가 아니라 독점적 데이터와 워크플로에 대한 '접근권'이다. Openevidence는 막대한 조달 비용 대신 의사들에게 무료로 제품을 풀고, 그 사용량을 무기로 최상위 저널의 라이선스와 전자건강기록(EHR) 내의 자리를 연쇄적으로 따내며 이 공식을 증명했다.
 

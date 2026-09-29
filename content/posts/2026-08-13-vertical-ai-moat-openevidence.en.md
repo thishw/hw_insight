@@ -7,6 +7,7 @@ slug: "vertical-ai-moat-openevidence"
 keywords: ["vertical AI", "OpenEvidence", "medical AI", "access strategy", "application layer", "EHR", "healthcare AI", "proprietary data"]
 categories: ["Tech", "Investing"]
 media_type: "article"
+og_image: "images/posts/vertical-ai-moat-openevidence.jpg"
 ---
 
 Amid an information explosion where medical literature doubles every five years, the real moat that determines the success or failure of vertical AI is not the parameter size of the model, but 'access rights' to proprietary data and workflows. OpenEvidence proved this formula by distributing its product to doctors for free instead of incurring massive procurement costs, and using that usage volume as leverage to sequentially secure licenses from top-tier journals and a place within electronic health records (EHR).

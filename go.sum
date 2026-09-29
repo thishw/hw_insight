@@ -4,3 +4,7 @@ github.com/thishw/media-hugo-shared v0.0.0-20260901094448-c3240140f77f h1:bytteF
 github.com/thishw/media-hugo-shared v0.0.0-20260901094448-c3240140f77f/go.mod h1:tvxIY4YDJ8pgQRSLGLq/AlILwY0HWibx1tX1Fy9agew=
 github.com/thishw/media-hugo-shared v0.0.0-20260927180252-2812ce4a1271 h1:4Z/h+Yo40QsEJYFgUEkjo2w+Vl1Oq80P1qSjUp0RM6U=
 github.com/thishw/media-hugo-shared v0.0.0-20260927180252-2812ce4a1271/go.mod h1:tvxIY4YDJ8pgQRSLGLq/AlILwY0HWibx1tX1Fy9agew=
+github.com/thishw/media-hugo-shared v0.0.0-20260928123135-318832cd3d44 h1:uih0xoVBS63QAoEg0mlFyWSAqdXQiDF2uHBj2XCkHN4=
+github.com/thishw/media-hugo-shared v0.0.0-20260928123135-318832cd3d44/go.mod h1:tvxIY4YDJ8pgQRSLGLq/AlILwY0HWibx1tX1Fy9agew=
+github.com/thishw/media-hugo-shared v0.0.0-20260929045028-6c7857fc815a h1:tcxs3Hk+FNIZ8myARdsA8IlhyJ8a80veJpsabp0t/ZM=
+github.com/thishw/media-hugo-shared v0.0.0-20260929045028-6c7857fc815a/go.mod h1:tvxIY4YDJ8pgQRSLGLq/AlILwY0HWibx1tX1Fy9agew=

@@ -7,6 +7,7 @@ slug: "token-efficiency-discipline"
 keywords: ["token economics", "agents", "context engineering", "inference cost", "Jevons paradox", "token return on investment", "context rot", "prompt engineering"]
 categories: ["Tech", "Thoughts"]
 media_type: "article"
+og_image: "images/posts/token-efficiency-discipline.jpg"
 ---
 
 The inference cost of an AI scoring 42 on the MMLU has plummeted 1,000-fold in just three years, yet corporate infrastructure bills are snowballing. The answer lies not in the provider's price tag, but in the user's design discipline.
@@ -134,17 +135,3 @@ In the metered intelligence era, the weapon to control pouring bills and foster 
 <li><a href="https://platform.claude.com/cookbook/tool-use-context-engineering-context-engineering-tools">Context Engineering Tools</a> — Anthropic Cookbook</li>
 </ul>
 </details>
-
-## TL;DR
-# Why Are Prices Crashing While Bills Are Growing: Tokenomics and Survival Strategies in the Age of Agents The inference cost of an AI scoring 42 on the MMLU has plummeted 1,000...
-
-- Intent: commercial
-- Core topics: token economics, agents, context engineering
-
-## Quick Answers
-### We believe it is safe to fill up the space just because the context window has lengthened. Is it really okay to freely squander that finite attention budget?
-Absolutely not. As the number of tokens in the context window increases, the model's ability to accurately recall information within it actually declines, which is called context rot.
-
-## Next Step
-Keep going with related deep dives on this topic.
-- Quality gates: unique-angle, clear-structure, source-attribution-if-needed, readability-pass

@@ -7,6 +7,7 @@ slug: "ai-crawler-toll-era"
 keywords: ["AI", "웹 크롤링", "트래픽 보상", "클라우드플레어", "봇 차단", "콘텐츠 과금", "종량 과금", "콘텐츠 라이선스", "RSL 1.0", "롱테일 퍼블리셔"]
 categories: ["테크", "생각"]
 media_type: "article"
+og_image: "images/posts/ai-crawler-toll-era.jpg"
 ---
 
 2026년 1월 56,969:1에 달했던 앤트로픽의 크롤-유입 비율(crawl-to-refer ratio)은 7월 2,363:1까지 낮아졌지만 여전히 구글의 약 5:1과는 비교가 안 될 정도로 높은 수준이다. 지난 30년간 웹을 지탱해온 '콘텐츠 무상 제공과 트래픽 보상'이라는 암묵적 교환비가 마침내 완전히 붕괴했음을 보여준다.

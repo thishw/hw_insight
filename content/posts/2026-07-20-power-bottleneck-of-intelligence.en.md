@@ -7,6 +7,7 @@ slug: "power-bottleneck-of-intelligence"
 keywords: ["AI infrastructure", "data center", "power grid", "hyperscaler", "GPU", "Jevons paradox", "nuclear power", "big tech"]
 categories: ["Tech", "Investing"]
 media_type: "article"
+og_image: "images/posts/power-bottleneck-of-intelligence.jpg"
 ---
 
 We are now in an era where a single refrigerator-sized AI server rack consumes the peak power of 65 households combined. The future supremacy of the AI industry seems to depend not on the volume of GPUs secured, but on how quickly and reliably massive amounts of power can be sourced.
@@ -140,13 +141,3 @@ Ultimately, the game tilts not toward whoever bought the chips first, but whoeve
 <li><a href="https://www.ftoday.co.kr/news/articleView.html?idxno=343534">SK Telecom & AWS 103 MW AI Data Center in Ulsan Mipo</a> — Financial Today</li>
 </ul>
 </details>
-
-## TL;DR
-# The New Landscape of AI Infrastructure: From the Era of Chips to the Era of Power We are now in an era where a single refrigerator-sized AI server rack consumes the peak power...
-
-- Intent: how_to
-- Core topics: AI infrastructure, data center, power grid
-
-## Next Step
-Keep going with related deep dives on this topic.
-- Quality gates: unique-angle, clear-structure, source-attribution-if-needed, readability-pass

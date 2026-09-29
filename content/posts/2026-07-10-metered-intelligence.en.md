@@ -7,6 +7,7 @@ slug: "metered-intelligence"
 keywords: ["generative AI", "token billing", "pay-as-you-go pricing", "Anthropic", "intelligent routing", "unlimited plan", "AI cost", "AI model"]
 categories: ["Tech", "Thoughts"]
 media_type: "article"
+og_image: "images/posts/metered-intelligence.jpg"
 ---
 
 According to multiple media reports, the subscription inclusion period for Claude's top-tier model, Fable 5, has been extended to July 12, and it will transition to usage credits starting on the 13th. The generative AI market has now effectively ended the flat-rate buffet model and entered the "metered era of intelligence," where all usage is strictly billed.
@@ -102,13 +103,3 @@ The era of unlimited buffet-style intelligence is over, and now, those who meter
 <li><a href="https://zed.dev/blog/anthropic-subscription-changes">Anthropic Subscription Changes</a> — Zed Industries</li>
 </ul>
 </details>
-
-## TL;DR
-# The Metered Era of Intelligence: The End of Unlimited Plans and New Cost Competencies According to multiple media reports, the subscription inclusion period for Claude's top-t...
-
-- Intent: comparison
-- Core topics: generative AI, token billing, pay-as-you-go pricing
-
-## Next Step
-Keep going with related deep dives on this topic.
-- Quality gates: unique-angle, clear-structure, source-attribution-if-needed, readability-pass
