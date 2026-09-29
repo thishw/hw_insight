@@ -141,13 +141,3 @@ Ultimately, the game tilts not toward whoever bought the chips first, but whoeve
 <li><a href="https://www.ftoday.co.kr/news/articleView.html?idxno=343534">SK Telecom & AWS 103 MW AI Data Center in Ulsan Mipo</a> — Financial Today</li>
 </ul>
 </details>
-
-## TL;DR
-# The New Landscape of AI Infrastructure: From the Era of Chips to the Era of Power We are now in an era where a single refrigerator-sized AI server rack consumes the peak power...
-
-- Intent: how_to
-- Core topics: AI infrastructure, data center, power grid
-
-## Next Step
-Keep going with related deep dives on this topic.
-- Quality gates: unique-angle, clear-structure, source-attribution-if-needed, readability-pass
