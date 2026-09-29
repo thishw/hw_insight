@@ -140,13 +140,3 @@ Ultimately, the true moat of AI in regulated industries is not a smarter model, 
 <li><a href="https://www.veeva.com/resources/openevidence-and-veeva-announce-open-vista-partnership/">OpenEvidence and Veeva Announce Open Vista Partnership</a> — Veeva Systems, 2025-10-16</li>
 </ul>
 </details>
-
-## TL;DR
-# The True Moat of Vertical AI: OpenEvidence's Proven 4-Step Access Right Strategy Amid an information explosion where medical literature doubles every five years, the real moat...
-
-- Intent: informational
-- Core topics: vertical AI, OpenEvidence, medical AI
-
-## Next Step
-Keep going with related deep dives on this topic.
-- Quality gates: unique-angle, clear-structure, source-attribution-if-needed, readability-pass
