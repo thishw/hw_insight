@@ -416,6 +416,29 @@
       "slug_hint": "before-the-speed-of-automation",
       "title": "What to Consider Before the Speed of Automation",
       "url": "https://insight.thishw.com/en/posts/before-the-speed-of-automation/"
+    },
+    {
+      "content_id": "synapse:b7888ff8-8b9a-4442-8588-da0852bbce00",
+      "gate_version": "1.4.0",
+      "keywords": [
+        "가치투자",
+        "가격 대비 가치",
+        "시장 변동성",
+        "장기 투자",
+        "기대수익",
+        "확률적 투자",
+        "기업 가치",
+        "감정 통제",
+        "군중심리",
+        "유리한 베팅"
+      ],
+      "language": "ko",
+      "path": "content/posts/2026-09-30-beyond-the-noise-of-price.md",
+      "platform": "github_site",
+      "published_at": "2026-09-30T09:40:01.857114Z",
+      "slug_hint": "beyond-the-noise-of-price",
+      "title": "가격의 소음 너머: 유리한 베팅을 반복하는 투자의 본질",
+      "url": "https://insight.thishw.com/posts/beyond-the-noise-of-price/"
     }
   ],
   "version": 1
