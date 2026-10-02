@@ -462,6 +462,29 @@
       "slug_hint": "beyond-the-noise-of-price",
       "title": "Beyond the Noise of Price: The Essence of Investing Is Repeatedly Making Favorable Bets",
       "url": "https://insight.thishw.com/en/posts/beyond-the-noise-of-price/"
+    },
+    {
+      "content_id": "synapse:e4802e35-aac1-4ac9-803a-b2723c1d801f",
+      "gate_version": "1.4.0",
+      "keywords": [
+        "Claude 연구 보조자",
+        "AI 연구 검증",
+        "과학적 안목",
+        "문헌 조사",
+        "대규모 유전체 데이터",
+        "유전체 패턴 분석",
+        "정량 분석",
+        "연구 재현성",
+        "생물학적 시스템 발견",
+        "인간 검토"
+      ],
+      "language": "ko",
+      "path": "content/posts/2026-10-02-claude-research-assistant-verification.md",
+      "platform": "github_site",
+      "published_at": "2026-10-02T10:00:01.457406Z",
+      "slug_hint": "claude-research-assistant-verification",
+      "title": "Claude를 신뢰할 수 있는 연구 보조자로 활용하는 단계별 전략",
+      "url": "https://insight.thishw.com/posts/claude-research-assistant-verification/"
     }
   ],
   "version": 1
