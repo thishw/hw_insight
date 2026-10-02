@@ -485,6 +485,29 @@
       "slug_hint": "claude-research-assistant-verification",
       "title": "Claude를 신뢰할 수 있는 연구 보조자로 활용하는 단계별 전략",
       "url": "https://insight.thishw.com/posts/claude-research-assistant-verification/"
+    },
+    {
+      "content_id": "synapse:e4802e35-aac1-4ac9-803a-b2723c1d801f-en",
+      "gate_version": "1.4.0",
+      "keywords": [
+        "Claude research assistant",
+        "AI research validation",
+        "scientific judgment",
+        "literature review",
+        "large-scale genomic data",
+        "genomic pattern analysis",
+        "quantitative analysis",
+        "research reproducibility",
+        "biological system discovery",
+        "human review"
+      ],
+      "language": "en",
+      "path": "content/posts/2026-10-02-claude-research-assistant-verification.en.md",
+      "platform": "github_site",
+      "published_at": "2026-10-02T11:00:01.677945Z",
+      "slug_hint": "claude-research-assistant-verification",
+      "title": "A Step-by-Step Strategy for Using Claude as a Trusted Research Assistant",
+      "url": "https://insight.thishw.com/en/posts/claude-research-assistant-verification/"
     }
   ],
   "version": 1
