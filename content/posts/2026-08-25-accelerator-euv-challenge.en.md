@@ -2,7 +2,7 @@
 title: "Elon Musk's TeraFab: A Bid to Break the Chip Lithography Monopoly with a Particle Accelerator"
 date: "2026-08-25"
 draft: false
-description: "Terafab, Musk's mega semiconductor plant in Texas, aims to challenge ASML's monopoly by generating lithography light with a particle accelerator and free-electr"
+description: "Terafab, Musk's mega semiconductor plant in Texas, aims to challenge ASML's monopoly by generating lithography light with a particle accelerator and"
 slug: "accelerator-euv-challenge"
 keywords: ["terafab", "Elon Musk", "free electron laser FEL", "ASML EUV", "semiconductor fab", "particle accelerator", "AI chip", "Intel Foundry", "SpaceX semiconductor", "EUV lithography"]
 categories: ["Tech", "Investing"]
@@ -60,7 +60,7 @@ Musk's concept is fundamentally different in method. Instead of turning tin drop
 Below is a diagram placing the light-source generation flow of the two methods side by side. The top ①–③ is ASML's current method, and the bottom ④–⑥ is Musk's FEL method.
 
 ```mermaid
-flowchart LR
+flowchart TD
     A1["① 주석 방울<br/>초당 5만 발"] --> A2["② CO2 레이저로<br/>플라즈마 기화"] --> A3["③ 곡면 거울 →<br/>웨이퍼"]
     B1["④ 입자가속기로<br/>전자 광속 가속"] --> B2["⑤ FEL로<br/>빛 생성"] --> B3["⑥ 웨이퍼<br/>노광"]
 ```
@@ -117,7 +117,7 @@ Going a step further, a question like this flickers by. What happens if China re
 A one-line comment. As always, Musk jumped into the river before the bridge was finished — this time, after laying a giant ring beneath the river.
 
 <details class="sources">
-<summary>참고 자료 (7) — CNBC · Manufacturing Dive · 포항가속기연구소 · Technology.org · Bits&Chips · The Next Web · X</summary>
+<summary>참고 자료 (8) — CNBC · Manufacturing Dive · 포항가속기연구소 · Technology.org · Bits&Chips · The Next Web · X · m.blog.naver.com</summary>
 <ul>
 <li><a href="https://www.cnbc.com/2026/05/06/elon-musks-spacex-chip-fab-in-texas-to-cost-up-to-119-billion.html">Elon Musk's SpaceX chip fab in Texas to cost up to $119 billion</a> — CNBC</li>
 <li><a href="https://www.manufacturingdive.com/news/xlight-chips-science-act-commerce-fel-albany-nanoplex-former-intel-pat-gelsinger/806767/">xLight secures CHIPS Act funding for FEL EUV in Albany</a> — Manufacturing Dive</li>
@@ -126,5 +126,6 @@ A one-line comment. As always, Musk jumped into the river before the bridge was 
 <li><a href="https://bits-chips.com/article/musk-hints-at-free-electron-laser-euv-source-tech-for-terafab/">Musk hints at free-electron laser EUV source tech for Terafab</a> — Bits&Chips</li>
 <li><a href="https://thenextweb.com/news/xlight-euv-350m-asml-euclyd">xLight raises $350M to challenge ASML's EUV monopoly</a> — The Next Web</li>
 <li><a href="https://x.com/elonmusk/status/2085508463740760308">"FEL FTW"</a> — Elon Musk (X), 2026-08-06</li>
+<li><a href="https://m.blog.naver.com/ranto28/224379237136">m.blog.naver.com</a> — m.blog.naver.com, 2026-08-15</li>
 </ul>
 </details>
