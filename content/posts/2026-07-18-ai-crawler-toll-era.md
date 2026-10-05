@@ -81,7 +81,7 @@ graph TD
 지능의 시대에 웹사이트가 살아남는 법은, 기계의 계량기를 거치지 않고도 스스로 문을 열고 들어올 진짜 단골손님의 명부를 쥐는 일이다.
 
 <details class="sources">
-<summary>참고 자료 (6) — SEOmator · Cloudflare Blog · Technology Checker · TechCrunch · Press Gazette · Search Engine Land</summary>
+<summary>참고 자료 (7) — SEOmator · Cloudflare Blog · Technology Checker · TechCrunch · Press Gazette · Search Engine Land · news.hada.io</summary>
 <ul>
 <li><a href="https://seomator.com/blog/crawl-to-refer-ratio-ai-crawlers-llm-bots">앤트로픽 크롤-유입 비율 월별 추이(2026년 1~7월)</a> — SEOmator</li>
 <li><a href="https://blog.cloudflare.com/content-independence-day-ai-options/">Cloudflare 봇 분류 및 기본 차단 정책 발표</a> — Cloudflare Blog, 2026-07-01</li>
@@ -89,5 +89,6 @@ graph TD
 <li><a href="https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/">Pay Per Use 과금 및 초기 파트너</a> — TechCrunch, 2026-07-01</li>
 <li><a href="https://pressgazette.co.uk/platforms/news-publisher-ai-deals-lawsuits-openai-google/">News Corp 및 OpenAI 라이선싱 딜</a> — Press Gazette</li>
 <li><a href="https://searchengineland.com/really-simple-licensing-461834">RSL 표준을 지지하는 주요 브랜드</a> — Search Engine Land</li>
+<li><a href="https://news.hada.io/weekly/202621">news.hada.io</a> — news.hada.io</li>
 </ul>
 </details>
