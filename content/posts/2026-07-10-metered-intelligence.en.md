@@ -2,7 +2,7 @@
 title: "The Era of Metered Intelligence: The End of Unlimited Plans and New Cost Capabilities"
 date: "2026-07-10"
 draft: false
-description: "With unlimited AI plans failing to handle machine-speed agents, the metered intelligence era of token-based billing has arrived, making intelligent model routin"
+description: "With unlimited AI plans failing to handle machine-speed agents, the metered intelligence era of token-based billing has arrived, making intelligent model"
 slug: "metered-intelligence"
 keywords: ["generative AI", "token billing", "pay-as-you-go pricing", "Anthropic", "intelligent routing", "unlimited plan", "AI cost", "AI model"]
 categories: ["Tech", "Thoughts"]
@@ -65,7 +65,7 @@ Of course, contrary to my expectations, chipset technology innovation could dras
 The next point we need to consider is cost defense alternatives. Intelligence routing refers to the technology of determining the type and difficulty of a task and selectively distributing the most suitable and cost-effective AI model (intelligence).
 
 ```mermaid
-graph LR
+graph TD
     A[Task Request] --> B{Determine Difficulty & Importance}
     B -->|Simple Text Summarization| C[Allocate Haiku 4.5]
     B -->|General Code Generation| D[Allocate Sonnet 5]
