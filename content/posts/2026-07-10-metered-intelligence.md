@@ -6,6 +6,7 @@ description: "AI 무제한 요금제가 저물고 토큰 사용량만큼 과금�
 slug: "metered-intelligence"
 keywords: ["생성형 AI", "토큰 과금", "종량제 과금", "앤트로픽", "지능 라우팅", "무제한 요금제", "AI 비용", "AI 모델"]
 categories: ["테크", "생각"]
+media_type: "article"
 og_image: "images/posts/metered-intelligence.jpg"
 ---
 
@@ -64,7 +65,7 @@ Fable 5의 구독 포함 기간이 7월 12일까지 닷새 늘었다는 것은 F
 이어서 우리가 고민해야 할 지점은 비용 방어 대안이다. 지능 라우팅(Routing)이란 작업의 종류와 난이도를 판별해 가장 적합하고 가성비 좋은 AI 모델(지능)을 선택적으로 배분하는 기술을 뜻한다.
 
 ```mermaid
-graph LR
+graph TD
     A[작업 요청] --> B{난이도 및 중요도 판별}
     B -->|단순 텍스트 요약| C[Haiku 4.5 할당]
     B -->|일반적인 코드 작성| D[Sonnet 5 할당]
