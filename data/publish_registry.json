@@ -508,6 +508,27 @@
       "slug_hint": "claude-research-assistant-verification",
       "title": "A Step-by-Step Strategy for Using Claude as a Trusted Research Assistant",
       "url": "https://insight.thishw.com/en/posts/claude-research-assistant-verification/"
+    },
+    {
+      "content_id": "synapse:4e971555-2cbb-4ff0-bb21-9b2f2f9c2d60",
+      "gate_version": "1.4.0",
+      "keywords": [
+        "생성형 AI",
+        "토큰 과금",
+        "종량제 과금",
+        "앤트로픽",
+        "지능 라우팅",
+        "무제한 요금제",
+        "AI 비용",
+        "AI 모델"
+      ],
+      "language": "ko",
+      "path": "content/posts/2026-07-10-metered-intelligence.md",
+      "platform": "github_site",
+      "published_at": "2026-10-05T11:40:01.932225Z",
+      "slug_hint": "metered-intelligence",
+      "title": "지능의 계량기 시대: 무제한 요금제의 종말과 새로운 비용 역량",
+      "url": "https://insight.thishw.com/posts/metered-intelligence/"
     }
   ],
   "version": 1
