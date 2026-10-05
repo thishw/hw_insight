@@ -68,7 +68,7 @@ Investing always involves uncertainty. Instead of feeling certain about a single
 The following diagram illustrates the decision-making process that leads from market noise to long-term investment performance.
 
 ```mermaid
-flowchart LR
+flowchart TD
     A["① Market Price Movements<br/>Reflect fear and greed"] -->|Separate price from the business| B["② Intrinsic Value Assessment<br/>Examine the business and cash flow"]
     B -->|Compare with the current price| C["③ Value Relative to Price<br/>Check the margin of safety"]
     C -->|Calculate gains, losses, and probabilities| D["④ Select a Favorable Bet<br/>Determine whether the expected value is favorable"]
@@ -111,3 +111,16 @@ Focus on value relative to price rather than price alone, and choose bets with f
 After all, market noise is beyond your control. What you can control is the price you pay, your decision-making process, and the emotions that may unsettle you along the way.
 
 **One-line comment.** Investing is not a game of predicting the waves; it is a game of keeping the boat balanced and repeatedly choosing the most favorable course.
+
+<details class="sources">
+<summary>Sources (7) — bloomberg.com · YouTube · blog.naver.com · m.blog.naver.com · stratechery.com · about.fb.com</summary>
+<ul>
+<li><a href="https://www.bloomberg.com/news/articles/2026-07-01/meta-is-building-a-cloud-business-to-sell-excess-ai-compute">meta is building a cloud business to sell excess ai compute</a> — bloomberg.com</li>
+<li><a href="https://www.youtube.com/watch?v=07KeJEEXVq4">watch</a> — YouTube</li>
+<li><a href="https://blog.naver.com/tmdejr1267/224355806838">blog.naver.com</a> — blog.naver.com</li>
+<li><a href="https://m.blog.naver.com/ranto28/224379237136">m.blog.naver.com</a> — m.blog.naver.com, 2026-08-15</li>
+<li><a href="https://blog.naver.com/oracleyongsan/224389521421">blog.naver.com</a> — blog.naver.com</li>
+<li><a href="https://stratechery.com/2026/openai-does-math-reward-hacking-meta-launches-personal-agent/">openai does math reward hacking meta launches personal agent</a> — stratechery.com</li>
+<li><a href="https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/">introducing muse personal ai agent</a> — about.fb.com</li>
+</ul>
+</details>
