@@ -60,7 +60,7 @@ FTW는 "For The Win"의 약자다. "커피 FTW"라고 하면 "역시 커피가 �
 아래는 두 방식의 광원 생성 흐름을 나란히 놓은 그림이다. 위쪽 ①–③이 ASML의 현행 방식, 아래쪽 ④–⑥이 머스크의 FEL 방식이다.
 
 ```mermaid
-flowchart LR
+flowchart TD
     A1["① 주석 방울<br/>초당 5만 발"] --> A2["② CO2 레이저로<br/>플라즈마 기화"] --> A3["③ 곡면 거울 →<br/>웨이퍼"]
     B1["④ 입자가속기로<br/>전자 광속 가속"] --> B2["⑤ FEL로<br/>빛 생성"] --> B3["⑥ 웨이퍼<br/>노광"]
 ```
@@ -117,7 +117,7 @@ FEL EUV는 높은 출력과 주석 오염물 부재, 낮은 운영비라는 장�
 한줄 코멘트. 머스크는 늘 그렇듯 다리가 완성되기 전에 강으로 뛰어들었다 — 이번엔 강 밑에 거대한 링을 깔아두고서.
 
 <details class="sources">
-<summary>참고 자료 (7) — CNBC · Manufacturing Dive · 포항가속기연구소 · Technology.org · Bits&Chips · The Next Web · X</summary>
+<summary>참고 자료 (8) — CNBC · Manufacturing Dive · 포항가속기연구소 · Technology.org · Bits&Chips · The Next Web · X · 네이버 블로그 | 메르의 블로그</summary>
 <ul>
 <li><a href="https://www.cnbc.com/2026/05/06/elon-musks-spacex-chip-fab-in-texas-to-cost-up-to-119-billion.html">Elon Musk's SpaceX chip fab in Texas to cost up to $119 billion</a> — CNBC</li>
 <li><a href="https://www.manufacturingdive.com/news/xlight-chips-science-act-commerce-fel-albany-nanoplex-former-intel-pat-gelsinger/806767/">xLight secures CHIPS Act funding for FEL EUV in Albany</a> — Manufacturing Dive</li>
@@ -126,5 +126,6 @@ FEL EUV는 높은 출력과 주석 오염물 부재, 낮은 운영비라는 장�
 <li><a href="https://bits-chips.com/article/musk-hints-at-free-electron-laser-euv-source-tech-for-terafab/">Musk hints at free-electron laser EUV source tech for Terafab</a> — Bits&Chips</li>
 <li><a href="https://thenextweb.com/news/xlight-euv-350m-asml-euclyd">xLight raises $350M to challenge ASML's EUV monopoly</a> — The Next Web</li>
 <li><a href="https://x.com/elonmusk/status/2085508463740760308">"FEL FTW"</a> — Elon Musk (X), 2026-08-06</li>
+<li><a href="https://m.blog.naver.com/ranto28/224379237136">일론 머스크의 새로운 도전, 테라펩 (feat 반도체 직접 만들겠다) : 네이버 블로그</a> — 네이버 블로그 | 메르의 블로그, 2026-08-15</li>
 </ul>
 </details>
