@@ -87,7 +87,7 @@ MMLU 42점을 내는 AI의 추론 가격은 불과 3년 만에 1000배나 폭락
 아래 그림은 장기 실행 에이전트가 기억을 어디에 두는지 나타낸 구조도다. 화살표에 붙은 번호 순서로 읽으면 된다.
 
 ```mermaid
-graph LR
+graph TD
     A["초기화 에이전트<br/>딱 한 번만 실행"] -->|"① 환경·규칙·진행 노트를 기록"| B[("공유 상태 저장소<br/>디스크에 영속")]
     B -->|"② 필요한 조각만 읽기"| C["실행 세션 1"]
     B -->|"② 필요한 조각만 읽기"| D["실행 세션 2"]
@@ -127,11 +127,14 @@ graph LR
 지능의 계량기 시대, 쏟아지는 청구서를 통제하고 진정한 가치를 키우는 무기는 단가표가 아니라 사용자의 날카로운 시스템 덜어냄 규율이다.
 
 <details class="sources">
-<summary>참고 자료 (4) — a16z · DataHub · Anthropic · Anthropic Cookbook</summary>
+<summary>참고 자료 (7) — a16z · DataHub · Anthropic · Anthropic Cookbook · cdn.openai.com · notboring.co · X</summary>
 <ul>
 <li><a href="https://a16z.com/llmflation-llm-inference-cost/">LLMflation</a> — a16z</li>
 <li><a href="https://datahub.com/blog/context-engineering-vs-prompt-engineering/">State of Context Management Report 2026</a> — DataHub, 2026</li>
 <li><a href="https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents">Effective context engineering for AI agents</a> — Anthropic</li>
 <li><a href="https://platform.claude.com/cookbook/tool-use-context-engineering-context-engineering-tools">Context Engineering Tools</a> — Anthropic Cookbook</li>
+<li><a href="https://cdn.openai.com/pdf/5d1e1489-21c0-43e4-9d42-f87efdbf0082/the-shift-to-agentic-ai-evidence-from-codex.pdf">the shift to agentic ai evidence from codex.pdf</a> — cdn.openai.com</li>
+<li><a href="https://www.notboring.co/p/return-on-tokens-rot">return on tokens rot</a> — notboring.co</li>
+<li><a href="https://x.com/brian_armstrong/status/2070670644577280109?s=20">@brian_armstrong 게시물</a> — X</li>
 </ul>
 </details>
