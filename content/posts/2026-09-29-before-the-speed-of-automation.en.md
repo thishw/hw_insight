@@ -66,7 +66,7 @@ Ultimately, the comparison should not be between technology and a fixed level of
 The following diagram illustrates how fear of automation can lead either to market price chasing or to an individual response.
 
 ```mermaid
-flowchart LR
+flowchart TD
     A["1. Advances in Automation<br/>Ways of working change"] -->|"Uncertainty grows"| B["2. Fear of Being Left Behind<br/>The risk of replacement feels greater"]
     B -->|"Trade immediately"| C["3A. Chasing Prices<br/>Expectations become excessively priced in"]
     B -->|"Invest in learning"| D["3B. Building Capabilities<br/>Learn new tools and roles"]
@@ -91,9 +91,12 @@ In an era of seismic change, fear can arrive before reality, and market prices c
 **One-line comment.** Rather than chasing an overpriced ticket for the automation express, it is better to first develop the ability to transfer to any train.
 
 <details class="sources">
-<summary>References (2) — International Labour Organization · World Economic Forum</summary>
+<summary>References (5) — International Labour Organization · World Economic Forum · meta.com · bloomberg.com · blog.naver.com</summary>
 <ul>
 <li><a href="https://www.ilo.org/publications/generative-ai-and-jobs-2025-update">Generative AI and Jobs: A 2025 Update</a> — International Labour Organization, May 20, 2025</li>
 <li><a href="https://www.weforum.org/publications/the-future-of-jobs-report-2025/digest/">The Future of Jobs Report 2025</a> — World Economic Forum, January 7, 2025</li>
+<li><a href="https://www.meta.com/thefutureisforeveryone/">The Future is for Everyone</a> — meta.com, 2026-08-10</li>
+<li><a href="https://www.bloomberg.com/news/articles/2026-07-01/meta-is-building-a-cloud-business-to-sell-excess-ai-compute">meta is building a cloud business to sell excess ai compute</a> — bloomberg.com</li>
+<li><a href="https://blog.naver.com/tmdejr1267/224355806838">blog.naver.com</a> — blog.naver.com</li>
 </ul>
 </details>
