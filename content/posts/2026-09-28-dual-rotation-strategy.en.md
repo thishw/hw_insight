@@ -2,7 +2,7 @@
 title: "A Dual-Pivot Strategy for the AI Era: Experiment Fast, Evolve the Portfolio Slowly"
 date: "2026-09-28"
 draft: false
-description: "Explore a dual-rotation strategy that uses AI to lower the cost of failure, iterate experiments rapidly, and hold proven quality companies for the long term, al"
+description: "Explore a dual-rotation strategy that uses AI to lower the cost of failure, iterate experiments rapidly, and hold proven quality companies for the long term"
 slug: "dual-rotation-strategy"
 keywords: ["AI era", "dual rotation strategy", "AI experimentation", "portfolio turnover", "Jevons paradox", "AI cost reduction", "AI compute demand", "AI infrastructure investment", "data centers·semiconductors·power", "long-term investment in high-quality companies"]
 categories: ["Investing", "Tech", "Thoughts"]
@@ -43,7 +43,7 @@ Improvements in AI efficiency reduce the computing power and cost required for e
 The following diagram shows how AI costs and usage translate into total infrastructure demand.
 
 ```mermaid
-flowchart LR
+flowchart TD
     A["① Improved AI efficiency"] -->|Lowers cost per task| B["② Lower unit costs"]
     B -->|Unlocks latent demand| C["③ More tasks and greater usage"]
     C -->|Consumption growth outpaces efficiency gains| D["④ Higher total compute demand"]
@@ -109,3 +109,10 @@ In the same vein, AI can increase experiment turnover in the process of discover
 The fact that AI has made being wrong cheaper does not mean every decision should be made lightly. Easily reversible experiments should move quickly, while capital allocation that depends on compounding should move slowly.
 
 **One-line comment.** In the AI era, it may be wise to test-drive widely—but once you have chosen a good car, avoid switching vehicles repeatedly before reaching your destination.
+
+<details class="sources">
+<summary>Sources (1) — X</summary>
+<ul>
+<li><a href="https://x.com/JensenHuang/status/2086934705207959965">Post by @JensenHuang</a> — X</li>
+</ul>
+</details>
