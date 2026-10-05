@@ -2,7 +2,7 @@
 title: "The New Landscape of AI Infrastructure: From the Era of Chips to the Era of Power"
 date: "2026-07-20"
 draft: false
-description: "As the AI infrastructure bottleneck shifts from semiconductor chips to power, we analyze the new paradigm shift and fierce survival competition among big tech c"
+description: "As the AI infrastructure bottleneck shifts from semiconductor chips to power, we analyze the new paradigm shift and fierce survival competition among big tech"
 slug: "power-bottleneck-of-intelligence"
 keywords: ["AI infrastructure", "data center", "power grid", "hyperscaler", "GPU", "Jevons paradox", "nuclear power", "big tech"]
 categories: ["Tech", "Investing"]
@@ -48,7 +48,7 @@ They seem to be stopping at nothing to reduce their reliance on transmission gri
 Alongside the internalization of power, attempts to reduce reliance on external silicon are also intensifying. A prime example is Meta, which, in collaboration with Broadcom and TSMC, is beginning full-scale production of its custom AI chip 'Iris' starting this September.
 
 ```mermaid
-flowchart LR
+flowchart TD
     A["Past: External Sourcing of Silicon & Power"] --> B("Present: Direct Control of the Ecosystem")
     B --> C{"Declaration of Infrastructure Independence"}
     C --> D["Custom Silicon: Iris, etc."]
