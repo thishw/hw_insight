@@ -8,3 +8,5 @@ github.com/thishw/media-hugo-shared v0.0.0-20260928123135-318832cd3d44 h1:uih0xo
 github.com/thishw/media-hugo-shared v0.0.0-20260928123135-318832cd3d44/go.mod h1:tvxIY4YDJ8pgQRSLGLq/AlILwY0HWibx1tX1Fy9agew=
 github.com/thishw/media-hugo-shared v0.0.0-20260929045028-6c7857fc815a h1:tcxs3Hk+FNIZ8myARdsA8IlhyJ8a80veJpsabp0t/ZM=
 github.com/thishw/media-hugo-shared v0.0.0-20260929045028-6c7857fc815a/go.mod h1:tvxIY4YDJ8pgQRSLGLq/AlILwY0HWibx1tX1Fy9agew=
+github.com/thishw/media-hugo-shared v0.0.0-20261005083526-7d924b759ffb h1:QU3DGOalVaQxxN/g+ZhMN5b0xE+ortxiJuPi1rJWUm8=
+github.com/thishw/media-hugo-shared v0.0.0-20261005083526-7d924b759ffb/go.mod h1:tvxIY4YDJ8pgQRSLGLq/AlILwY0HWibx1tX1Fy9agew=
