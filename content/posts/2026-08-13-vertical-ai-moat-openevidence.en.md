@@ -2,7 +2,7 @@
 title: "The True Moat of Vertical AI: The 4-Step Access Strategy Proven by OpenEvidence"
 date: "2026-08-13"
 draft: false
-description: "The true moat of vertical AI is access to proprietary data and workflows rather than giant models; we analyze the medical AI market's new winning formula throug"
+description: "The true moat of vertical AI is access to proprietary data and workflows rather than giant models; we analyze the medical AI market's new winning formula"
 slug: "vertical-ai-moat-openevidence"
 keywords: ["vertical AI", "OpenEvidence", "medical AI", "access strategy", "application layer", "EHR", "healthcare AI", "proprietary data"]
 categories: ["Tech", "Investing"]
