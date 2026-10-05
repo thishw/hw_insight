@@ -65,7 +65,7 @@
     },
     {
       "content_id": "synapse:7bd2b611-8f7a-4c65-97e5-02b492f1bfb1",
-      "gate_version": "1.2.0",
+      "gate_version": "1.4.0",
       "keywords": [
         "버티컬 AI",
         "Openevidence",
@@ -79,7 +79,7 @@
       "language": "ko",
       "path": "content/posts/2026-08-13-vertical-ai-moat-openevidence.md",
       "platform": "github_site",
-      "published_at": "2026-08-13T22:10:21.615573Z",
+      "published_at": "2026-10-05T11:40:01.932225Z",
       "slug_hint": "vertical-ai-moat-openevidence",
       "title": "버티컬 AI의 진정한 해자: Openevidence가 증명한 4단계 접근권 전략",
       "url": "https://insight.thishw.com/posts/vertical-ai-moat-openevidence/"
