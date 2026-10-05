@@ -102,7 +102,7 @@ Personally, I suspect this polarized infrastructure gap will manifest within 2�
 Let me compress the entire argument into a single-line comment. Trust is a vague emotion, but verifiability can be structurally designed, and it seems only the companies that master this structure first will be able to freely press the accelerator pedal known as generative agents.
 
 <details class="sources">
-<summary>References (10) — Daniel Vaughan · Scott Logic · arXiv · arXiv · AppSec Santa · Ventureburn · Thinking Inc · Generative Labs · Cloudflare · Daniel Keller</summary>
+<summary>References (11) — Daniel Vaughan · Scott Logic · arXiv · arXiv · AppSec Santa · Ventureburn · Thinking Inc · Generative Labs · Cloudflare · Daniel Keller · stratechery.com</summary>
 <ul>
 <li><a href="https://codex.danielvaughan.com/2026/05/24/human-review-bottleneck-code-review-strategies-agent-output/">Human Review Bottleneck: Code Review Strategies for Agent Output</a> — Daniel Vaughan, 2026-05-24</li>
 <li><a href="https://blog.scottlogic.com/2026/05/14/the-human-bottleneck.html">The Human Bottleneck</a> — Scott Logic, 2026-05-14</li>
@@ -114,5 +114,6 @@ Let me compress the entire argument into a single-line comment. Trust is a vague
 <li><a href="https://www.generativelabs.com/insights/ai-code-review-control-point">AI Code Review Control Point</a> — Generative Labs</li>
 <li><a href="https://blog.cloudflare.com/ai-code-review/">AI Code Review</a> — Cloudflare</li>
 <li><a href="https://danielkeller.com/tech/verification-not-generation/">Verification Not Generation</a> — Daniel Keller</li>
+<li><a href="https://stratechery.com/2026/muse-image-grok-4-5-alex-karp-on-cnbc/">muse image grok 4 5 alex karp on cnbc</a> — stratechery.com</li>
 </ul>
 </details>
