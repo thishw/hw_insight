@@ -68,7 +68,7 @@ og_image: "images/posts/beyond-the-noise-of-price.jpg"
 다음 그림은 시장의 소음에서 장기적인 투자 성과로 이어지는 판단 과정을 나타낸다.
 
 ```mermaid
-flowchart LR
+flowchart TD
     A["① 시장의 가격 변동<br/>공포와 욕심이 반영된다"] -->|가격과 사업을 분리한다| B["② 본질 가치 평가<br/>사업과 현금흐름을 살핀다"]
     B -->|현재 가격과 비교한다| C["③ 가격 대비 가치 확인<br/>안전마진을 점검한다"]
     C -->|손익과 확률을 계산한다| D["④ 유리한 베팅 선택<br/>기대값이 유리한지 판단한다"]
@@ -111,3 +111,16 @@ flowchart LR
 어쨌든 시장의 소음을 통제할 수는 없다. 통제할 수 있는 것은 자신이 지불하는 가격과 판단 과정, 그리고 그 과정에서 흔들리는 감정이다.
 
 **한줄 코멘트.** 투자는 파도를 맞히는 게임이 아니라, 배의 균형을 지키며 유리한 항로를 반복해서 선택하는 게임이다.
+
+<details class="sources">
+<summary>참고 자료 (7) — bloomberg.com · YouTube · blog.naver.com · 네이버 블로그 | 메르의 블로그 · stratechery.com · about.fb.com</summary>
+<ul>
+<li><a href="https://www.bloomberg.com/news/articles/2026-07-01/meta-is-building-a-cloud-business-to-sell-excess-ai-compute">meta is building a cloud business to sell excess ai compute</a> — bloomberg.com</li>
+<li><a href="https://www.youtube.com/watch?v=07KeJEEXVq4">watch</a> — YouTube</li>
+<li><a href="https://blog.naver.com/tmdejr1267/224355806838">blog.naver.com</a> — blog.naver.com</li>
+<li><a href="https://m.blog.naver.com/ranto28/224379237136">일론 머스크의 새로운 도전, 테라펩 (feat 반도체 직접 만들겠다) : 네이버 블로그</a> — 네이버 블로그 | 메르의 블로그, 2026-08-15</li>
+<li><a href="https://blog.naver.com/oracleyongsan/224389521421">blog.naver.com</a> — blog.naver.com</li>
+<li><a href="https://stratechery.com/2026/openai-does-math-reward-hacking-meta-launches-personal-agent/">openai does math reward hacking meta launches personal agent</a> — stratechery.com</li>
+<li><a href="https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/">introducing muse personal ai agent</a> — about.fb.com</li>
+</ul>
+</details>
