@@ -66,7 +66,7 @@ og_image: "images/posts/before-the-speed-of-automation.jpg"
 다음 그림은 자동화에 대한 공포가 시장 가격과 개인의 대응으로 갈라지는 과정을 나타낸다.
 
 ```mermaid
-flowchart LR
+flowchart TD
     A["1. 자동화 진전<br/>업무 방식이 변한다"] -->|"불확실성이 커진다"| B["2. 뒤처질 공포<br/>대체 위험을 크게 느낀다"]
     B -->|"즉시 거래한다"| C["3A. 가격 추격<br/>기대가 과도하게 반영된다"]
     B -->|"학습에 투자한다"| D["3B. 역량 축적<br/>새 도구와 직무를 익힌다"]
@@ -91,9 +91,12 @@ flowchart LR
 **한줄 코멘트.** 자동화라는 급행열차의 표를 비싸게 추격하기보다, 어느 열차로든 갈아탈 수 있는 능력을 먼저 갖추는 편이 낫다.
 
 <details class="sources">
-<summary>참고 자료 (2) — 국제노동기구 · 세계경제포럼</summary>
+<summary>참고 자료 (5) — 국제노동기구 · 세계경제포럼 · meta.com · bloomberg.com · blog.naver.com</summary>
 <ul>
 <li><a href="https://www.ilo.org/publications/generative-ai-and-jobs-2025-update">Generative AI and Jobs: A 2025 Update</a> — 국제노동기구, 2025년 5월 20일</li>
 <li><a href="https://www.weforum.org/publications/the-future-of-jobs-report-2025/digest/">The Future of Jobs Report 2025</a> — 세계경제포럼, 2025년 1월 7일</li>
+<li><a href="https://www.meta.com/thefutureisforeveryone/">The Future is for Everyone</a> — meta.com, 2026-08-10</li>
+<li><a href="https://www.bloomberg.com/news/articles/2026-07-01/meta-is-building-a-cloud-business-to-sell-excess-ai-compute">meta is building a cloud business to sell excess ai compute</a> — bloomberg.com</li>
+<li><a href="https://blog.naver.com/tmdejr1267/224355806838">blog.naver.com</a> — blog.naver.com</li>
 </ul>
 </details>
