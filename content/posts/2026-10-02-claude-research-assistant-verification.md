@@ -10,6 +10,8 @@ media_type: "article"
 og_image: "images/posts/claude-research-assistant-verification.jpg"
 ---
 
+2026년 9월, Anthropic은 Claude가 문헌과 유전체 데이터를 읽고 찾아낸 분자 기계를 발표했다. 역전사효소(RT)를 기반으로 한 시스템으로, 새로운 유전자 편집 메커니즘일 가능성이 있다고 한다. 다리오 아모데이 CEO는 연구의 대부분을 Claude가 수행했고, Claude가 제안한 검증 실험은 연구팀이 직접 진행했다고 밝혔다. 이 글은 Anthropic 생명과학팀이 공개한 연구 과정을 바탕으로, Claude의 발견을 신뢰할 수 있게 만드는 검증 단계를 정리한 것이다.
+
 AI가 방대한 문헌과 유전체 데이터에서 새로운 생물학적 시스템의 단서를 찾았다고 말할 때, 연구자는 그 결과를 어떻게 신뢰할 수 있을까? 핵심은 Claude의 확신을 그대로 받아들이는 것이 아니라, 과학적 안목의 학습부터 재현, 실험, 인간 검토까지 이어지는 단계적 검증 과정을 구축하는 데 있다.
 
 > Claude의 연구 결과는 문헌 조사, 정량 분석, 재현, 실험을 거쳐야 신뢰할 수 있다.  
@@ -59,7 +61,7 @@ Claude는 새로운 주장을 내놓기 전에 공개 데이터에서 이미 알
 다음 그림은 Claude의 발견이 인간의 최종 판단에 도달하기까지 필요한 검증 흐름을 나타낸다.
 
 ```mermaid
-flowchart LR
+flowchart TD
     A["1. 과학적 안목 학습<br/>연구 판단 기준을 익힌다"] -->
     |"탐색 기준을 적용한다"| B["2. 문헌·유전체 통합 탐색<br/>연구 후보를 찾는다"]
     B -->|"패턴을 수치로 확인한다"| C["3. 정량화·선행 연구 조사<br/>규칙성과 신규성을 점검한다"]
@@ -111,3 +113,11 @@ Claude를 효과적인 연구 보조자로 만드는 것은 한 번의 발견이
 처음 던진 질문으로 돌아가면, 새로운 생물학적 시스템의 단서를 발견했다는 Claude의 말을 곧바로 신뢰할 필요는 없다. 대신 그 단서가 단계적 검증을 통과하면서 신뢰를 얻는 과정을 확인해야 한다.
 
 **한줄 코멘트.** Claude는 결승선을 대신 통과하는 연구자가 아니라, 모든 검문소를 빠짐없이 찾아주는 연구 동료에 가깝다.
+
+<details class="sources">
+<summary>참고 자료 (2) — anthropic.com · X</summary>
+<ul>
+<li><a href="https://www.anthropic.com/news/claude-discovers-novel-enzyme-system">claude discovers novel enzyme system</a> — anthropic.com</li>
+<li><a href="https://x.com/darioamodei/status/2102831170299834652">@darioamodei 게시물</a> — X</li>
+</ul>
+</details>
