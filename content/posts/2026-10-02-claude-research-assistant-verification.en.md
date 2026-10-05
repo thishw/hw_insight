@@ -2,13 +2,15 @@
 title: "A Step-by-Step Strategy for Using Claude as a Trusted Research Assistant"
 date: "2026-10-02"
 draft: false
-description: "Discover a step-by-step verification strategy for using Claude as a trusted research assistant through literature review, quantitative analysis, replication, ex"
+description: "Discover a step-by-step verification strategy for using Claude as a trusted research assistant through literature review, quantitative analysis, replication"
 slug: "claude-research-assistant-verification"
 keywords: ["Claude research assistant", "AI research validation", "scientific judgment", "literature review", "large-scale genomic data", "genomic pattern analysis", "quantitative analysis", "research reproducibility", "biological system discovery", "human review"]
 categories: ["Tech", "Thoughts"]
 media_type: "article"
 og_image: "images/posts/claude-research-assistant-verification.jpg"
 ---
+
+In September 2026, Anthropic announced a molecular machine that Claude found by reading the literature and genomic data. The system is built on reverse transcriptase (RT) and may turn out to be a new gene-editing mechanism. CEO Dario Amodei said Claude did most of the research, and the team itself ran the validation experiments Claude proposed. This article draws on the research process Anthropic's life sciences team published to lay out the validation steps that make Claude's findings trustworthy.
 
 When AI claims to have found clues to a novel biological system in vast bodies of literature and genomic data, how can researchers trust its findings? The key is not to accept Claude’s confidence at face value, but to establish a step-by-step validation process that extends from learning scientific judgment to replication, experimentation, and human review.
 
@@ -59,7 +61,7 @@ Reproducing results with public data provides a benchmark for verifying that the
 The following diagram illustrates the validation workflow required for Claude’s discovery to reach a final human judgment.
 
 ```mermaid
-flowchart LR
+flowchart TD
     A["1. Learn Scientific Judgment<br/>Acquire criteria for research decisions"] -->
     |"Apply exploration criteria"| B["2. Integrated Literature and Genomic Data Exploration<br/>Identify research candidates"]
     B -->|"Quantify the patterns"| C["3. Quantification and Prior Research Review<br/>Evaluate regularity and novelty"]
@@ -111,3 +113,11 @@ What makes Claude an effective research assistant is not a single discovery or a
 Returning to the initial question, there is no need to immediately trust Claude’s claim that it has found clues to a novel biological system. Instead, researchers should verify the process through which those clues gain credibility by passing each stage of validation.
 
 **One-line comment.** Claude is not a researcher who crosses the finish line on our behalf, but a research colleague who helps us identify every checkpoint along the way.
+
+<details class="sources">
+<summary>Sources (2) — anthropic.com · X</summary>
+<ul>
+<li><a href="https://www.anthropic.com/news/claude-discovers-novel-enzyme-system">claude discovers novel enzyme system</a> — anthropic.com</li>
+<li><a href="https://x.com/darioamodei/status/2102831170299834652">Post by @darioamodei</a> — X</li>
+</ul>
+</details>
