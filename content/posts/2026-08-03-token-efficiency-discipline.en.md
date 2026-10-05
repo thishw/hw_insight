@@ -2,7 +2,7 @@
 title: "Why Are Bills Rising While Prices Plummet: Tokenomics and Survival in the Age of Agents"
 date: "2026-08-03"
 draft: false
-description: "Despite plummeting AI inference costs, massive resource consumption by agents is causing infrastructure bills to soar, making context engineering—curating minim"
+description: "Despite plummeting AI inference costs, massive resource consumption by agents is causing infrastructure bills to soar, making context engineering—curating"
 slug: "token-efficiency-discipline"
 keywords: ["token economics", "agents", "context engineering", "inference cost", "Jevons paradox", "token return on investment", "context rot", "prompt engineering"]
 categories: ["Tech", "Thoughts"]
@@ -87,7 +87,7 @@ System architecture design is the same. The success or failure of long-running a
 The diagram below is a structural chart showing where long-running agents keep their memories. Read it in the order of the numbers attached to the arrows.
 
 ```mermaid
-graph LR
+graph TD
     A["Initialization Agent<br/>Executes Only Once"] -->|"① Record Environment·Rules·Progress Notes"| B[("Shared State Storage<br/>Persisted on Disk")]
     B -->|"② Read Only Necessary Pieces"| C["Execution Session 1"]
     B -->|"② Read Only Necessary Pieces"| D["Execution Session 2"]
@@ -127,11 +127,14 @@ The clear fact is that a thorough paradigm shift is needed to defend against exp
 In the metered intelligence era, the weapon to control pouring bills and foster true value is not the price tag, but the user's sharp discipline of system subtraction.
 
 <details class="sources">
-<summary>References (4) — a16z · DataHub · Anthropic · Anthropic Cookbook</summary>
+<summary>References (7) — a16z · DataHub · Anthropic · Anthropic Cookbook · cdn.openai.com · notboring.co · X</summary>
 <ul>
 <li><a href="https://a16z.com/llmflation-llm-inference-cost/">LLMflation</a> — a16z</li>
 <li><a href="https://datahub.com/blog/context-engineering-vs-prompt-engineering/">State of Context Management Report 2026</a> — DataHub, 2026</li>
 <li><a href="https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents">Effective context engineering for AI agents</a> — Anthropic</li>
 <li><a href="https://platform.claude.com/cookbook/tool-use-context-engineering-context-engineering-tools">Context Engineering Tools</a> — Anthropic Cookbook</li>
+<li><a href="https://cdn.openai.com/pdf/5d1e1489-21c0-43e4-9d42-f87efdbf0082/the-shift-to-agentic-ai-evidence-from-codex.pdf">the shift to agentic ai evidence from codex.pdf</a> — cdn.openai.com</li>
+<li><a href="https://www.notboring.co/p/return-on-tokens-rot">return on tokens rot</a> — notboring.co</li>
+<li><a href="https://x.com/brian_armstrong/status/2070670644577280109?s=20">Post by @brian_armstrong</a> — X</li>
 </ul>
 </details>
