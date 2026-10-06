@@ -117,11 +117,11 @@ Going a step further, a question like this flickers by. What happens if China re
 A one-line comment. As always, Musk jumped into the river before the bridge was finished — this time, after laying a giant ring beneath the river.
 
 <details class="sources">
-<summary>참고 자료 (8) — CNBC · Manufacturing Dive · 포항가속기연구소 · Technology.org · Bits&Chips · The Next Web · X · Naver</summary>
+<summary>Sources (8) — CNBC · Manufacturing Dive · Pohang Accelerator Laboratory · Technology.org · Bits&Chips · The Next Web · X · Naver</summary>
 <ul>
 <li><a href="https://www.cnbc.com/2026/05/06/elon-musks-spacex-chip-fab-in-texas-to-cost-up-to-119-billion.html">Elon Musk's SpaceX chip fab in Texas to cost up to $119 billion</a> — CNBC</li>
 <li><a href="https://www.manufacturingdive.com/news/xlight-chips-science-act-commerce-fel-albany-nanoplex-former-intel-pat-gelsinger/806767/">xLight secures CHIPS Act funding for FEL EUV in Albany</a> — Manufacturing Dive</li>
-<li><a href="https://pal.postech.ac.kr/ko/intro/mechanism4th.do">PAL-XFEL 소개</a> — 포항가속기연구소</li>
+<li><a href="https://pal.postech.ac.kr/ko/intro/mechanism4th.do">Introduction to PAL-XFEL</a> — Pohang Accelerator Laboratory</li>
 <li><a href="https://www.technology.org/2026/07/29/asml-400-million-ai-chip-machines/">ASML's $400 million AI chip machines</a> — Technology.org</li>
 <li><a href="https://bits-chips.com/article/musk-hints-at-free-electron-laser-euv-source-tech-for-terafab/">Musk hints at free-electron laser EUV source tech for Terafab</a> — Bits&Chips</li>
 <li><a href="https://thenextweb.com/news/xlight-euv-350m-asml-euclyd">xLight raises $350M to challenge ASML's EUV monopoly</a> — The Next Web</li>
