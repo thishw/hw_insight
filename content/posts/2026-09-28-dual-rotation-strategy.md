@@ -111,8 +111,12 @@ AI가 틀림을 싸게 만들었다고 해서 모든 결정을 가볍게 내려�
 **한줄 코멘트.** AI 시대에는 넓게 시승하되, 좋은 차를 골랐다면 목적지까지 자주 갈아타지 않는 편이 나을 것 같다.
 
 <details class="sources">
-<summary>참고 자료 (1) — X</summary>
+<summary>참고 자료 (5) — X (formerly Twitter) · energyhistory.yale.edu · sec.gov · investor.gov</summary>
 <ul>
-<li><a href="https://x.com/JensenHuang/status/2086934705207959965">@JensenHuang 게시물</a> — X</li>
+<li><a href="https://x.com/JensenHuang/status/2086934705207959965">Jensen Huang (@JensenHuang) on X</a> — X (formerly Twitter)</li>
+<li><a href="https://energyhistory.yale.edu/w-stanley-jevons-the-coal-question-1865/">예일대학교 Energy History</a> — energyhistory.yale.edu</li>
+<li><a href="https://www.sec.gov/files/form-n-1a.pdf">미국 SEC Form N-1A</a> — sec.gov</li>
+<li><a href="https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins/updated-investor-bulletin-how-read-mutual-fund-or-etf-shareholder-report">Investor.gov의 회전율 안내</a> — investor.gov</li>
+<li><a href="https://www.investor.gov/introduction-investing/getting-started/understanding-fees">Investor.gov의 투자비용 안내</a> — investor.gov</li>
 </ul>
 </details>
