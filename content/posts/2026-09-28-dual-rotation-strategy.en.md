@@ -111,8 +111,12 @@ The fact that AI has made being wrong cheaper does not mean every decision shoul
 **One-line comment.** In the AI era, it may be wise to test-drive widely—but once you have chosen a good car, avoid switching vehicles repeatedly before reaching your destination.
 
 <details class="sources">
-<summary>Sources (1) — X</summary>
+<summary>Sources (5) — X (formerly Twitter) · energyhistory.yale.edu · sec.gov · investor.gov</summary>
 <ul>
-<li><a href="https://x.com/JensenHuang/status/2086934705207959965">Post by @JensenHuang</a> — X</li>
+<li><a href="https://x.com/JensenHuang/status/2086934705207959965">Jensen Huang (@JensenHuang) on X</a> — X (formerly Twitter)</li>
+<li><a href="https://energyhistory.yale.edu/w-stanley-jevons-the-coal-question-1865/">Yale University Energy History</a> — energyhistory.yale.edu</li>
+<li><a href="https://www.sec.gov/files/form-n-1a.pdf">U.S. SEC Form N-1A</a> — sec.gov</li>
+<li><a href="https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins/updated-investor-bulletin-how-read-mutual-fund-or-etf-shareholder-report">Investor.gov Guidance on Portfolio Turnover</a> — investor.gov</li>
+<li><a href="https://www.investor.gov/introduction-investing/getting-started/understanding-fees">Investor.gov Guidance on Investment Fees</a> — investor.gov</li>
 </ul>
 </details>
