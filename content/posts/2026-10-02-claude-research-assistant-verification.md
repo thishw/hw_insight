@@ -115,9 +115,9 @@ Claude를 효과적인 연구 보조자로 만드는 것은 한 번의 발견이
 **한줄 코멘트.** Claude는 결승선을 대신 통과하는 연구자가 아니라, 모든 검문소를 빠짐없이 찾아주는 연구 동료에 가깝다.
 
 <details class="sources">
-<summary>참고 자료 (2) — anthropic.com · X</summary>
+<summary>참고 자료 (2) — anthropic.com · X (formerly Twitter)</summary>
 <ul>
-<li><a href="https://www.anthropic.com/news/claude-discovers-novel-enzyme-system">claude discovers novel enzyme system</a> — anthropic.com</li>
-<li><a href="https://x.com/darioamodei/status/2102831170299834652">@darioamodei 게시물</a> — X</li>
+<li><a href="https://www.anthropic.com/news/claude-discovers-novel-enzyme-system">Claude discovers a novel enzyme system</a> — anthropic.com</li>
+<li><a href="https://x.com/darioamodei/status/2102831170299834652">Dario Amodei (@DarioAmodei) on X</a> — X (formerly Twitter)</li>
 </ul>
 </details>
