@@ -117,7 +117,7 @@ Going a step further, a question like this flickers by. What happens if China re
 A one-line comment. As always, Musk jumped into the river before the bridge was finished — this time, after laying a giant ring beneath the river.
 
 <details class="sources">
-<summary>참고 자료 (8) — CNBC · Manufacturing Dive · 포항가속기연구소 · Technology.org · Bits&Chips · The Next Web · X · m.blog.naver.com</summary>
+<summary>참고 자료 (8) — CNBC · Manufacturing Dive · 포항가속기연구소 · Technology.org · Bits&Chips · The Next Web · X · Naver</summary>
 <ul>
 <li><a href="https://www.cnbc.com/2026/05/06/elon-musks-spacex-chip-fab-in-texas-to-cost-up-to-119-billion.html">Elon Musk's SpaceX chip fab in Texas to cost up to $119 billion</a> — CNBC</li>
 <li><a href="https://www.manufacturingdive.com/news/xlight-chips-science-act-commerce-fel-albany-nanoplex-former-intel-pat-gelsinger/806767/">xLight secures CHIPS Act funding for FEL EUV in Albany</a> — Manufacturing Dive</li>
@@ -126,6 +126,6 @@ A one-line comment. As always, Musk jumped into the river before the bridge was 
 <li><a href="https://bits-chips.com/article/musk-hints-at-free-electron-laser-euv-source-tech-for-terafab/">Musk hints at free-electron laser EUV source tech for Terafab</a> — Bits&Chips</li>
 <li><a href="https://thenextweb.com/news/xlight-euv-350m-asml-euclyd">xLight raises $350M to challenge ASML's EUV monopoly</a> — The Next Web</li>
 <li><a href="https://x.com/elonmusk/status/2085508463740760308">"FEL FTW"</a> — Elon Musk (X), 2026-08-06</li>
-<li><a href="https://m.blog.naver.com/ranto28/224379237136">m.blog.naver.com</a> — m.blog.naver.com, 2026-08-15</li>
+<li><a href="https://m.blog.naver.com/ranto28/224379237136">Naver blog post</a> — Naver, 2026-08-15</li>
 </ul>
 </details>
