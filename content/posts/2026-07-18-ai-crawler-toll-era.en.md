@@ -81,7 +81,7 @@ However, the era of harvesting traffic solely by relying on search engines is de
 The way for a website to survive in the age of intelligence is to hold the roster of true regular customers who will open the door and walk in on their own without going through the machine's meter.
 
 <details class="sources">
-<summary>References (7) — SEOmator · Cloudflare Blog · Technology Checker · TechCrunch · Press Gazette · Search Engine Land · news.hada.io</summary>
+<summary>References (7) — SEOmator · Cloudflare Blog · Technology Checker · TechCrunch · Press Gazette · Search Engine Land · GeekNews</summary>
 <ul>
 <li><a href="https://seomator.com/blog/crawl-to-refer-ratio-ai-crawlers-llm-bots">Anthropic's crawl-to-refer ratio, monthly trend (Jan-Jul 2026)</a> — SEOmator</li>
 <li><a href="https://blog.cloudflare.com/content-independence-day-ai-options/">Cloudflare announces bot classification and default blocking policies</a> — Cloudflare Blog, 2026-07-01</li>
@@ -89,6 +89,6 @@ The way for a website to survive in the age of intelligence is to hold the roste
 <li><a href="https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/">Pay Per Use billing and initial partners</a> — TechCrunch, 2026-07-01</li>
 <li><a href="https://pressgazette.co.uk/platforms/news-publisher-ai-deals-lawsuits-openai-google/">News Corp and OpenAI licensing deal</a> — Press Gazette</li>
 <li><a href="https://searchengineland.com/really-simple-licensing-461834">Major brands supporting the RSL standard</a> — Search Engine Land</li>
-<li><a href="https://news.hada.io/weekly/202621">Article on news.hada.io</a> — news.hada.io</li>
+<li><a href="https://news.hada.io/weekly/202621">Article on news.hada.io</a> — GeekNews</li>
 </ul>
 </details>
