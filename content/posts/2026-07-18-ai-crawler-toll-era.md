@@ -89,6 +89,6 @@ graph TD
 <li><a href="https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/">Pay Per Use 과금 및 초기 파트너</a> — TechCrunch, 2026-07-01</li>
 <li><a href="https://pressgazette.co.uk/platforms/news-publisher-ai-deals-lawsuits-openai-google/">News Corp 및 OpenAI 라이선싱 딜</a> — Press Gazette</li>
 <li><a href="https://searchengineland.com/really-simple-licensing-461834">RSL 표준을 지지하는 주요 브랜드</a> — Search Engine Land</li>
-<li><a href="https://news.hada.io/weekly/202621">news.hada.io</a> — news.hada.io</li>
+<li><a href="https://news.hada.io/weekly/202621">news.hada.io 글</a> — news.hada.io</li>
 </ul>
 </details>
