@@ -119,7 +119,7 @@ flowchart TD
 결국 승부는 칩을 먼저 산 쪽이 아니라, 그 칩을 돌릴 전기를 먼저 확보한 쪽으로 기운다. 지능의 상한선을 정하는 것은 이제 반도체 공정이 아니라 전력망이다.
 
 <details class="sources">
-<summary>참고 자료 (18) — IEA · Enline Energy · Dev Sustainability · mGrid · Power Engineering · SMR Intel · Data Center Dynamics · Introl · SemiAnalysis · 파이낸셜뉴스 · 칸(KHARN) · 국가법령정보센터 · 기후에너지환경부 · 다음뉴스 · AI타임스 · 파이낸셜투데이 · 매일신문</summary>
+<summary>참고 자료 (22) — IEA · Enline Energy · Dev Sustainability · mGrid · Power Engineering · SMR Intel · Data Center Dynamics · Introl · SemiAnalysis · 파이낸셜뉴스 · 칸(KHARN) · 국가법령정보센터 · 기후에너지환경부 · 다음뉴스 · AI타임스 · 파이낸셜투데이 · 매일신문 · hankyung.com · biz.chosun.com · yna.co.kr</summary>
 <ul>
 <li><a href="https://www.iea.org/reports/key-questions-on-energy-and-ai/executive-summary">Key questions on energy and AI</a> — IEA</li>
 <li><a href="https://enline.energy/articles/ai-data-center-grid-capacity-2026">AI Data Center Grid Capacity 2026</a> — Enline Energy</li>
@@ -139,5 +139,9 @@ flowchart TD
 <li><a href="https://v.daum.net/v/20260513142355990">국가 AI컴퓨팅센터 입지 전남 해남 솔라시도 확정, 삼성SDS 컨소시엄 선정</a> — 다음뉴스, 2026. 05. 13.</li>
 <li><a href="https://www.aitimes.kr/news/articleView.html?idxno=40757">삼성그룹 호남권 425조원 투자 — 광주 반도체 거점·해남 210MW AI 데이터센터</a> — AI타임스</li>
 <li><a href="https://www.ftoday.co.kr/news/articleView.html?idxno=343534">SK텔레콤·AWS 울산 미포 103MW AI 데이터센터</a> — 파이낸셜투데이</li>
+<li><a href="https://www.hankyung.com/article/202607266169i">한국경제</a> — hankyung.com</li>
+<li><a href="https://biz.chosun.com/it-science/ict/2026/07/28/NA6CBHIAINA3VIIGIGEALAQM7M/">조선비즈</a> — biz.chosun.com</li>
+<li><a href="https://www.yna.co.kr/view/AKR20260801021500003">연합뉴스</a> — yna.co.kr</li>
+<li><a href="https://www.hankyung.com/article/202608019176i">한국경제</a> — hankyung.com</li>
 </ul>
 </details>
