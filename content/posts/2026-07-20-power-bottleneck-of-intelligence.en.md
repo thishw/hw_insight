@@ -119,7 +119,7 @@ The key is not the plan, but the speed of execution. Designation and breaking gr
 Ultimately, the game tilts not toward whoever bought the chips first, but whoever secured the electricity to run them first. The upper limit of intelligence is no longer defined by semiconductor nodes, but by the power grid.
 
 <details class="sources">
-<summary>References (18) — IEA · Enline Energy · Dev Sustainability · mGrid · Power Engineering · SMR Intel · Data Center Dynamics · Introl · SemiAnalysis · Financial News · KHARN · National Law Information Center · Ministry of Climate, Energy, and Environment · Daum News · AI Times · Financial Today · Maeil Shinmun</summary>
+<summary>References (22) — IEA · Enline Energy · Dev Sustainability · mGrid · Power Engineering · SMR Intel · Data Center Dynamics · Introl · SemiAnalysis · Financial News · KHARN · National Law Information Center · Ministry of Climate, Energy, and Environment · Daum News · AI Times · Financial Today · Maeil Shinmun · hankyung.com · biz.chosun.com · yna.co.kr</summary>
 <ul>
 <li><a href="https://www.iea.org/reports/key-questions-on-energy-and-ai/executive-summary">Key questions on energy and AI</a> — IEA</li>
 <li><a href="https://enline.energy/articles/ai-data-center-grid-capacity-2026">AI Data Center Grid Capacity 2026</a> — Enline Energy</li>
@@ -139,5 +139,9 @@ Ultimately, the game tilts not toward whoever bought the chips first, but whoeve
 <li><a href="https://v.daum.net/v/20260513142355990">National AI Computing Center Location Confirmed for Solaseado, Haenam; Samsung SDS Consortium Selected</a> — Daum News, May 13, 2026</li>
 <li><a href="https://www.aitimes.kr/news/articleView.html?idxno=40757">Samsung Group's 425 Trillion Won Investment in Honam — Gwangju Semiconductor Hub & Haenam 210 MW AI Data Center</a> — AI Times</li>
 <li><a href="https://www.ftoday.co.kr/news/articleView.html?idxno=343534">SK Telecom & AWS 103 MW AI Data Center in Ulsan Mipo</a> — Financial Today</li>
+<li><a href="https://www.hankyung.com/article/202607266169i">The Korea Economic Daily</a> — hankyung.com</li>
+<li><a href="https://biz.chosun.com/it-science/ict/2026/07/28/NA6CBHIAINA3VIIGIGEALAQM7M/">ChosunBiz</a> — biz.chosun.com</li>
+<li><a href="https://www.yna.co.kr/view/AKR20260801021500003">Yonhap News Agency</a> — yna.co.kr</li>
+<li><a href="https://www.hankyung.com/article/202608019176i">The Korea Economic Daily</a> — hankyung.com</li>
 </ul>
 </details>
