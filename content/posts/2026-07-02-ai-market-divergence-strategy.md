@@ -43,7 +43,7 @@ og_image: "images/posts/ai-market-divergence-strategy.jpg"
 방향을 잡으려면 패권 경쟁의 흐름부터 볼 필요가 있다.
 
 ```mermaid
-flowchart LR
+flowchart TD
     A[총성<br/>냉전·군비] --> B[관세<br/>보호무역]
     B --> C[반도체<br/>공급망 통제]
     C --> D[AI 패권<br/>최종 단계]
@@ -132,3 +132,11 @@ AI 스스로가 시장의 가격 효율성을 높이고 있고, 기술 무게중
 ---
 
 > 본 글은 개인적인 관점과 분석을 정리한 것으로, 특정 종목·상품의 매수·매도 추천이 아닙니다. 투자에 대한 판단과 책임은 투자자 본인에게 있습니다.
+
+<details class="sources">
+<summary>참고 자료 (2) — Colossus · YouTube</summary>
+<ul>
+<li><a href="https://colossus.com/episode/watts-and-wafers/">Watts and Wafers</a> — Colossus</li>
+<li><a href="https://www.youtube.com/watch?v=asCgCv2XB4s">Re-engineering the Semiconductor Supply Chain with Intel CEO Lip Bu Tan</a> — No Priors, YouTube</li>
+</ul>
+</details>
