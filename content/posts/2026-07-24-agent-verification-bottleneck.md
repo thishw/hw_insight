@@ -102,7 +102,7 @@ graph TD
 한줄 코멘트로 전체 논지를 압축해 본다. 신뢰는 막연한 감정이지만 검증 가능성은 구조적으로 설계할 수 있으며, 이 구조를 먼저 장악한 기업만이 생성 에이전트라는 가속 페달을 마음껏 밟을 수 있을 것 같다.
 
 <details class="sources">
-<summary>참고 자료 (11) — Daniel Vaughan · Scott Logic · arXiv · arXiv · AppSec Santa · Ventureburn · Thinking Inc · Generative Labs · Cloudflare · Daniel Keller · stratechery.com</summary>
+<summary>참고 자료 (11) — Daniel Vaughan · Scott Logic · arXiv · AppSec Santa · Ventureburn · Thinking Inc · Generative Labs · Cloudflare · Daniel Keller · stratechery.com</summary>
 <ul>
 <li><a href="https://codex.danielvaughan.com/2026/05/24/human-review-bottleneck-code-review-strategies-agent-output/">Human Review Bottleneck: Code Review Strategies for Agent Output</a> — Daniel Vaughan, 2026-05-24</li>
 <li><a href="https://blog.scottlogic.com/2026/05/14/the-human-bottleneck.html">The Human Bottleneck</a> — Scott Logic, 2026-05-14</li>
