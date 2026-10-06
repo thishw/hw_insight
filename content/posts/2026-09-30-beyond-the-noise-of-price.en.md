@@ -10,6 +10,8 @@ media_type: "article"
 og_image: "images/posts/beyond-the-noise-of-price.jpg"
 ---
 
+This article draws on an interview with investor Mohnish Pabrai and on Sung Pil-kyu (Albatross)'s book *Don-eul Igineun Beop* (How to Beat Money) to lay out what to anchor on in a volatile market.
+
 Watching prices swing dramatically each day can make the market feel different from what it once was. Today’s price movements are certainly extreme, but what separates successful investors from unsuccessful ones is not how quickly they react to volatility. It is whether they can calmly assess value and probability amid the noise of market prices.
 
 > The essence of investing is not predicting every market movement correctly.  
@@ -18,7 +20,11 @@ Watching prices swing dramatically each day can make the market feel different f
 
 ## An Overactive Market Creates Extreme Volatility
 
-Recent market volatility has been severe. But this is more than simply a highly volatile market—it is an extremely overactive one.
+Recent market volatility has been severe. In an interview, Mohnish Pabrai borrowed Buffett's description of the stock market as "a mechanism for transferring wealth from the active to the inactive," and then described today's market this way:
+
+> But this is an extremely hyperactive market.
+>
+> — Mohnish Pabrai
 
 Information spreads in real time, and investors react immediately. Combined with short-term trading and herd mentality, even minor news can trigger enormous price movements.
 
@@ -30,7 +36,7 @@ Its products and services, competitive advantages, and cash-generating ability m
 
 ## Greed and Misjudgment Can Make the Same Business Expensive
 
-Even when the underlying business remains the same, the price assigned to it by the market can vary dramatically. When optimism spreads, favorable future possibilities are quickly priced into the present. When greed takes over, the price rises beyond even that level.
+Pabrai compared Coca-Cola bottlers and airport operators in India and Turkey and noted the huge valuation gaps "even though it's the same business." Even when the underlying business remains the same, the price assigned to it by the market can vary dramatically. When optimism spreads, favorable future possibilities are quickly priced into the present. When greed takes over, the price rises beyond even that level.
 
 The asset becomes excessively expensive—even though the business itself has not changed.
 
@@ -53,13 +59,19 @@ Value relative to price describes the relationship between the price an investor
 
 The key to investment analysis is not merely whether an asset is attractive in absolute terms. Investors must also consider how much value they will receive relative to its current price.
 
-Personally, I believe investment opportunities arise when the market appears to be misjudging a company or situation. Of course, that assessment can be wrong. This is why investors must continually examine evidence that contradicts their own estimates.
+Speaking about software companies in the age of AI coding, Pabrai said, "I actually feel the market is getting this wrong." Personally, I also believe investment opportunities arise when the market appears to be misjudging a company or situation. Of course, that assessment can be wrong. This is why investors must continually examine evidence that contradicts their own estimates.
 
 Can you invest even when uncertainty remains? If the gap between price and value is sufficiently wide and you can withstand the possibility of loss, doing so may be a rational choice.
 
 The investment implication is clear: the price you pay matters just as much as what you buy.
 
 ## Choose Favorable Odds Over Certain Predictions
+
+Pabrai sums up his own investing like this:
+
+> It's not a 100% bet. It's a favorable bet. And as long as we keep making these favorable bets, we're fine.
+>
+> — Mohnish Pabrai
 
 A favorable bet is not a choice that guarantees success. It is a choice whose expected outcome favors you after considering the potential gains and losses and the probability of each.
 
@@ -96,7 +108,7 @@ When prices soar, anxiety about being left behind takes hold. When prices plunge
 | High uncertainty | Impatience and confusion | Relying excessively on predictions | Assess the range of gains and losses and their probabilities |
 | Failed bet | Self-doubt | Abandoning principles immediately | Separate the outcome from the decision-making process |
 
-Ultimately, investing is a mental game.
+As Sung Pil-kyu (Albatross) sums up *Don-eul Igineun Beop* in a single line, investing is ultimately a mental game.
 
 The same applies to decision-making in other areas. Establishing sound criteria and repeatedly making favorable choices matters more than a single emotional decision.
 
@@ -113,14 +125,16 @@ After all, market noise is beyond your control. What you can control is the pric
 **One-line comment.** Investing is not a game of predicting the waves; it is a game of keeping the boat balanced and repeatedly choosing the most favorable course.
 
 <details class="sources">
-<summary>Sources (7) — bloomberg.com · YouTube · Naver · stratechery.com · about.fb.com</summary>
+<summary>Sources (9) — Bloomberg.com · YouTube · Naver · Stratechery by Ben Thompson · Meta Newsroom · Mohnish Pabrai interview · Don-eul Igineun Beop</summary>
 <ul>
-<li><a href="https://www.bloomberg.com/news/articles/2026-07-01/meta-is-building-a-cloud-business-to-sell-excess-ai-compute">meta is building a cloud business to sell excess ai compute</a> — bloomberg.com</li>
+<li><a href="https://www.bloomberg.com/news/articles/2026-07-01/meta-is-building-a-cloud-business-to-sell-excess-ai-compute">Meta Is Planning a Cloud Business to Sell AI Computing Power</a> — Bloomberg.com</li>
 <li><a href="https://www.youtube.com/watch?v=07KeJEEXVq4">YouTube video</a> — YouTube</li>
 <li><a href="https://blog.naver.com/tmdejr1267/224355806838">Naver blog post</a> — Naver</li>
 <li><a href="https://m.blog.naver.com/ranto28/224379237136">Naver blog post</a> — Naver, 2026-08-15</li>
 <li><a href="https://blog.naver.com/oracleyongsan/224389521421">Naver blog post</a> — Naver</li>
-<li><a href="https://stratechery.com/2026/openai-does-math-reward-hacking-meta-launches-personal-agent/">openai does math reward hacking meta launches personal agent</a> — stratechery.com</li>
-<li><a href="https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/">introducing muse personal ai agent</a> — about.fb.com</li>
+<li><a href="https://stratechery.com/2026/openai-does-math-reward-hacking-meta-launches-personal-agent/">OpenAI Does Math, Reward-Hacking, Meta Launches Personal Agent</a> — Stratechery by Ben Thompson</li>
+<li><a href="https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/">Introducing Muse: The World’s First Personal AI Agent Built for Everyone</a> — Meta Newsroom</li>
+<li>Mohnish Pabrai interview transcript (translated) — original link not recorded</li>
+<li>Sung Pil-kyu (Albatross), <em>Don-eul Igineun Beop</em> (How to Beat Money) — book</li>
 </ul>
 </details>
