@@ -113,13 +113,13 @@ flowchart TD
 **한줄 코멘트.** 투자는 파도를 맞히는 게임이 아니라, 배의 균형을 지키며 유리한 항로를 반복해서 선택하는 게임이다.
 
 <details class="sources">
-<summary>참고 자료 (7) — bloomberg.com · YouTube · blog.naver.com · 네이버 블로그 | 메르의 블로그 · stratechery.com · about.fb.com</summary>
+<summary>참고 자료 (7) — bloomberg.com · YouTube · 네이버 블로그 · 네이버 블로그 | 메르의 블로그 · stratechery.com · about.fb.com</summary>
 <ul>
 <li><a href="https://www.bloomberg.com/news/articles/2026-07-01/meta-is-building-a-cloud-business-to-sell-excess-ai-compute">meta is building a cloud business to sell excess ai compute</a> — bloomberg.com</li>
-<li><a href="https://www.youtube.com/watch?v=07KeJEEXVq4">watch</a> — YouTube</li>
-<li><a href="https://blog.naver.com/tmdejr1267/224355806838">blog.naver.com</a> — blog.naver.com</li>
+<li><a href="https://www.youtube.com/watch?v=07KeJEEXVq4">YouTube 영상</a> — YouTube</li>
+<li><a href="https://blog.naver.com/tmdejr1267/224355806838">네이버 블로그 게시물</a> — 네이버 블로그</li>
 <li><a href="https://m.blog.naver.com/ranto28/224379237136">일론 머스크의 새로운 도전, 테라펩 (feat 반도체 직접 만들겠다) : 네이버 블로그</a> — 네이버 블로그 | 메르의 블로그, 2026-08-15</li>
-<li><a href="https://blog.naver.com/oracleyongsan/224389521421">blog.naver.com</a> — blog.naver.com</li>
+<li><a href="https://blog.naver.com/oracleyongsan/224389521421">네이버 블로그 게시물</a> — 네이버 블로그</li>
 <li><a href="https://stratechery.com/2026/openai-does-math-reward-hacking-meta-launches-personal-agent/">openai does math reward hacking meta launches personal agent</a> — stratechery.com</li>
 <li><a href="https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/">introducing muse personal ai agent</a> — about.fb.com</li>
 </ul>
