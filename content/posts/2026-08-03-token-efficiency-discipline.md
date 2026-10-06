@@ -127,14 +127,18 @@ graph TD
 지능의 계량기 시대, 쏟아지는 청구서를 통제하고 진정한 가치를 키우는 무기는 단가표가 아니라 사용자의 날카로운 시스템 덜어냄 규율이다.
 
 <details class="sources">
-<summary>참고 자료 (7) — a16z · DataHub · Anthropic · Anthropic Cookbook · cdn.openai.com · notboring.co · X</summary>
+<summary>참고 자료 (11) — a16z · DataHub · Anthropic · Anthropic Cookbook · cdn.openai.com · notboring.co · X (formerly Twitter) · mk.co.kr · hankyung.com · yna.co.kr</summary>
 <ul>
 <li><a href="https://a16z.com/llmflation-llm-inference-cost/">LLMflation</a> — a16z</li>
 <li><a href="https://datahub.com/blog/context-engineering-vs-prompt-engineering/">State of Context Management Report 2026</a> — DataHub, 2026</li>
 <li><a href="https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents">Effective context engineering for AI agents</a> — Anthropic</li>
 <li><a href="https://platform.claude.com/cookbook/tool-use-context-engineering-context-engineering-tools">Context Engineering Tools</a> — Anthropic Cookbook</li>
 <li><a href="https://cdn.openai.com/pdf/5d1e1489-21c0-43e4-9d42-f87efdbf0082/the-shift-to-agentic-ai-evidence-from-codex.pdf">the shift to agentic ai evidence from codex.pdf</a> — cdn.openai.com</li>
-<li><a href="https://www.notboring.co/p/return-on-tokens-rot">return on tokens rot</a> — notboring.co</li>
-<li><a href="https://x.com/brian_armstrong/status/2070670644577280109?s=20">@brian_armstrong 게시물</a> — X</li>
+<li><a href="https://www.notboring.co/p/return-on-tokens-rot">Return on Tokens (ROT)</a> — notboring.co</li>
+<li><a href="https://x.com/brian_armstrong/status/2070670644577280109?s=20">Brian Armstrong (@brian_armstrong) on X</a> — X (formerly Twitter)</li>
+<li><a href="https://www.mk.co.kr/news/business/12107558">매일경제</a> — mk.co.kr</li>
+<li><a href="https://www.hankyung.com/article/2026072556727">한국경제</a> — hankyung.com</li>
+<li><a href="https://www.yna.co.kr/view/AKR20260731102700008">연합뉴스</a> — yna.co.kr</li>
+<li><a href="https://www.yna.co.kr/view/AKR20260801014400008">연합뉴스</a> — yna.co.kr</li>
 </ul>
 </details>
