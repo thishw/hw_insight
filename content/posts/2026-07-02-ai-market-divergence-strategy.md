@@ -30,11 +30,11 @@ og_image: "images/posts/ai-market-divergence-strategy.jpg"
 
 근데 올해 들어 이 횡단적 상관관계가 깨져버렸다. 왜일까?
 
-Colossus 팟캐스트 「Watts and Wafers」에 출연한 게빈 베이커는 이 변화를 이렇게 짚었다.
+Colossus의 Invest Like the Best 473화 「Watts and Wafers」에 출연한 게빈 베이커는 이 변화를 이렇게 짚었다.
 
 > 24년과 25년에 AI 관련주들은 하나의 큰 덩어리로 같이 움직였습니다. … 횡단적 관점에서 모든 것이 1월을 기점으로 크게 변했습니다.
 >
-> — 게빈 베이커, Colossus 「Watts and Wafers」
+> — 게빈 베이커, Colossus의 Invest Like the Best 473화 「Watts and Wafers」
 
 그는 그 이유를 "AI 자체가 질적으로 크게 진일보하면서, 수많은 투자자들이 AI를 활용해 이 다양한 하위 섹터들을 아주 똑똑하게 분석하기 시작했기 때문"으로 본다.
 
