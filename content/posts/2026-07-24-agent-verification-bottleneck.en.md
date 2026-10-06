@@ -102,7 +102,7 @@ Personally, I suspect this polarized infrastructure gap will manifest within 2�
 Let me compress the entire argument into a single-line comment. Trust is a vague emotion, but verifiability can be structurally designed, and it seems only the companies that master this structure first will be able to freely press the accelerator pedal known as generative agents.
 
 <details class="sources">
-<summary>References (11) — Daniel Vaughan · Scott Logic · arXiv · arXiv · AppSec Santa · Ventureburn · Thinking Inc · Generative Labs · Cloudflare · Daniel Keller · stratechery.com</summary>
+<summary>References (11) — Daniel Vaughan · Scott Logic · arXiv · AppSec Santa · Ventureburn · Thinking Inc · Generative Labs · Cloudflare · Daniel Keller · stratechery.com</summary>
 <ul>
 <li><a href="https://codex.danielvaughan.com/2026/05/24/human-review-bottleneck-code-review-strategies-agent-output/">Human Review Bottleneck: Code Review Strategies for Agent Output</a> — Daniel Vaughan, 2026-05-24</li>
 <li><a href="https://blog.scottlogic.com/2026/05/14/the-human-bottleneck.html">The Human Bottleneck</a> — Scott Logic, 2026-05-14</li>
