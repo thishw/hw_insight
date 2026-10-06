@@ -115,9 +115,9 @@ Returning to the initial question, there is no need to immediately trust Claude�
 **One-line comment.** Claude is not a researcher who crosses the finish line on our behalf, but a research colleague who helps us identify every checkpoint along the way.
 
 <details class="sources">
-<summary>Sources (2) — anthropic.com · X</summary>
+<summary>Sources (2) — anthropic.com · X (formerly Twitter)</summary>
 <ul>
-<li><a href="https://www.anthropic.com/news/claude-discovers-novel-enzyme-system">claude discovers novel enzyme system</a> — anthropic.com</li>
-<li><a href="https://x.com/darioamodei/status/2102831170299834652">Post by @darioamodei</a> — X</li>
+<li><a href="https://www.anthropic.com/news/claude-discovers-novel-enzyme-system">Claude discovers a novel enzyme system</a> — anthropic.com</li>
+<li><a href="https://x.com/darioamodei/status/2102831170299834652">Dario Amodei (@DarioAmodei) on X</a> — X (formerly Twitter)</li>
 </ul>
 </details>
