@@ -134,7 +134,7 @@ After all, market noise is beyond your control. What you can control is the pric
 <li><a href="https://blog.naver.com/oracleyongsan/224389521421">Naver blog post</a> — Naver</li>
 <li><a href="https://stratechery.com/2026/openai-does-math-reward-hacking-meta-launches-personal-agent/">OpenAI Does Math, Reward-Hacking, Meta Launches Personal Agent</a> — Stratechery by Ben Thompson</li>
 <li><a href="https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/">Introducing Muse: The World’s First Personal AI Agent Built for Everyone</a> — Meta Newsroom</li>
-<li>Mohnish Pabrai interview transcript (translated) — original link not recorded</li>
+<li>Mohnish Pabrai interview (translated transcript) — Interview</li>
 <li>Sung Pil-kyu (Albatross), <em>Don-eul Igineun Beop</em> (How to Beat Money) — book</li>
 </ul>
 </details>
