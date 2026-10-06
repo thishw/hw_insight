@@ -10,6 +10,8 @@ media_type: "article"
 og_image: "images/posts/beyond-the-noise-of-price.jpg"
 ---
 
+이 글은 투자자 모니시 파브라이(Mohnish Pabrai)의 한 인터뷰와 성필규(알바트로스)의 『돈을 이기는 법』에서 읽은 생각을 바탕으로, 변동성이 큰 시장에서 무엇을 기준으로 삼을지 정리한 것이다.
+
 하루에도 가격이 크게 오르내리는 장면을 보고 있으면 시장이 예전과는 다르다는 느낌을 받게 된다. 지금의 가격 움직임은 확실히 과격하지만, 투자자의 성패를 가르는 기준은 변동성에 얼마나 빨리 반응하느냐가 아니라 가격의 소음 속에서 가치와 확률을 냉정하게 판단할 수 있느냐에 있다.
 
 > 투자의 본질은 시장의 움직임을 모두 맞히는 데 있지 않다.  
@@ -18,7 +20,11 @@ og_image: "images/posts/beyond-the-noise-of-price.jpg"
 
 ## 과잉 활동적인 시장이 극단적 변동성을 만든다
 
-최근 시장의 변동성은 극심하다. 그런데 여기는 단순히 변동성이 큰 시장을 넘어, 극도로 과잉 활동적인 시장이다.
+최근 시장의 변동성은 극심하다. 모니시 파브라이는 한 인터뷰에서 버핏의 말을 빌려 주식시장을 "적극적인 사람에게서 비활동적인 사람에게로 부를 이전하는 메커니즘"이라고 설명한 뒤, 지금의 시장을 이렇게 표현했다.
+
+> 그런데 여기는 극도로 과잉 활동적인 시장입니다.
+>
+> — 모니시 파브라이
 
 정보는 실시간으로 퍼지고 투자자는 즉각 반응한다. 여기에 단기 매매와 군중심리가 겹치면서 작은 뉴스도 거대한 가격 변화로 번질 수 있다.
 
@@ -30,7 +36,7 @@ og_image: "images/posts/beyond-the-noise-of-price.jpg"
 
 ## 같은 사업도 욕심과 오판으로 비싸진다
 
-같은 사업인데도 시장이 붙이는 가격은 크게 달라진다. 낙관이 확산되면 미래의 좋은 가능성이 현재 가격에 빠르게 반영되고, 욕심이 더해지면 그 수준을 넘어선다.
+파브라이는 인도와 터키의 코카콜라 병입업체, 공항 운영사를 나란히 놓고 "같은 사업인데도" 밸류에이션 차이가 엄청났다고 짚었다. 이처럼 같은 사업인데도 시장이 붙이는 가격은 크게 달라진다. 낙관이 확산되면 미래의 좋은 가능성이 현재 가격에 빠르게 반영되고, 욕심이 더해지면 그 수준을 넘어선다.
 
 그래서 과도하게 비싸진다. 사업은 그대로인데도 말이다.
 
@@ -53,13 +59,19 @@ og_image: "images/posts/beyond-the-noise-of-price.jpg"
 
 투자 판단의 핵심은 자산이 절대적으로 매력적인지에만 있지 않다. 현재 가격에 비해 얼마나 많은 가치를 받을 수 있는지를 함께 봐야 한다.
 
-개인적으로 투자 기회는 시장이 기업이나 상황을 잘못 보고 있다고 느끼는 지점에서 생기는 것 같다. 물론 이 판단은 틀릴 수 있다. 그래서 자신의 추정과 반대되는 근거까지 계속 점검해야 한다.
+파브라이도 AI 코딩 시대의 소프트웨어 기업을 두고 "저는 실제로 시장이 이것을 잘못 보고 있다고 느낍니다"라고 말했다. 개인적으로도 투자 기회는 시장이 기업이나 상황을 잘못 보고 있다고 느끼는 지점에서 생기는 것 같다. 물론 이 판단은 틀릴 수 있다. 그래서 자신의 추정과 반대되는 근거까지 계속 점검해야 한다.
 
 불확실성이 남아 있는데도 투자할 수 있을까? 가격과 가치의 차이가 충분하고 손실 가능성까지 감당할 수 있다면 합리적인 선택이 될 수 있다.
 
 투자 함의는 명확하다. 무엇을 사느냐만큼 얼마에 사느냐가 중요하다.
 
 ## 확실한 예측보다 유리한 확률을 선택한다
+
+파브라이는 자신의 투자를 이렇게 요약한다.
+
+> 100% 베팅은 아닙니다. 유리한 베팅입니다. 그리고 우리가 이런 유리한 베팅을 계속하는 한 괜찮습니다.
+>
+> — 모니시 파브라이
 
 유리한 베팅이란 성공을 보장하는 선택이 아니라, 가능한 이익과 손실 및 각각의 발생 확률을 고려했을 때 기대 결과가 자신에게 유리한 선택이다.
 
@@ -96,7 +108,7 @@ flowchart TD
 | 높은 불확실성 | 조급함과 혼란 | 예측에 과도하게 의존한다 | 손익 범위와 확률을 점검한다 |
 | 베팅 실패 | 자기 의심 | 원칙을 즉시 폐기한다 | 결과와 판단 과정을 분리한다 |
 
-결국 투자는 멘탈 게임이다.
+성필규(알바트로스)가 『돈을 이기는 법』을 한 줄로 요약했듯, 결국 투자는 멘탈 게임이다.
 
 다른 영역의 의사결정도 마찬가지이다. 감정적인 한 번의 선택보다 기준을 세우고 유리한 선택을 반복하는 태도가 더 중요하다.
 
@@ -113,14 +125,16 @@ flowchart TD
 **한줄 코멘트.** 투자는 파도를 맞히는 게임이 아니라, 배의 균형을 지키며 유리한 항로를 반복해서 선택하는 게임이다.
 
 <details class="sources">
-<summary>참고 자료 (7) — bloomberg.com · YouTube · 네이버 블로그 · 네이버 블로그 | 메르의 블로그 · stratechery.com · about.fb.com</summary>
+<summary>참고 자료 (9) — Bloomberg.com · YouTube · 네이버 블로그 | 생각 좀 하며 세상을 보자 · 네이버 블로그 | 메르의 블로그 · Stratechery by Ben Thompson · Meta Newsroom · 모니시 파브라이 인터뷰 · 『돈을 이기는 법』</summary>
 <ul>
-<li><a href="https://www.bloomberg.com/news/articles/2026-07-01/meta-is-building-a-cloud-business-to-sell-excess-ai-compute">meta is building a cloud business to sell excess ai compute</a> — bloomberg.com</li>
-<li><a href="https://www.youtube.com/watch?v=07KeJEEXVq4">YouTube 영상</a> — YouTube</li>
-<li><a href="https://blog.naver.com/tmdejr1267/224355806838">네이버 블로그 게시물</a> — 네이버 블로그</li>
+<li><a href="https://www.bloomberg.com/news/articles/2026-07-01/meta-is-building-a-cloud-business-to-sell-excess-ai-compute">Meta Is Planning a Cloud Business to Sell AI Computing Power</a> — Bloomberg.com</li>
+<li><a href="https://www.youtube.com/watch?v=07KeJEEXVq4">배당주 투자와 배당 추정을 위한 기초지식</a> — YouTube</li>
+<li><a href="https://blog.naver.com/tmdejr1267/224355806838">20260723 - 시장 단상 (클라우드, AI-DC, 코스닥)</a> — 네이버 블로그 | Seung&#x27;s 투자와 생각</li>
 <li><a href="https://m.blog.naver.com/ranto28/224379237136">일론 머스크의 새로운 도전, 테라펩 (feat 반도체 직접 만들겠다) : 네이버 블로그</a> — 네이버 블로그 | 메르의 블로그, 2026-08-15</li>
-<li><a href="https://blog.naver.com/oracleyongsan/224389521421">네이버 블로그 게시물</a> — 네이버 블로그</li>
-<li><a href="https://stratechery.com/2026/openai-does-math-reward-hacking-meta-launches-personal-agent/">openai does math reward hacking meta launches personal agent</a> — stratechery.com</li>
-<li><a href="https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/">introducing muse personal ai agent</a> — about.fb.com</li>
+<li><a href="https://blog.naver.com/oracleyongsan/224389521421">결국에는 나를 낮출 때였다(2026. 8. 25)</a> — 네이버 블로그 | 생각 좀 하며 세상을 보자</li>
+<li><a href="https://stratechery.com/2026/openai-does-math-reward-hacking-meta-launches-personal-agent/">OpenAI Does Math, Reward-Hacking, Meta Launches Personal Agent</a> — Stratechery by Ben Thompson</li>
+<li><a href="https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/">Introducing Muse: The World’s First Personal AI Agent Built for Everyone</a> — Meta Newsroom</li>
+<li>모니시 파브라이 인터뷰 녹취(번역) — 원 링크 미기록</li>
+<li>성필규(알바트로스), 『돈을 이기는 법』 — 도서</li>
 </ul>
 </details>
