@@ -113,13 +113,13 @@ After all, market noise is beyond your control. What you can control is the pric
 **One-line comment.** Investing is not a game of predicting the waves; it is a game of keeping the boat balanced and repeatedly choosing the most favorable course.
 
 <details class="sources">
-<summary>Sources (7) — bloomberg.com · YouTube · blog.naver.com · m.blog.naver.com · stratechery.com · about.fb.com</summary>
+<summary>Sources (7) — bloomberg.com · YouTube · Naver · stratechery.com · about.fb.com</summary>
 <ul>
 <li><a href="https://www.bloomberg.com/news/articles/2026-07-01/meta-is-building-a-cloud-business-to-sell-excess-ai-compute">meta is building a cloud business to sell excess ai compute</a> — bloomberg.com</li>
-<li><a href="https://www.youtube.com/watch?v=07KeJEEXVq4">watch</a> — YouTube</li>
-<li><a href="https://blog.naver.com/tmdejr1267/224355806838">blog.naver.com</a> — blog.naver.com</li>
-<li><a href="https://m.blog.naver.com/ranto28/224379237136">m.blog.naver.com</a> — m.blog.naver.com, 2026-08-15</li>
-<li><a href="https://blog.naver.com/oracleyongsan/224389521421">blog.naver.com</a> — blog.naver.com</li>
+<li><a href="https://www.youtube.com/watch?v=07KeJEEXVq4">YouTube video</a> — YouTube</li>
+<li><a href="https://blog.naver.com/tmdejr1267/224355806838">Naver blog post</a> — Naver</li>
+<li><a href="https://m.blog.naver.com/ranto28/224379237136">Naver blog post</a> — Naver, 2026-08-15</li>
+<li><a href="https://blog.naver.com/oracleyongsan/224389521421">Naver blog post</a> — Naver</li>
 <li><a href="https://stratechery.com/2026/openai-does-math-reward-hacking-meta-launches-personal-agent/">openai does math reward hacking meta launches personal agent</a> — stratechery.com</li>
 <li><a href="https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/">introducing muse personal ai agent</a> — about.fb.com</li>
 </ul>
