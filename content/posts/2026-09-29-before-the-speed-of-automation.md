@@ -91,12 +91,12 @@ flowchart TD
 **한줄 코멘트.** 자동화라는 급행열차의 표를 비싸게 추격하기보다, 어느 열차로든 갈아탈 수 있는 능력을 먼저 갖추는 편이 낫다.
 
 <details class="sources">
-<summary>참고 자료 (5) — 국제노동기구 · 세계경제포럼 · meta.com · bloomberg.com · blog.naver.com</summary>
+<summary>참고 자료 (5) — 국제노동기구 · 세계경제포럼 · meta.com · bloomberg.com · 네이버 블로그</summary>
 <ul>
 <li><a href="https://www.ilo.org/publications/generative-ai-and-jobs-2025-update">Generative AI and Jobs: A 2025 Update</a> — 국제노동기구, 2025년 5월 20일</li>
 <li><a href="https://www.weforum.org/publications/the-future-of-jobs-report-2025/digest/">The Future of Jobs Report 2025</a> — 세계경제포럼, 2025년 1월 7일</li>
 <li><a href="https://www.meta.com/thefutureisforeveryone/">The Future is for Everyone</a> — meta.com, 2026-08-10</li>
 <li><a href="https://www.bloomberg.com/news/articles/2026-07-01/meta-is-building-a-cloud-business-to-sell-excess-ai-compute">meta is building a cloud business to sell excess ai compute</a> — bloomberg.com</li>
-<li><a href="https://blog.naver.com/tmdejr1267/224355806838">blog.naver.com</a> — blog.naver.com</li>
+<li><a href="https://blog.naver.com/tmdejr1267/224355806838">네이버 블로그 게시물</a> — 네이버 블로그</li>
 </ul>
 </details>
