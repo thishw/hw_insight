@@ -89,6 +89,6 @@ The way for a website to survive in the age of intelligence is to hold the roste
 <li><a href="https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/">Pay Per Use billing and initial partners</a> — TechCrunch, 2026-07-01</li>
 <li><a href="https://pressgazette.co.uk/platforms/news-publisher-ai-deals-lawsuits-openai-google/">News Corp and OpenAI licensing deal</a> — Press Gazette</li>
 <li><a href="https://searchengineland.com/really-simple-licensing-461834">Major brands supporting the RSL standard</a> — Search Engine Land</li>
-<li><a href="https://news.hada.io/weekly/202621">news.hada.io</a> — news.hada.io</li>
+<li><a href="https://news.hada.io/weekly/202621">Article on news.hada.io</a> — news.hada.io</li>
 </ul>
 </details>
