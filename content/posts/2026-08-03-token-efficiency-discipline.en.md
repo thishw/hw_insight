@@ -127,14 +127,18 @@ The clear fact is that a thorough paradigm shift is needed to defend against exp
 In the metered intelligence era, the weapon to control pouring bills and foster true value is not the price tag, but the user's sharp discipline of system subtraction.
 
 <details class="sources">
-<summary>References (7) — a16z · DataHub · Anthropic · Anthropic Cookbook · cdn.openai.com · notboring.co · X</summary>
+<summary>References (11) — a16z · DataHub · Anthropic · Anthropic Cookbook · cdn.openai.com · notboring.co · X (formerly Twitter) · mk.co.kr · hankyung.com · yna.co.kr</summary>
 <ul>
 <li><a href="https://a16z.com/llmflation-llm-inference-cost/">LLMflation</a> — a16z</li>
 <li><a href="https://datahub.com/blog/context-engineering-vs-prompt-engineering/">State of Context Management Report 2026</a> — DataHub, 2026</li>
 <li><a href="https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents">Effective context engineering for AI agents</a> — Anthropic</li>
 <li><a href="https://platform.claude.com/cookbook/tool-use-context-engineering-context-engineering-tools">Context Engineering Tools</a> — Anthropic Cookbook</li>
 <li><a href="https://cdn.openai.com/pdf/5d1e1489-21c0-43e4-9d42-f87efdbf0082/the-shift-to-agentic-ai-evidence-from-codex.pdf">the shift to agentic ai evidence from codex.pdf</a> — cdn.openai.com</li>
-<li><a href="https://www.notboring.co/p/return-on-tokens-rot">return on tokens rot</a> — notboring.co</li>
-<li><a href="https://x.com/brian_armstrong/status/2070670644577280109?s=20">Post by @brian_armstrong</a> — X</li>
+<li><a href="https://www.notboring.co/p/return-on-tokens-rot">Return on Tokens (ROT)</a> — notboring.co</li>
+<li><a href="https://x.com/brian_armstrong/status/2070670644577280109?s=20">Brian Armstrong (@brian_armstrong) on X</a> — X (formerly Twitter)</li>
+<li><a href="https://www.mk.co.kr/news/business/12107558">Maeil Business Newspaper</a> — mk.co.kr</li>
+<li><a href="https://www.hankyung.com/article/2026072556727">The Korea Economic Daily</a> — hankyung.com</li>
+<li><a href="https://www.yna.co.kr/view/AKR20260731102700008">Yonhap News Agency</a> — yna.co.kr</li>
+<li><a href="https://www.yna.co.kr/view/AKR20260801014400008">Yonhap News Agency</a> — yna.co.kr</li>
 </ul>
 </details>
