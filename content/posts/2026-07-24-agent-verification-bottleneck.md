@@ -102,7 +102,7 @@ graph TD
 한줄 코멘트로 전체 논지를 압축해 본다. 신뢰는 막연한 감정이지만 검증 가능성은 구조적으로 설계할 수 있으며, 이 구조를 먼저 장악한 기업만이 생성 에이전트라는 가속 페달을 마음껏 밟을 수 있을 것 같다.
 
 <details class="sources">
-<summary>참고 자료 (11) — Daniel Vaughan · Scott Logic · arXiv · AppSec Santa · Ventureburn · Thinking Inc · Generative Labs · Cloudflare · Daniel Keller · stratechery.com</summary>
+<summary>참고 자료 (11) — Daniel Vaughan · Scott Logic · arXiv · AppSec Santa · Ventureburn · Thinking Inc · Generative Labs · Cloudflare · Daniel Keller · Stratechery by Ben Thompson</summary>
 <ul>
 <li><a href="https://codex.danielvaughan.com/2026/05/24/human-review-bottleneck-code-review-strategies-agent-output/">Human Review Bottleneck: Code Review Strategies for Agent Output</a> — Daniel Vaughan, 2026-05-24</li>
 <li><a href="https://blog.scottlogic.com/2026/05/14/the-human-bottleneck.html">The Human Bottleneck</a> — Scott Logic, 2026-05-14</li>
@@ -114,6 +114,6 @@ graph TD
 <li><a href="https://www.generativelabs.com/insights/ai-code-review-control-point">AI Code Review Control Point</a> — Generative Labs</li>
 <li><a href="https://blog.cloudflare.com/ai-code-review/">AI Code Review</a> — Cloudflare</li>
 <li><a href="https://danielkeller.com/tech/verification-not-generation/">Verification Not Generation</a> — Daniel Keller</li>
-<li><a href="https://stratechery.com/2026/muse-image-grok-4-5-alex-karp-on-cnbc/">muse image grok 4 5 alex karp on cnbc</a> — stratechery.com</li>
+<li><a href="https://stratechery.com/2026/muse-image-grok-4-5-alex-karp-on-cnbc/">Muse Image, Grok 4.5, Alex Karp on CNBC</a> — Stratechery by Ben Thompson</li>
 </ul>
 </details>
