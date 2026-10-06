@@ -134,7 +134,7 @@ flowchart TD
 <li><a href="https://blog.naver.com/oracleyongsan/224389521421">결국에는 나를 낮출 때였다(2026. 8. 25)</a> — 네이버 블로그 | 생각 좀 하며 세상을 보자</li>
 <li><a href="https://stratechery.com/2026/openai-does-math-reward-hacking-meta-launches-personal-agent/">OpenAI Does Math, Reward-Hacking, Meta Launches Personal Agent</a> — Stratechery by Ben Thompson</li>
 <li><a href="https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/">Introducing Muse: The World’s First Personal AI Agent Built for Everyone</a> — Meta Newsroom</li>
-<li>모니시 파브라이 인터뷰 녹취(번역) — 원 링크 미기록</li>
+<li>모니시 파브라이 인터뷰(녹취 번역) — 인터뷰</li>
 <li>성필규(알바트로스), 『돈을 이기는 법』 — 도서</li>
 </ul>
 </details>
