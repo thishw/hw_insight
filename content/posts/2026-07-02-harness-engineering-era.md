@@ -61,7 +61,7 @@ Agent = Model + Harness
 에이전트는 한 번에 쭉 실행되지 않는다. 이런 순환 구조 안에서 돈다.
 
 ```mermaid
-flowchart LR
+flowchart TD
     A([목표 수신]) --> B[계획 Plan]
     B --> C[도구 사용 Tool Use]
     C --> D[관찰 Observe]
