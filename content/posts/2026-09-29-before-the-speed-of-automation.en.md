@@ -91,12 +91,12 @@ In an era of seismic change, fear can arrive before reality, and market prices c
 **One-line comment.** Rather than chasing an overpriced ticket for the automation express, it is better to first develop the ability to transfer to any train.
 
 <details class="sources">
-<summary>References (5) — International Labour Organization · World Economic Forum · meta.com · bloomberg.com · Naver</summary>
+<summary>References (5) — International Labour Organization · World Economic Forum · meta.com · Bloomberg.com · Naver</summary>
 <ul>
 <li><a href="https://www.ilo.org/publications/generative-ai-and-jobs-2025-update">Generative AI and Jobs: A 2025 Update</a> — International Labour Organization, May 20, 2025</li>
 <li><a href="https://www.weforum.org/publications/the-future-of-jobs-report-2025/digest/">The Future of Jobs Report 2025</a> — World Economic Forum, January 7, 2025</li>
 <li><a href="https://www.meta.com/thefutureisforeveryone/">The Future is for Everyone</a> — meta.com, 2026-08-10</li>
-<li><a href="https://www.bloomberg.com/news/articles/2026-07-01/meta-is-building-a-cloud-business-to-sell-excess-ai-compute">meta is building a cloud business to sell excess ai compute</a> — bloomberg.com</li>
+<li><a href="https://www.bloomberg.com/news/articles/2026-07-01/meta-is-building-a-cloud-business-to-sell-excess-ai-compute">Meta Is Planning a Cloud Business to Sell AI Computing Power</a> — Bloomberg.com</li>
 <li><a href="https://blog.naver.com/tmdejr1267/224355806838">Naver blog post</a> — Naver</li>
 </ul>
 </details>
