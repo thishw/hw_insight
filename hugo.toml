@@ -40,6 +40,8 @@ timeZone = "Asia/Seoul"
       pageRef = "/categories/생각/"
       weight = 4
     [languages.ko.params]
+      author_url = "https://insight.thishw.com/about/"
+      label_byline = "글쓴이"
       # 명시 정의는 선택이지만 권장(테마 기본값이 바뀌면 조용히 흔들린다) — 값은
       # 테마가 현재 쓰는 하드코딩 기본값과 동일해 시각적 변화가 없다. 단
       # label_ai_image/label_view_all은 테마 기본값이 우연히 영문이라(각각
@@ -79,6 +81,8 @@ timeZone = "Asia/Seoul"
       pageRef = "/categories/"
       weight = 2
     [languages.en.params]
+      author_url = "https://insight.thishw.com/en/about/"
+      label_byline = "By"
       # WP-10: date_format이 top-level [params]에만 있어 en 페이지 날짜가
       # "2026년 8월 22일"로 렌더됐다 — #160·#162가 막은 것과 **별개 경로**의
       # 한국어 누출이 라이브에 남아 있었다. 테마는 site.Params.date_format을
