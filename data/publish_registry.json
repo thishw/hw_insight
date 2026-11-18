@@ -529,6 +529,29 @@
       "slug_hint": "metered-intelligence",
       "title": "지능의 계량기 시대: 무제한 요금제의 종말과 새로운 비용 역량",
       "url": "https://insight.thishw.com/posts/metered-intelligence/"
+    },
+    {
+      "content_id": "synapse:09542fca-8e8d-461c-a68a-301e5f330570",
+      "gate_version": "1.4.0",
+      "keywords": [
+        "확장 가능한 AI 자동화",
+        "AI 자동화 전략",
+        "업무 프로세스 표준화",
+        "업무 최적화",
+        "반복 업무 자동화",
+        "자동화 경제성",
+        "자동화 순효율",
+        "인간 중심 자동화",
+        "자동화 평가 기준",
+        "AI 우선 조직"
+      ],
+      "language": "ko",
+      "path": "content/posts/2026-11-18-확장-가능한-ai-자동화의-순서와-조건.md",
+      "platform": "github_site",
+      "published_at": "2026-11-18T08:00:01.449491Z",
+      "slug_hint": "확장-가능한-ai-자동화의-순서와-조건",
+      "title": "확장 가능한 AI 자동화의 순서와 조건",
+      "url": "https://insight.thishw.com/posts/확장-가능한-ai-자동화의-순서와-조건/"
     }
   ],
   "version": 1
